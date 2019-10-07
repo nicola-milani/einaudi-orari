@@ -29,7 +29,7 @@ set -f
 
 # done
 
-for f in `find ./Classi -name "*.html"`;do
-mv "$f" "$(basename "$f" .html).php"
-
+for f in `find ./Docenti -name "*.html"`;do
+#mv "$f" ./Docenti/"$(basename "$f" .html).php"
+sed -i '4d' $f
 done
