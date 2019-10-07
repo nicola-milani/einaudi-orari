@@ -83,7 +83,6 @@
 
             </TR>
 
- <?php include '../header.html';?>
 
 
             <TR ALIGN=CENTER VALIGN=MIDDLE>

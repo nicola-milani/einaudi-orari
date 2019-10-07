@@ -83,7 +83,6 @@
 
             <TR ALIGN=CENTER VALIGN=MIDDLE>
 
- <?php include '../header.html';?>
 
 
                 <TD class='mathema' NOWRAP>

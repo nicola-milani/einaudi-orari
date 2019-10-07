@@ -83,7 +83,6 @@
 <BODY>
 
 
- <?php include '../header.html';?>
 
     <center>
         <p class='mathema'>
