@@ -20,7 +20,7 @@
     <div class='header'>
         <?php include 'header.html';?>
     </div>
-    
+
     <div align="center">
         <div class="responsive">
             <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=4>
@@ -40,7 +40,15 @@
                 <tr>
                     <td><A HREF="Classi/3E TUR.html" class='mathema'>3E TUR</A><BR></td>
                 </tr>
-
+                <tr>
+                    <td class='mathema'>
+                      <p> &nbsp</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class='mathema'>
+                    </td>
+                </tr>
             </TABLE>
         </div>
         <div class="responsive">
@@ -61,6 +69,15 @@
                 </tr>
                 <tr>
                     <td><A HREF="Classi/4G TUR.html" class='mathema'>4G TUR</A><BR></td>
+                </tr>
+                <tr>
+                    <td class='mathema'>
+                      <p> &nbsp</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class='mathema'>
+                    </td>
                 </tr>
             </TABLE>
         </div>
@@ -84,6 +101,10 @@
                 </tr>
                 <tr>
                     <td><A HREF="Classi/5G TUR.html" class='mathema'>5G TUR</A><BR></td>
+                </tr>
+                <tr>
+                    <td>
+                    </td>
                 </tr>
             </TABLE>
         </div>

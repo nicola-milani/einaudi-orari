@@ -66,7 +66,15 @@
                 <tr>
                     <td><A HREF="Classi/3C articolata RIM_TUR.html" class='mathema'>3C articolata RIM/TUR</A><BR></td>
                 </tr>
-
+                <tr>
+                    <td class='mathema'>
+                      <p> &nbsp</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class='mathema'>
+                    </td>
+                </tr>
             </TABLE>
         </div>
         <div class="responsive" style="vertical-align: top;">
@@ -91,6 +99,11 @@
                 <tr>
                     <td><A HREF="Classi/4D RIM.html" class='mathema'>4D RIM</A><BR></td>
                 </tr>
+                <tr>
+                    <td class='mathema'>
+                      <p> &nbsp</p>
+                    </td>
+                </tr>
 
             </TABLE>
         </div>
@@ -112,6 +125,14 @@
                 </tr>
                 <tr>
                     <td><A HREF="Classi/5C RIM.html" class='mathema'>5C RIM</A><BR></td>
+                </tr>
+                <tr>
+                    <td class='mathema'>
+                    </td>
+                </tr>
+                <tr>
+                    <td class='mathema'>
+                    </td>
                 </tr>
             </TABLE>
 

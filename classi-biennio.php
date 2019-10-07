@@ -11,35 +11,6 @@
     <META NAME="ROBOTS" CONTENT="index, follow">
     <link href="./style/style.css" rel="stylesheet" type="text/css">
 
-    <!-- <style>
-        .mathema {
-            color: #444444;
-            text-decoration: none;
-            font-family: 'Tahoma';
-            font-size: 8pt;
-            font-weight: normal;
-            font-style: normal;
-        }
-
-        .mathema:hover {
-            text-decoration: none;
-        }
-
-        th,
-        td {
-            text-align: left;
-            padding: 16px;
-        }
-
-        tr:nth-child(even) {
-            background-color: #f2f2f2
-        }
-
-        .responsive {
-            display: inline-block;
-            vertical-align: top;
-        }
-    </style> -->
 </HEAD>
 
 <BODY>
@@ -55,7 +26,6 @@
                     <Th ALIGN=TOP class='mathema'>
                         <b>CLASSI PRIME AFM</b>
                     </Th>
-
                 </tr>
                 <tr>
                     <td><A HREF="Classi/1A AFM.html" class='mathema'>1A AFM</A><BR></td>
@@ -94,6 +64,7 @@
                 <tr>
                     <td><A HREF="Classi/1H TUR.html" class='mathema'>1H TUR</A><BR></td>
                 </tr>
+
             </table>
         </div>
     </div>
@@ -116,6 +87,17 @@
                 </tr>
                 <tr>
                     <td><A HREF="Classi/2C AFM.html" class='mathema'>2C AFM</A><BR></td>
+                </tr>
+                <tr>
+                    <td class='mathema'>
+                        <p> &nbsp</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class='mathema'>
+                    <p> &nbsp</p>
+
+                    </td>
                 </tr>
             </TABLE>
         </div>
@@ -147,7 +129,6 @@
         </div>
 
     </div>
-
 
     <?php include 'footer.html';?>
 </BODY>
