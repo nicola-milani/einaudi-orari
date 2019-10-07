@@ -1,0 +1,111 @@
+A.nodecBlack {
+    color: #000000;
+    text-decoration: none;
+    font-family: 'Tahoma';
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+}
+
+A.nodecBlack:hover {
+    text-decoration: none;
+}
+
+A.nodecWhite {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-family: 'Tahoma';
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+}
+
+A.nodecWhite:hover {
+    text-decoration: none;
+}
+
+.nodecBlack {
+    color: #000000;
+    text-decoration: none;
+    font-family: 'Tahoma';
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.nodecBlack:hover {
+    text-decoration: none;
+}
+
+.nodecWhite {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-family: 'Tahoma';
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.nodecWhite:hover {
+    text-decoration: none;
+}
+
+.mathema {
+    color: #444444;
+    text-decoration: none;
+    font-family: 'Tahoma';
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.mathema:hover {
+    text-decoration: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 0px solid rgba(38, 93, 223, 0.671);
+}
+
+.mathema {
+    color: #444444;
+    text-decoration: none;
+    font-family: 'Tahoma';
+    font-size: 8pt;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.mathema:hover {
+    text-decoration: none;
+}
+
+th,td {
+    text-align: left;
+    padding: 16px;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2
+}
+
+.responsive {
+    display: inline-block;
+    vertical-align: top;
+}
+
+div.header {
+    display: block;
+    text-align: center;
+    position: running(header);
+}
+
+div.footer {
+    display: block;
+    text-align: center;
+    position: running(footer);
+
+}
