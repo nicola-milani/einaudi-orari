@@ -82,6 +82,7 @@
 
 <BODY>
 
+  <?php include '../header.html';?>
 
 
     <center>
@@ -124,7 +125,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFFFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/2E TUR.html" class="nodecBlack">2E TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/2E TUR.php" class="nodecBlack">2E TUR</a></p>
                     <p id='nodecBlack'>SPA L2</p>
 
                 </TD>
@@ -136,7 +137,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFFFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/4C RIM.html" class="nodecBlack">4C RIM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/4C RIM.php" class="nodecBlack">4C RIM</a></p>
                     <p id='nodecBlack'>SPA L2</p>
 
                 </TD>
@@ -156,14 +157,14 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#D0C0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/3D TUR Gruppo SPA 3.html" class="nodecBlack">3D TUR Gruppo SPA
+                    <p id='nodecBlack'><a href="../Classi/3D TUR Gruppo SPA 3.php" class="nodecBlack">3D TUR Gruppo SPA
                             3</a></p>
                     <p id='nodecBlack'>SPA L3</p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFFFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/2E TUR.html" class="nodecBlack">2E TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/2E TUR.php" class="nodecBlack">2E TUR</a></p>
                     <p id='nodecBlack'>SPA L2</p>
 
                 </TD>
@@ -175,7 +176,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFFFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/3E TUR Gruppo SPA 2.html" class="nodecBlack">3E TUR Gruppo SPA
+                    <p id='nodecBlack'><a href="../Classi/3E TUR Gruppo SPA 2.php" class="nodecBlack">3E TUR Gruppo SPA
                             2</a></p>
                     <p id='nodecBlack'>SPA L2</p>
 
@@ -196,8 +197,8 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#D0C0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/5B RIM Gruppo SPA 3.html" class="nodecBlack">5B RIM Gruppo SPA
-                            3</a> - <a href="../Classi/5C RIM Gruppo SPA 3.html" class="nodecBlack">5C RIM Gruppo SPA
+                    <p id='nodecBlack'><a href="../Classi/5B RIM Gruppo SPA 3.php" class="nodecBlack">5B RIM Gruppo SPA
+                            3</a> - <a href="../Classi/5C RIM Gruppo SPA 3.php" class="nodecBlack">5C RIM Gruppo SPA
                             3</a></p>
                     <p id='nodecBlack'>SPA L3</p>
 
@@ -222,7 +223,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFFFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/3E TUR Gruppo SPA 2.html" class="nodecBlack">3E TUR Gruppo SPA
+                    <p id='nodecBlack'><a href="../Classi/3E TUR Gruppo SPA 2.php" class="nodecBlack">3E TUR Gruppo SPA
                             2</a></p>
                     <p id='nodecBlack'>SPA L2</p>
 
@@ -249,7 +250,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#D0C0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/3D TUR Gruppo SPA 3.html" class="nodecBlack">3D TUR Gruppo SPA
+                    <p id='nodecBlack'><a href="../Classi/3D TUR Gruppo SPA 3.php" class="nodecBlack">3D TUR Gruppo SPA
                             3</a></p>
                     <p id='nodecBlack'>SPA L3</p>
 
@@ -262,7 +263,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFFFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/2E TUR.html" class="nodecBlack">2E TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/2E TUR.php" class="nodecBlack">2E TUR</a></p>
                     <p id='nodecBlack'>SPA L2</p>
 
                 </TD>
@@ -276,7 +277,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFFFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/4C RIM.html" class="nodecBlack">4C RIM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/4C RIM.php" class="nodecBlack">4C RIM</a></p>
                     <p id='nodecBlack'>SPA L2</p>
 
                 </TD>
@@ -300,7 +301,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#D0C0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/3D TUR Gruppo SPA 3.html" class="nodecBlack">3D TUR Gruppo SPA
+                    <p id='nodecBlack'><a href="../Classi/3D TUR Gruppo SPA 3.php" class="nodecBlack">3D TUR Gruppo SPA
                             3</a></p>
                     <p id='nodecBlack'>SPA L3</p>
 
@@ -327,8 +328,8 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#D0C0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/5B RIM Gruppo SPA 3.html" class="nodecBlack">5B RIM Gruppo SPA
-                            3</a> - <a href="../Classi/5C RIM Gruppo SPA 3.html" class="nodecBlack">5C RIM Gruppo SPA
+                    <p id='nodecBlack'><a href="../Classi/5B RIM Gruppo SPA 3.php" class="nodecBlack">5B RIM Gruppo SPA
+                            3</a> - <a href="../Classi/5C RIM Gruppo SPA 3.php" class="nodecBlack">5C RIM Gruppo SPA
                             3</a></p>
                     <p id='nodecBlack'>SPA L3</p>
 
@@ -341,8 +342,8 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#D0C0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/5B RIM Gruppo SPA 3.html" class="nodecBlack">5B RIM Gruppo SPA
-                            3</a> - <a href="../Classi/5C RIM Gruppo SPA 3.html" class="nodecBlack">5C RIM Gruppo SPA
+                    <p id='nodecBlack'><a href="../Classi/5B RIM Gruppo SPA 3.php" class="nodecBlack">5B RIM Gruppo SPA
+                            3</a> - <a href="../Classi/5C RIM Gruppo SPA 3.php" class="nodecBlack">5C RIM Gruppo SPA
                             3</a></p>
                     <p id='nodecBlack'>SPA L3</p>
 
@@ -369,7 +370,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFFFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/4C RIM.html" class="nodecBlack">4C RIM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/4C RIM.php" class="nodecBlack">4C RIM</a></p>
                     <p id='nodecBlack'>SPA L2</p>
 
                 </TD>
@@ -407,7 +408,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFFFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/3E TUR Gruppo SPA 2.html" class="nodecBlack">3E TUR Gruppo SPA
+                    <p id='nodecBlack'><a href="../Classi/3E TUR Gruppo SPA 2.php" class="nodecBlack">3E TUR Gruppo SPA
                             2</a></p>
                     <p id='nodecBlack'>SPA L2</p>
 
@@ -432,7 +433,7 @@
 
     <center>
         <p class='mathema'>
-            <a href="../index.html" class='mathema'>[Indice tabelle orario]</a>
+            <a href="../index.php" class='mathema'>[Indice tabelle orario]</a>
             <p>
                 <p class='mathema'>
                     Orario scolastico realizzato con <A HREF="http://www.orariofacile.com" class='mathema'>Orario Facile
@@ -440,4 +441,4 @@
     </center>
 </body>
 
-</html>
+</php>

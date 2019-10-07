@@ -82,6 +82,7 @@
 
 <BODY>
 
+  <?php include '../header.html';?>
 
 
     <center>
@@ -314,19 +315,19 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#C000C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/4D RIM.html" class="nodecWhite">4D RIM</a></p>
+                    <p id='nodecWhite'><a href="../Classi/4D RIM.php" class="nodecWhite">4D RIM</a></p>
                     <p id='nodecWhite'>TED L2</p>
 
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#C000C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/4D RIM.html" class="nodecWhite">4D RIM</a></p>
+                    <p id='nodecWhite'><a href="../Classi/4D RIM.php" class="nodecWhite">4D RIM</a></p>
                     <p id='nodecWhite'>TED L2</p>
 
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#C000C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/4D RIM.html" class="nodecWhite">4D RIM</a></p>
+                    <p id='nodecWhite'><a href="../Classi/4D RIM.php" class="nodecWhite">4D RIM</a></p>
                     <p id='nodecWhite'>TED L2</p>
 
                 </TD>
@@ -420,7 +421,7 @@
 
     <center>
         <p class='mathema'>
-            <a href="../index.html" class='mathema'>[Indice tabelle orario]</a>
+            <a href="../index.php" class='mathema'>[Indice tabelle orario]</a>
             <p>
                 <p class='mathema'>
                     Orario scolastico realizzato con <A HREF="http://www.orariofacile.com" class='mathema'>Orario Facile
@@ -428,4 +429,4 @@
     </center>
 </body>
 
-</html>
+</php>

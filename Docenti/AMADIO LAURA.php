@@ -16,6 +16,7 @@
 </HEAD>
 
 <BODY>
+<?php include '../header.html';?>
 
     <center>
         <p class='mathema'>
@@ -57,7 +58,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#9595FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/1H TUR.html" class="nodecBlack">1H TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/1H TUR.php" class="nodecBlack">1H TUR</a></p>
                     <p id='nodecBlack'>FRANCESE</p>
 
                 </TD>
@@ -69,7 +70,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#9595FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/1H TUR.html" class="nodecBlack">1H TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/1H TUR.php" class="nodecBlack">1H TUR</a></p>
                     <p id='nodecBlack'>FRANCESE</p>
 
                 </TD>
@@ -97,7 +98,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#9595FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/1H TUR.html" class="nodecBlack">1H TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/1H TUR.php" class="nodecBlack">1H TUR</a></p>
                     <p id='nodecBlack'>FRANCESE</p>
 
                 </TD>
@@ -135,7 +136,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#00FF00" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/5B RIM Gruppo FRA 2.html" class="nodecBlack">5B RIM Gruppo FRA
+                    <p id='nodecBlack'><a href="../Classi/5B RIM Gruppo FRA 2.php" class="nodecBlack">5B RIM Gruppo FRA
                             2</a></p>
                     <p id='nodecBlack'>FRA L2</p>
 
@@ -186,7 +187,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#00FF00" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/5B RIM Gruppo FRA 2.html" class="nodecBlack">5B RIM Gruppo FRA
+                    <p id='nodecBlack'><a href="../Classi/5B RIM Gruppo FRA 2.php" class="nodecBlack">5B RIM Gruppo FRA
                             2</a></p>
                     <p id='nodecBlack'>FRA L2</p>
 
@@ -219,7 +220,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#00FF00" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/5B RIM Gruppo FRA 2.html" class="nodecBlack">5B RIM Gruppo FRA
+                    <p id='nodecBlack'><a href="../Classi/5B RIM Gruppo FRA 2.php" class="nodecBlack">5B RIM Gruppo FRA
                             2</a></p>
                     <p id='nodecBlack'>FRA L2</p>
 
@@ -258,7 +259,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#9595FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/1H TUR.html" class="nodecBlack">1H TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/1H TUR.php" class="nodecBlack">1H TUR</a></p>
                     <p id='nodecBlack'>FRANCESE</p>
 
                 </TD>
@@ -358,7 +359,7 @@
 
     <center>
         <p class='mathema'>
-            <a href="../index.html" class='mathema'>[Indice tabelle orario]</a>
+            <a href="../index.php" class='mathema'>[Indice tabelle orario]</a>
             <p>
                 <p class='mathema'>
                     Orario scolastico realizzato con <A HREF="http://www.orariofacile.com" class='mathema'>Orario Facile
@@ -366,4 +367,4 @@
     </center>
 </body>
 
-</html>
+</php>

@@ -16,21 +16,20 @@ set -f
 #done
 
 
-for f in `find ./Docenti -name "*.php"`;do
-echo $f
- ed $f << END
- 85i
+# for f in `find ./Docenti -name "*.php"`;do
+# echo $f
+# ed $f << END
+# 85i
+#   <?php include '../header.html';?>
+# .
+# w
+# q
+# END
 
-  <?php include '../header.html';?>
-
- .
- w
- q
-END
-
-done
+# done
 
 # for f in `find ./Docenti -name "*.php"`;do
 # #mv "$f" ./Docenti/"$(basename "$f" .html).php"
 # sed -i '86d' $f
 # done
+sed -i 's/html/php/g' ./Docenti/*

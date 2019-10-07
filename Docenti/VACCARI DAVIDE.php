@@ -82,6 +82,7 @@
 
 <BODY>
 
+  <?php include '../header.html';?>
 
 
     <center>
@@ -136,7 +137,7 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#FF5151" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/1F TUR.html" class="nodecWhite">1F TUR</a></p>
+                    <p id='nodecWhite'><a href="../Classi/1F TUR.php" class="nodecWhite">1F TUR</a></p>
                     <p id='nodecWhite'>INFORMATICA</p>
 
                 </TD>
@@ -212,7 +213,7 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#FF5151" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/1H TUR.html" class="nodecWhite">1H TUR</a></p>
+                    <p id='nodecWhite'><a href="../Classi/1H TUR.php" class="nodecWhite">1H TUR</a></p>
                     <p id='nodecWhite'>INFORMATICA</p>
 
                 </TD>
@@ -288,7 +289,7 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#FF5151" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/1F TUR.html" class="nodecWhite">1F TUR</a></p>
+                    <p id='nodecWhite'><a href="../Classi/1F TUR.php" class="nodecWhite">1F TUR</a></p>
                     <p id='nodecWhite'>INFORMATICA</p>
 
                 </TD>
@@ -326,7 +327,7 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#FF5151" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/1H TUR.html" class="nodecWhite">1H TUR</a></p>
+                    <p id='nodecWhite'><a href="../Classi/1H TUR.php" class="nodecWhite">1H TUR</a></p>
                     <p id='nodecWhite'>INFORMATICA</p>
 
                 </TD>
@@ -420,7 +421,7 @@
 
     <center>
         <p class='mathema'>
-            <a href="../index.html" class='mathema'>[Indice tabelle orario]</a>
+            <a href="../index.php" class='mathema'>[Indice tabelle orario]</a>
             <p>
                 <p class='mathema'>
                     Orario scolastico realizzato con <A HREF="http://www.orariofacile.com" class='mathema'>Orario Facile
@@ -428,4 +429,4 @@
     </center>
 </body>
 
-</html>
+</php>

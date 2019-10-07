@@ -82,6 +82,7 @@
 
 <BODY>
 
+  <?php include '../header.html';?>
 
 
     <center>
@@ -156,7 +157,7 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/5F TUR.html" class="nodecWhite">5F TUR</a></p>
+                    <p id='nodecWhite'><a href="../Classi/5F TUR.php" class="nodecWhite">5F TUR</a></p>
                     <p id='nodecWhite'>DIRITTO E LEGISL. TURIST.</p>
 
                 </TD>
@@ -180,7 +181,7 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/4E TUR.html" class="nodecWhite">4E TUR</a></p>
+                    <p id='nodecWhite'><a href="../Classi/4E TUR.php" class="nodecWhite">4E TUR</a></p>
                     <p id='nodecWhite'>DIRITTO E LEGISL. TURIST.</p>
 
                 </TD>
@@ -194,7 +195,7 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/3D TUR.html" class="nodecWhite">3D TUR</a></p>
+                    <p id='nodecWhite'><a href="../Classi/3D TUR.php" class="nodecWhite">3D TUR</a></p>
                     <p id='nodecWhite'>DIRITTO E LEGISL. TURIST.</p>
 
                 </TD>
@@ -212,7 +213,7 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/3D TUR.html" class="nodecWhite">3D TUR</a></p>
+                    <p id='nodecWhite'><a href="../Classi/3D TUR.php" class="nodecWhite">3D TUR</a></p>
                     <p id='nodecWhite'>DIRITTO E LEGISL. TURIST.</p>
 
                 </TD>
@@ -232,7 +233,7 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/4E TUR.html" class="nodecWhite">4E TUR</a></p>
+                    <p id='nodecWhite'><a href="../Classi/4E TUR.php" class="nodecWhite">4E TUR</a></p>
                     <p id='nodecWhite'>DIRITTO E LEGISL. TURIST.</p>
 
                 </TD>
@@ -250,7 +251,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#C0C000" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/2H TUR.html" class="nodecBlack">2H TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/2H TUR.php" class="nodecBlack">2H TUR</a></p>
                     <p id='nodecBlack'>DIRITTO E ECONOMIA</p>
 
                 </TD>
@@ -270,31 +271,31 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/4F TUR.html" class="nodecWhite">4F TUR</a></p>
+                    <p id='nodecWhite'><a href="../Classi/4F TUR.php" class="nodecWhite">4F TUR</a></p>
                     <p id='nodecWhite'>DIRITTO E LEGISL. TURIST.</p>
 
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/4E TUR.html" class="nodecWhite">4E TUR</a></p>
+                    <p id='nodecWhite'><a href="../Classi/4E TUR.php" class="nodecWhite">4E TUR</a></p>
                     <p id='nodecWhite'>DIRITTO E LEGISL. TURIST.</p>
 
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/3D TUR.html" class="nodecWhite">3D TUR</a></p>
+                    <p id='nodecWhite'><a href="../Classi/3D TUR.php" class="nodecWhite">3D TUR</a></p>
                     <p id='nodecWhite'>DIRITTO E LEGISL. TURIST.</p>
 
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/5F TUR.html" class="nodecWhite">5F TUR</a></p>
+                    <p id='nodecWhite'><a href="../Classi/5F TUR.php" class="nodecWhite">5F TUR</a></p>
                     <p id='nodecWhite'>DIRITTO E LEGISL. TURIST.</p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#C0C000" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/2H TUR.html" class="nodecBlack">2H TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/2H TUR.php" class="nodecBlack">2H TUR</a></p>
                     <p id='nodecBlack'>DIRITTO E ECONOMIA</p>
 
                 </TD>
@@ -314,13 +315,13 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/5F TUR.html" class="nodecWhite">5F TUR</a></p>
+                    <p id='nodecWhite'><a href="../Classi/5F TUR.php" class="nodecWhite">5F TUR</a></p>
                     <p id='nodecWhite'>DIRITTO E LEGISL. TURIST.</p>
 
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/4F TUR.html" class="nodecWhite">4F TUR</a></p>
+                    <p id='nodecWhite'><a href="../Classi/4F TUR.php" class="nodecWhite">4F TUR</a></p>
                     <p id='nodecWhite'>DIRITTO E LEGISL. TURIST.</p>
 
                 </TD>
@@ -332,7 +333,7 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/4F TUR.html" class="nodecWhite">4F TUR</a></p>
+                    <p id='nodecWhite'><a href="../Classi/4F TUR.php" class="nodecWhite">4F TUR</a></p>
                     <p id='nodecWhite'>DIRITTO E LEGISL. TURIST.</p>
 
                 </TD>
@@ -420,7 +421,7 @@
 
     <center>
         <p class='mathema'>
-            <a href="../index.html" class='mathema'>[Indice tabelle orario]</a>
+            <a href="../index.php" class='mathema'>[Indice tabelle orario]</a>
             <p>
                 <p class='mathema'>
                     Orario scolastico realizzato con <A HREF="http://www.orariofacile.com" class='mathema'>Orario Facile
@@ -428,4 +429,4 @@
     </center>
 </body>
 
-</html>
+</php>

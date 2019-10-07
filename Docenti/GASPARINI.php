@@ -82,6 +82,7 @@
 
 <BODY>
 
+  <?php include '../header.html';?>
 
 
     <center>
@@ -118,19 +119,19 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#0080E0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/5G TUR.html" class="nodecWhite">5G TUR</a></p>
+                    <p id='nodecWhite'><a href="../Classi/5G TUR.php" class="nodecWhite">5G TUR</a></p>
                     <p id='nodecWhite'>ARTE E TERRITORIO</p>
 
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#0080E0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/5D TUR.html" class="nodecWhite">5D TUR</a></p>
+                    <p id='nodecWhite'><a href="../Classi/5D TUR.php" class="nodecWhite">5D TUR</a></p>
                     <p id='nodecWhite'>ARTE E TERRITORIO</p>
 
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#0080E0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/5G TUR.html" class="nodecWhite">5G TUR</a></p>
+                    <p id='nodecWhite'><a href="../Classi/5G TUR.php" class="nodecWhite">5G TUR</a></p>
                     <p id='nodecWhite'>ARTE E TERRITORIO</p>
 
                 </TD>
@@ -168,13 +169,13 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#0080E0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/3D TUR.html" class="nodecWhite">3D TUR</a></p>
+                    <p id='nodecWhite'><a href="../Classi/3D TUR.php" class="nodecWhite">3D TUR</a></p>
                     <p id='nodecWhite'>ARTE E TERRITORIO</p>
 
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#0080E0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/4G TUR.html" class="nodecWhite">4G TUR</a></p>
+                    <p id='nodecWhite'><a href="../Classi/4G TUR.php" class="nodecWhite">4G TUR</a></p>
                     <p id='nodecWhite'>ARTE E TERRITORIO</p>
 
                 </TD>
@@ -282,7 +283,7 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#0080E0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/4G TUR.html" class="nodecWhite">4G TUR</a></p>
+                    <p id='nodecWhite'><a href="../Classi/4G TUR.php" class="nodecWhite">4G TUR</a></p>
                     <p id='nodecWhite'>ARTE E TERRITORIO</p>
 
                 </TD>
@@ -332,7 +333,7 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#0080E0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/3D TUR.html" class="nodecWhite">3D TUR</a></p>
+                    <p id='nodecWhite'><a href="../Classi/3D TUR.php" class="nodecWhite">3D TUR</a></p>
                     <p id='nodecWhite'>ARTE E TERRITORIO</p>
 
                 </TD>
@@ -408,7 +409,7 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#0080E0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/5D TUR.html" class="nodecWhite">5D TUR</a></p>
+                    <p id='nodecWhite'><a href="../Classi/5D TUR.php" class="nodecWhite">5D TUR</a></p>
                     <p id='nodecWhite'>ARTE E TERRITORIO</p>
 
                 </TD>
@@ -420,7 +421,7 @@
 
     <center>
         <p class='mathema'>
-            <a href="../index.html" class='mathema'>[Indice tabelle orario]</a>
+            <a href="../index.php" class='mathema'>[Indice tabelle orario]</a>
             <p>
                 <p class='mathema'>
                     Orario scolastico realizzato con <A HREF="http://www.orariofacile.com" class='mathema'>Orario Facile
@@ -428,4 +429,4 @@
     </center>
 </body>
 
-</html>
+</php>

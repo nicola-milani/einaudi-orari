@@ -82,6 +82,7 @@
 
 <BODY>
 
+  <?php include '../header.html';?>
 
 
     <center>
@@ -124,7 +125,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#A0FFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/4F TUR.html" class="nodecBlack">4F TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/4F TUR.php" class="nodecBlack">4F TUR</a></p>
                     <p id='nodecBlack'>GEOGRAFIA TURISTICA</p>
 
                 </TD>
@@ -136,13 +137,13 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#C0E0E0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/2B AFM.html" class="nodecBlack">2B AFM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/2B AFM.php" class="nodecBlack">2B AFM</a></p>
                     <p id='nodecBlack'>GEOGRAFIA</p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#A0FFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/4E TUR.html" class="nodecBlack">4E TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/4E TUR.php" class="nodecBlack">4E TUR</a></p>
                     <p id='nodecBlack'>GEOGRAFIA TURISTICA</p>
 
                 </TD>
@@ -162,25 +163,25 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#A0FFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/5G TUR.html" class="nodecBlack">5G TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/5G TUR.php" class="nodecBlack">5G TUR</a></p>
                     <p id='nodecBlack'>GEOGRAFIA TURISTICA</p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#C0E0E0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/1C AFM.html" class="nodecBlack">1C AFM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/1C AFM.php" class="nodecBlack">1C AFM</a></p>
                     <p id='nodecBlack'>GEOGRAFIA</p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#C0E0E0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/2C AFM.html" class="nodecBlack">2C AFM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/2C AFM.php" class="nodecBlack">2C AFM</a></p>
                     <p id='nodecBlack'>GEOGRAFIA</p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#A0FFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/5D TUR.html" class="nodecBlack">5D TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/5D TUR.php" class="nodecBlack">5D TUR</a></p>
                     <p id='nodecBlack'>GEOGRAFIA TURISTICA</p>
 
                 </TD>
@@ -200,13 +201,13 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#A0FFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/3D TUR.html" class="nodecBlack">3D TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/3D TUR.php" class="nodecBlack">3D TUR</a></p>
                     <p id='nodecBlack'>GEOGRAFIA TURISTICA</p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#A0FFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/4E TUR.html" class="nodecBlack">4E TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/4E TUR.php" class="nodecBlack">4E TUR</a></p>
                     <p id='nodecBlack'>GEOGRAFIA TURISTICA</p>
 
                 </TD>
@@ -218,7 +219,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#C0E0E0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/2C AFM.html" class="nodecBlack">2C AFM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/2C AFM.php" class="nodecBlack">2C AFM</a></p>
                     <p id='nodecBlack'>GEOGRAFIA</p>
 
                 </TD>
@@ -244,7 +245,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#A0FFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/5G TUR.html" class="nodecBlack">5G TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/5G TUR.php" class="nodecBlack">5G TUR</a></p>
                     <p id='nodecBlack'>GEOGRAFIA TURISTICA</p>
 
                 </TD>
@@ -276,7 +277,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#C0E0E0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/2B AFM.html" class="nodecBlack">2B AFM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/2B AFM.php" class="nodecBlack">2B AFM</a></p>
                     <p id='nodecBlack'>GEOGRAFIA</p>
 
                 </TD>
@@ -294,7 +295,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#A0FFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/4F TUR.html" class="nodecBlack">4F TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/4F TUR.php" class="nodecBlack">4F TUR</a></p>
                     <p id='nodecBlack'>GEOGRAFIA TURISTICA</p>
 
                 </TD>
@@ -308,19 +309,19 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#A0FFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/5D TUR.html" class="nodecBlack">5D TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/5D TUR.php" class="nodecBlack">5D TUR</a></p>
                     <p id='nodecBlack'>GEOGRAFIA TURISTICA</p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#C0E0E0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/2C AFM.html" class="nodecBlack">2C AFM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/2C AFM.php" class="nodecBlack">2C AFM</a></p>
                     <p id='nodecBlack'>GEOGRAFIA</p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#A0FFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/3D TUR.html" class="nodecBlack">3D TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/3D TUR.php" class="nodecBlack">3D TUR</a></p>
                     <p id='nodecBlack'>GEOGRAFIA TURISTICA</p>
 
                 </TD>
@@ -346,7 +347,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#C0E0E0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/2B AFM.html" class="nodecBlack">2B AFM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/2B AFM.php" class="nodecBlack">2B AFM</a></p>
                     <p id='nodecBlack'>GEOGRAFIA</p>
 
                 </TD>
@@ -384,7 +385,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#C0E0E0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/1C AFM.html" class="nodecBlack">1C AFM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/1C AFM.php" class="nodecBlack">1C AFM</a></p>
                     <p id='nodecBlack'>GEOGRAFIA</p>
 
                 </TD>
@@ -420,7 +421,7 @@
 
     <center>
         <p class='mathema'>
-            <a href="../index.html" class='mathema'>[Indice tabelle orario]</a>
+            <a href="../index.php" class='mathema'>[Indice tabelle orario]</a>
             <p>
                 <p class='mathema'>
                     Orario scolastico realizzato con <A HREF="http://www.orariofacile.com" class='mathema'>Orario Facile
@@ -428,4 +429,4 @@
     </center>
 </body>
 
-</html>
+</php>

@@ -82,6 +82,7 @@
 
 <BODY>
 
+  <?php include '../header.html';?>
 
 
     <center>
@@ -130,7 +131,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFA0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/3A RIM.html" class="nodecBlack">3A RIM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/3A RIM.php" class="nodecBlack">3A RIM</a></p>
                     <p id='nodecBlack'>INGLESE</p>
 
                 </TD>
@@ -142,7 +143,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFA0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/3A RIM.html" class="nodecBlack">3A RIM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/3A RIM.php" class="nodecBlack">3A RIM</a></p>
                     <p id='nodecBlack'>INGLESE</p>
 
                 </TD>
@@ -180,7 +181,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFA0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/5A RIM.html" class="nodecBlack">5A RIM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/5A RIM.php" class="nodecBlack">5A RIM</a></p>
                     <p id='nodecBlack'>INGLESE</p>
 
                 </TD>
@@ -200,7 +201,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFA0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/3C articolata RIM_TUR.html" class="nodecBlack">3C articolata
+                    <p id='nodecBlack'><a href="../Classi/3C articolata RIM_TUR.php" class="nodecBlack">3C articolata
                             RIM/TUR</a></p>
                     <p id='nodecBlack'>INGLESE</p>
 
@@ -251,7 +252,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFA0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/3C articolata RIM_TUR.html" class="nodecBlack">3C articolata
+                    <p id='nodecBlack'><a href="../Classi/3C articolata RIM_TUR.php" class="nodecBlack">3C articolata
                             RIM/TUR</a></p>
                     <p id='nodecBlack'>INGLESE</p>
 
@@ -272,7 +273,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFA0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/5A RIM.html" class="nodecBlack">5A RIM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/5A RIM.php" class="nodecBlack">5A RIM</a></p>
                     <p id='nodecBlack'>INGLESE</p>
 
                 </TD>
@@ -310,14 +311,14 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFA0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/3C articolata RIM_TUR.html" class="nodecBlack">3C articolata
+                    <p id='nodecBlack'><a href="../Classi/3C articolata RIM_TUR.php" class="nodecBlack">3C articolata
                             RIM/TUR</a></p>
                     <p id='nodecBlack'>INGLESE</p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFA0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/3A RIM.html" class="nodecBlack">3A RIM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/3A RIM.php" class="nodecBlack">3A RIM</a></p>
                     <p id='nodecBlack'>INGLESE</p>
 
                 </TD>
@@ -329,7 +330,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFA0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/5A RIM.html" class="nodecBlack">5A RIM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/5A RIM.php" class="nodecBlack">5A RIM</a></p>
                     <p id='nodecBlack'>INGLESE</p>
 
                 </TD>
@@ -423,7 +424,7 @@
 
     <center>
         <p class='mathema'>
-            <a href="../index.html" class='mathema'>[Indice tabelle orario]</a>
+            <a href="../index.php" class='mathema'>[Indice tabelle orario]</a>
             <p>
                 <p class='mathema'>
                     Orario scolastico realizzato con <A HREF="http://www.orariofacile.com" class='mathema'>Orario Facile
@@ -431,4 +432,4 @@
     </center>
 </body>
 
-</html>
+</php>

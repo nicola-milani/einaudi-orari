@@ -82,6 +82,7 @@
 
 <BODY>
 
+  <?php include '../header.html';?>
 
 
     <center>
@@ -118,8 +119,8 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFA000" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/4F TUR Gruppo FRA 3.html" class="nodecBlack">4F TUR Gruppo FRA
-                            3</a> - <a href="../Classi/4G TUR Gruppo FRA 3.html" class="nodecBlack">4G TUR Gruppo FRA
+                    <p id='nodecBlack'><a href="../Classi/4F TUR Gruppo FRA 3.php" class="nodecBlack">4F TUR Gruppo FRA
+                            3</a> - <a href="../Classi/4G TUR Gruppo FRA 3.php" class="nodecBlack">4G TUR Gruppo FRA
                             3</a></p>
                     <p id='nodecBlack'>FRA L3</p>
 
@@ -138,8 +139,8 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFA000" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/5E TUR Gruppo FRA 3.html" class="nodecBlack">5E TUR Gruppo FRA
-                            3</a> - <a href="../Classi/5G TUR Gruppo FRA 3.html" class="nodecBlack">5G TUR Gruppo FRA
+                    <p id='nodecBlack'><a href="../Classi/5E TUR Gruppo FRA 3.php" class="nodecBlack">5E TUR Gruppo FRA
+                            3</a> - <a href="../Classi/5G TUR Gruppo FRA 3.php" class="nodecBlack">5G TUR Gruppo FRA
                             3</a></p>
                     <p id='nodecBlack'>FRA L3</p>
 
@@ -160,7 +161,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFA000" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/3E TUR Gruppo FRA 3.html" class="nodecBlack">3E TUR Gruppo FRA
+                    <p id='nodecBlack'><a href="../Classi/3E TUR Gruppo FRA 3.php" class="nodecBlack">3E TUR Gruppo FRA
                             3</a></p>
                     <p id='nodecBlack'>FRA L3</p>
 
@@ -173,15 +174,15 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFA000" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/5E TUR Gruppo FRA 3.html" class="nodecBlack">5E TUR Gruppo FRA
-                            3</a> - <a href="../Classi/5G TUR Gruppo FRA 3.html" class="nodecBlack">5G TUR Gruppo FRA
+                    <p id='nodecBlack'><a href="../Classi/5E TUR Gruppo FRA 3.php" class="nodecBlack">5E TUR Gruppo FRA
+                            3</a> - <a href="../Classi/5G TUR Gruppo FRA 3.php" class="nodecBlack">5G TUR Gruppo FRA
                             3</a></p>
                     <p id='nodecBlack'>FRA L3</p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#00FF00" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/3D TUR Gruppo FRA 2.html" class="nodecBlack">3D TUR Gruppo FRA
+                    <p id='nodecBlack'><a href="../Classi/3D TUR Gruppo FRA 2.php" class="nodecBlack">3D TUR Gruppo FRA
                             2</a></p>
                     <p id='nodecBlack'>FRA L2</p>
 
@@ -214,22 +215,22 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFA000" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/4F TUR Gruppo FRA 3.html" class="nodecBlack">4F TUR Gruppo FRA
-                            3</a> - <a href="../Classi/4G TUR Gruppo FRA 3.html" class="nodecBlack">4G TUR Gruppo FRA
+                    <p id='nodecBlack'><a href="../Classi/4F TUR Gruppo FRA 3.php" class="nodecBlack">4F TUR Gruppo FRA
+                            3</a> - <a href="../Classi/4G TUR Gruppo FRA 3.php" class="nodecBlack">4G TUR Gruppo FRA
                             3</a></p>
                     <p id='nodecBlack'>FRA L3</p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#00FF00" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/4G TUR Gruppo FRA 2.html" class="nodecBlack">4G TUR Gruppo FRA
+                    <p id='nodecBlack'><a href="../Classi/4G TUR Gruppo FRA 2.php" class="nodecBlack">4G TUR Gruppo FRA
                             2</a></p>
                     <p id='nodecBlack'>FRA L2</p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#00FF00" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/3D TUR Gruppo FRA 2.html" class="nodecBlack">3D TUR Gruppo FRA
+                    <p id='nodecBlack'><a href="../Classi/3D TUR Gruppo FRA 2.php" class="nodecBlack">3D TUR Gruppo FRA
                             2</a></p>
                     <p id='nodecBlack'>FRA L2</p>
 
@@ -256,7 +257,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFA000" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/3E TUR Gruppo FRA 3.html" class="nodecBlack">3E TUR Gruppo FRA
+                    <p id='nodecBlack'><a href="../Classi/3E TUR Gruppo FRA 3.php" class="nodecBlack">3E TUR Gruppo FRA
                             3</a></p>
                     <p id='nodecBlack'>FRA L3</p>
 
@@ -269,8 +270,8 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFA000" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/5E TUR Gruppo FRA 3.html" class="nodecBlack">5E TUR Gruppo FRA
-                            3</a> - <a href="../Classi/5G TUR Gruppo FRA 3.html" class="nodecBlack">5G TUR Gruppo FRA
+                    <p id='nodecBlack'><a href="../Classi/5E TUR Gruppo FRA 3.php" class="nodecBlack">5E TUR Gruppo FRA
+                            3</a> - <a href="../Classi/5G TUR Gruppo FRA 3.php" class="nodecBlack">5G TUR Gruppo FRA
                             3</a></p>
                     <p id='nodecBlack'>FRA L3</p>
 
@@ -291,7 +292,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#00FF00" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/4G TUR Gruppo FRA 2.html" class="nodecBlack">4G TUR Gruppo FRA
+                    <p id='nodecBlack'><a href="../Classi/4G TUR Gruppo FRA 2.php" class="nodecBlack">4G TUR Gruppo FRA
                             2</a></p>
                     <p id='nodecBlack'>FRA L2</p>
 
@@ -310,7 +311,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFA000" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/3E TUR Gruppo FRA 3.html" class="nodecBlack">3E TUR Gruppo FRA
+                    <p id='nodecBlack'><a href="../Classi/3E TUR Gruppo FRA 3.php" class="nodecBlack">3E TUR Gruppo FRA
                             3</a></p>
                     <p id='nodecBlack'>FRA L3</p>
 
@@ -331,7 +332,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#9595FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/4B RIM.html" class="nodecBlack">4B RIM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/4B RIM.php" class="nodecBlack">4B RIM</a></p>
                     <p id='nodecBlack'>FRANCESE</p>
 
                 </TD>
@@ -349,7 +350,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#9595FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/4B RIM.html" class="nodecBlack">4B RIM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/4B RIM.php" class="nodecBlack">4B RIM</a></p>
                     <p id='nodecBlack'>FRANCESE</p>
 
                 </TD>
@@ -375,7 +376,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#9595FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/4B RIM.html" class="nodecBlack">4B RIM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/4B RIM.php" class="nodecBlack">4B RIM</a></p>
                     <p id='nodecBlack'>FRANCESE</p>
 
                 </TD>
@@ -387,7 +388,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#00FF00" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/4G TUR Gruppo FRA 2.html" class="nodecBlack">4G TUR Gruppo FRA
+                    <p id='nodecBlack'><a href="../Classi/4G TUR Gruppo FRA 2.php" class="nodecBlack">4G TUR Gruppo FRA
                             2</a></p>
                     <p id='nodecBlack'>FRA L2</p>
 
@@ -414,7 +415,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#00FF00" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/3D TUR Gruppo FRA 2.html" class="nodecBlack">3D TUR Gruppo FRA
+                    <p id='nodecBlack'><a href="../Classi/3D TUR Gruppo FRA 2.php" class="nodecBlack">3D TUR Gruppo FRA
                             2</a></p>
                     <p id='nodecBlack'>FRA L2</p>
 
@@ -427,8 +428,8 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFA000" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/4F TUR Gruppo FRA 3.html" class="nodecBlack">4F TUR Gruppo FRA
-                            3</a> - <a href="../Classi/4G TUR Gruppo FRA 3.html" class="nodecBlack">4G TUR Gruppo FRA
+                    <p id='nodecBlack'><a href="../Classi/4F TUR Gruppo FRA 3.php" class="nodecBlack">4F TUR Gruppo FRA
+                            3</a> - <a href="../Classi/4G TUR Gruppo FRA 3.php" class="nodecBlack">4G TUR Gruppo FRA
                             3</a></p>
                     <p id='nodecBlack'>FRA L3</p>
 
@@ -441,7 +442,7 @@
 
     <center>
         <p class='mathema'>
-            <a href="../index.html" class='mathema'>[Indice tabelle orario]</a>
+            <a href="../index.php" class='mathema'>[Indice tabelle orario]</a>
             <p>
                 <p class='mathema'>
                     Orario scolastico realizzato con <A HREF="http://www.orariofacile.com" class='mathema'>Orario Facile
@@ -449,4 +450,4 @@
     </center>
 </body>
 
-</html>
+</php>

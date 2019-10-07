@@ -82,6 +82,7 @@
 
 <BODY>
 
+  <?php include '../header.html';?>
 
 
     <center>
@@ -118,8 +119,8 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#FF0080" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/4F TUR Gruppo CIN 3.html" class="nodecWhite">4F TUR Gruppo CIN
-                            3</a> - <a href="../Classi/4G TUR Gruppo CIN 3.html" class="nodecWhite">4G TUR Gruppo CIN
+                    <p id='nodecWhite'><a href="../Classi/4F TUR Gruppo CIN 3.php" class="nodecWhite">4F TUR Gruppo CIN
+                            3</a> - <a href="../Classi/4G TUR Gruppo CIN 3.php" class="nodecWhite">4G TUR Gruppo CIN
                             3</a></p>
                     <p id='nodecWhite'>CIN L3</p>
 
@@ -138,8 +139,8 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#FF0080" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/5D TUR Gruppo CIN 3.html" class="nodecWhite">5D TUR Gruppo CIN
-                            3</a> - <a href="../Classi/5F TUR Gruppo CIN 3.html" class="nodecWhite">5F TUR Gruppo CIN
+                    <p id='nodecWhite'><a href="../Classi/5D TUR Gruppo CIN 3.php" class="nodecWhite">5D TUR Gruppo CIN
+                            3</a> - <a href="../Classi/5F TUR Gruppo CIN 3.php" class="nodecWhite">5F TUR Gruppo CIN
                             3</a></p>
                     <p id='nodecWhite'>CIN L3</p>
 
@@ -160,10 +161,10 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#FF0080" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/3A RIM Gruppo CIN 3.html" class="nodecWhite">3A RIM Gruppo CIN
-                            3</a> - <a href="../Classi/3B RIM Gruppo CIN 3.html" class="nodecWhite">3B RIM Gruppo CIN
-                            3</a> - <a href="../Classi/3C RIM Gruppo CIN 3.html" class="nodecWhite">3C RIM Gruppo CIN
-                            3</a> - <a href="../Classi/3E TUR Gruppo CIN 3.html" class="nodecWhite">3E TUR Gruppo CIN
+                    <p id='nodecWhite'><a href="../Classi/3A RIM Gruppo CIN 3.php" class="nodecWhite">3A RIM Gruppo CIN
+                            3</a> - <a href="../Classi/3B RIM Gruppo CIN 3.php" class="nodecWhite">3B RIM Gruppo CIN
+                            3</a> - <a href="../Classi/3C RIM Gruppo CIN 3.php" class="nodecWhite">3C RIM Gruppo CIN
+                            3</a> - <a href="../Classi/3E TUR Gruppo CIN 3.php" class="nodecWhite">3E TUR Gruppo CIN
                             3</a></p>
                     <p id='nodecWhite'>CIN L3</p>
 
@@ -176,8 +177,8 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#FF0080" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/5D TUR Gruppo CIN 3.html" class="nodecWhite">5D TUR Gruppo CIN
-                            3</a> - <a href="../Classi/5F TUR Gruppo CIN 3.html" class="nodecWhite">5F TUR Gruppo CIN
+                    <p id='nodecWhite'><a href="../Classi/5D TUR Gruppo CIN 3.php" class="nodecWhite">5D TUR Gruppo CIN
+                            3</a> - <a href="../Classi/5F TUR Gruppo CIN 3.php" class="nodecWhite">5F TUR Gruppo CIN
                             3</a></p>
                     <p id='nodecWhite'>CIN L3</p>
 
@@ -204,7 +205,7 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#FF0080" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/5B RIM Gruppo CIN 3.html" class="nodecWhite">5B RIM Gruppo CIN
+                    <p id='nodecWhite'><a href="../Classi/5B RIM Gruppo CIN 3.php" class="nodecWhite">5B RIM Gruppo CIN
                             3</a></p>
                     <p id='nodecWhite'>CIN L3</p>
 
@@ -217,8 +218,8 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#FF0080" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/4F TUR Gruppo CIN 3.html" class="nodecWhite">4F TUR Gruppo CIN
-                            3</a> - <a href="../Classi/4G TUR Gruppo CIN 3.html" class="nodecWhite">4G TUR Gruppo CIN
+                    <p id='nodecWhite'><a href="../Classi/4F TUR Gruppo CIN 3.php" class="nodecWhite">4F TUR Gruppo CIN
+                            3</a> - <a href="../Classi/4G TUR Gruppo CIN 3.php" class="nodecWhite">4G TUR Gruppo CIN
                             3</a></p>
                     <p id='nodecWhite'>CIN L3</p>
 
@@ -245,9 +246,9 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#FF0080" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/4A RIM Gruppo CIN 3.html" class="nodecWhite">4A RIM Gruppo CIN
-                            3</a> - <a href="../Classi/4B RIM Gruppo CIN 3.html" class="nodecWhite">4B RIM Gruppo CIN
-                            3</a> - <a href="../Classi/4C RIM Gruppo CIN 3.html" class="nodecWhite">4C RIM Gruppo CIN
+                    <p id='nodecWhite'><a href="../Classi/4A RIM Gruppo CIN 3.php" class="nodecWhite">4A RIM Gruppo CIN
+                            3</a> - <a href="../Classi/4B RIM Gruppo CIN 3.php" class="nodecWhite">4B RIM Gruppo CIN
+                            3</a> - <a href="../Classi/4C RIM Gruppo CIN 3.php" class="nodecWhite">4C RIM Gruppo CIN
                             3</a></p>
                     <p id='nodecWhite'>CIN L3</p>
 
@@ -260,10 +261,10 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#FF0080" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/3A RIM Gruppo CIN 3.html" class="nodecWhite">3A RIM Gruppo CIN
-                            3</a> - <a href="../Classi/3B RIM Gruppo CIN 3.html" class="nodecWhite">3B RIM Gruppo CIN
-                            3</a> - <a href="../Classi/3C RIM Gruppo CIN 3.html" class="nodecWhite">3C RIM Gruppo CIN
-                            3</a> - <a href="../Classi/3E TUR Gruppo CIN 3.html" class="nodecWhite">3E TUR Gruppo CIN
+                    <p id='nodecWhite'><a href="../Classi/3A RIM Gruppo CIN 3.php" class="nodecWhite">3A RIM Gruppo CIN
+                            3</a> - <a href="../Classi/3B RIM Gruppo CIN 3.php" class="nodecWhite">3B RIM Gruppo CIN
+                            3</a> - <a href="../Classi/3C RIM Gruppo CIN 3.php" class="nodecWhite">3C RIM Gruppo CIN
+                            3</a> - <a href="../Classi/3E TUR Gruppo CIN 3.php" class="nodecWhite">3E TUR Gruppo CIN
                             3</a></p>
                     <p id='nodecWhite'>CIN L3</p>
 
@@ -276,8 +277,8 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#FF0080" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/5D TUR Gruppo CIN 3.html" class="nodecWhite">5D TUR Gruppo CIN
-                            3</a> - <a href="../Classi/5F TUR Gruppo CIN 3.html" class="nodecWhite">5F TUR Gruppo CIN
+                    <p id='nodecWhite'><a href="../Classi/5D TUR Gruppo CIN 3.php" class="nodecWhite">5D TUR Gruppo CIN
+                            3</a> - <a href="../Classi/5F TUR Gruppo CIN 3.php" class="nodecWhite">5F TUR Gruppo CIN
                             3</a></p>
                     <p id='nodecWhite'>CIN L3</p>
 
@@ -298,18 +299,18 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#FF0080" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/4A RIM Gruppo CIN 3.html" class="nodecWhite">4A RIM Gruppo CIN
-                            3</a> - <a href="../Classi/4B RIM Gruppo CIN 3.html" class="nodecWhite">4B RIM Gruppo CIN
-                            3</a> - <a href="../Classi/4C RIM Gruppo CIN 3.html" class="nodecWhite">4C RIM Gruppo CIN
+                    <p id='nodecWhite'><a href="../Classi/4A RIM Gruppo CIN 3.php" class="nodecWhite">4A RIM Gruppo CIN
+                            3</a> - <a href="../Classi/4B RIM Gruppo CIN 3.php" class="nodecWhite">4B RIM Gruppo CIN
+                            3</a> - <a href="../Classi/4C RIM Gruppo CIN 3.php" class="nodecWhite">4C RIM Gruppo CIN
                             3</a></p>
                     <p id='nodecWhite'>CIN L3</p>
 
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#FF0080" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/4A RIM Gruppo CIN 3.html" class="nodecWhite">4A RIM Gruppo CIN
-                            3</a> - <a href="../Classi/4B RIM Gruppo CIN 3.html" class="nodecWhite">4B RIM Gruppo CIN
-                            3</a> - <a href="../Classi/4C RIM Gruppo CIN 3.html" class="nodecWhite">4C RIM Gruppo CIN
+                    <p id='nodecWhite'><a href="../Classi/4A RIM Gruppo CIN 3.php" class="nodecWhite">4A RIM Gruppo CIN
+                            3</a> - <a href="../Classi/4B RIM Gruppo CIN 3.php" class="nodecWhite">4B RIM Gruppo CIN
+                            3</a> - <a href="../Classi/4C RIM Gruppo CIN 3.php" class="nodecWhite">4C RIM Gruppo CIN
                             3</a></p>
                     <p id='nodecWhite'>CIN L3</p>
 
@@ -322,10 +323,10 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#FF0080" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/3A RIM Gruppo CIN 3.html" class="nodecWhite">3A RIM Gruppo CIN
-                            3</a> - <a href="../Classi/3B RIM Gruppo CIN 3.html" class="nodecWhite">3B RIM Gruppo CIN
-                            3</a> - <a href="../Classi/3C RIM Gruppo CIN 3.html" class="nodecWhite">3C RIM Gruppo CIN
-                            3</a> - <a href="../Classi/3E TUR Gruppo CIN 3.html" class="nodecWhite">3E TUR Gruppo CIN
+                    <p id='nodecWhite'><a href="../Classi/3A RIM Gruppo CIN 3.php" class="nodecWhite">3A RIM Gruppo CIN
+                            3</a> - <a href="../Classi/3B RIM Gruppo CIN 3.php" class="nodecWhite">3B RIM Gruppo CIN
+                            3</a> - <a href="../Classi/3C RIM Gruppo CIN 3.php" class="nodecWhite">3C RIM Gruppo CIN
+                            3</a> - <a href="../Classi/3E TUR Gruppo CIN 3.php" class="nodecWhite">3E TUR Gruppo CIN
                             3</a></p>
                     <p id='nodecWhite'>CIN L3</p>
 
@@ -352,7 +353,7 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#FF0080" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/5B RIM Gruppo CIN 3.html" class="nodecWhite">5B RIM Gruppo CIN
+                    <p id='nodecWhite'><a href="../Classi/5B RIM Gruppo CIN 3.php" class="nodecWhite">5B RIM Gruppo CIN
                             3</a></p>
                     <p id='nodecWhite'>CIN L3</p>
 
@@ -365,7 +366,7 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#FF0080" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/5B RIM Gruppo CIN 3.html" class="nodecWhite">5B RIM Gruppo CIN
+                    <p id='nodecWhite'><a href="../Classi/5B RIM Gruppo CIN 3.php" class="nodecWhite">5B RIM Gruppo CIN
                             3</a></p>
                     <p id='nodecWhite'>CIN L3</p>
 
@@ -442,8 +443,8 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#FF0080" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/4F TUR Gruppo CIN 3.html" class="nodecWhite">4F TUR Gruppo CIN
-                            3</a> - <a href="../Classi/4G TUR Gruppo CIN 3.html" class="nodecWhite">4G TUR Gruppo CIN
+                    <p id='nodecWhite'><a href="../Classi/4F TUR Gruppo CIN 3.php" class="nodecWhite">4F TUR Gruppo CIN
+                            3</a> - <a href="../Classi/4G TUR Gruppo CIN 3.php" class="nodecWhite">4G TUR Gruppo CIN
                             3</a></p>
                     <p id='nodecWhite'>CIN L3</p>
 
@@ -456,7 +457,7 @@
 
     <center>
         <p class='mathema'>
-            <a href="../index.html" class='mathema'>[Indice tabelle orario]</a>
+            <a href="../index.php" class='mathema'>[Indice tabelle orario]</a>
             <p>
                 <p class='mathema'>
                     Orario scolastico realizzato con <A HREF="http://www.orariofacile.com" class='mathema'>Orario Facile
@@ -464,4 +465,4 @@
     </center>
 </body>
 
-</html>
+</php>

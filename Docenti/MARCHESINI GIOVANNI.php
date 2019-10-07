@@ -82,6 +82,7 @@
 
 <BODY>
 
+  <?php include '../header.html';?>
 
 
     <center>
@@ -118,7 +119,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFC080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/4B RIM.html" class="nodecBlack">4B RIM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/4B RIM.php" class="nodecBlack">4B RIM</a></p>
                     <p id='nodecBlack'>MATEMATICA</p>
 
                 </TD>
@@ -156,7 +157,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFC080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/4C RIM.html" class="nodecBlack">4C RIM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/4C RIM.php" class="nodecBlack">4C RIM</a></p>
                     <p id='nodecBlack'>MATEMATICA</p>
 
                 </TD>
@@ -174,13 +175,13 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFC080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/5D TUR.html" class="nodecBlack">5D TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/5D TUR.php" class="nodecBlack">5D TUR</a></p>
                     <p id='nodecBlack'>MATEMATICA</p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFC080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/4C RIM.html" class="nodecBlack">4C RIM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/4C RIM.php" class="nodecBlack">4C RIM</a></p>
                     <p id='nodecBlack'>MATEMATICA</p>
 
                 </TD>
@@ -194,13 +195,13 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFC080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/1G TUR.html" class="nodecBlack">1G TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/1G TUR.php" class="nodecBlack">1G TUR</a></p>
                     <p id='nodecBlack'>MATEMATICA</p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFC080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/1G TUR.html" class="nodecBlack">1G TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/1G TUR.php" class="nodecBlack">1G TUR</a></p>
                     <p id='nodecBlack'>MATEMATICA</p>
 
                 </TD>
@@ -218,7 +219,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFC080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/1H TUR.html" class="nodecBlack">1H TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/1H TUR.php" class="nodecBlack">1H TUR</a></p>
                     <p id='nodecBlack'>MATEMATICA</p>
 
                 </TD>
@@ -250,13 +251,13 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFC080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/4C RIM.html" class="nodecBlack">4C RIM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/4C RIM.php" class="nodecBlack">4C RIM</a></p>
                     <p id='nodecBlack'>MATEMATICA</p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFC080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/4B RIM.html" class="nodecBlack">4B RIM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/4B RIM.php" class="nodecBlack">4B RIM</a></p>
                     <p id='nodecBlack'>MATEMATICA</p>
 
                 </TD>
@@ -270,31 +271,31 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFC080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/5D TUR.html" class="nodecBlack">5D TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/5D TUR.php" class="nodecBlack">5D TUR</a></p>
                     <p id='nodecBlack'>MATEMATICA</p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFC080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/1H TUR.html" class="nodecBlack">1H TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/1H TUR.php" class="nodecBlack">1H TUR</a></p>
                     <p id='nodecBlack'>MATEMATICA</p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFC080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/1H TUR.html" class="nodecBlack">1H TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/1H TUR.php" class="nodecBlack">1H TUR</a></p>
                     <p id='nodecBlack'>MATEMATICA</p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFC080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/1H TUR.html" class="nodecBlack">1H TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/1H TUR.php" class="nodecBlack">1H TUR</a></p>
                     <p id='nodecBlack'>MATEMATICA</p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFC080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/5D TUR.html" class="nodecBlack">5D TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/5D TUR.php" class="nodecBlack">5D TUR</a></p>
                     <p id='nodecBlack'>MATEMATICA</p>
 
                 </TD>
@@ -314,19 +315,19 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFC080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/1G TUR.html" class="nodecBlack">1G TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/1G TUR.php" class="nodecBlack">1G TUR</a></p>
                     <p id='nodecBlack'>MATEMATICA</p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFC080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/4B RIM.html" class="nodecBlack">4B RIM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/4B RIM.php" class="nodecBlack">4B RIM</a></p>
                     <p id='nodecBlack'>MATEMATICA</p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFC080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/1G TUR.html" class="nodecBlack">1G TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/1G TUR.php" class="nodecBlack">1G TUR</a></p>
                     <p id='nodecBlack'>MATEMATICA</p>
 
                 </TD>
@@ -420,7 +421,7 @@
 
     <center>
         <p class='mathema'>
-            <a href="../index.html" class='mathema'>[Indice tabelle orario]</a>
+            <a href="../index.php" class='mathema'>[Indice tabelle orario]</a>
             <p>
                 <p class='mathema'>
                     Orario scolastico realizzato con <A HREF="http://www.orariofacile.com" class='mathema'>Orario Facile
@@ -428,4 +429,4 @@
     </center>
 </body>
 
-</html>
+</php>

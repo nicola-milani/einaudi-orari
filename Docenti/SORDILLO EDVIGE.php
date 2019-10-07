@@ -82,6 +82,7 @@
 
 <BODY>
 
+  <?php include '../header.html';?>
 
 
     <center>
@@ -124,7 +125,7 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#C000C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/1A AFM.html" class="nodecWhite">1A AFM</a></p>
+                    <p id='nodecWhite'><a href="../Classi/1A AFM.php" class="nodecWhite">1A AFM</a></p>
                     <p id='nodecWhite'>TED L2</p>
 
                 </TD>
@@ -136,7 +137,7 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#C000C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/1E TUR.html" class="nodecWhite">1E TUR</a></p>
+                    <p id='nodecWhite'><a href="../Classi/1E TUR.php" class="nodecWhite">1E TUR</a></p>
                     <p id='nodecWhite'>TED L2</p>
 
                 </TD>
@@ -200,8 +201,8 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#C000C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/5B RIM Gruppo TED 2.html" class="nodecWhite">5B RIM Gruppo TED
-                            2</a> - <a href="../Classi/5C RIM Gruppo TED 2.html" class="nodecWhite">5C RIM Gruppo TED
+                    <p id='nodecWhite'><a href="../Classi/5B RIM Gruppo TED 2.php" class="nodecWhite">5B RIM Gruppo TED
+                            2</a> - <a href="../Classi/5C RIM Gruppo TED 2.php" class="nodecWhite">5C RIM Gruppo TED
                             2</a></p>
                     <p id='nodecWhite'>TED L2</p>
 
@@ -214,14 +215,14 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#C000C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/3C TUR Gruppo TED 2.html" class="nodecWhite">3C TUR Gruppo TED
+                    <p id='nodecWhite'><a href="../Classi/3C TUR Gruppo TED 2.php" class="nodecWhite">3C TUR Gruppo TED
                             2</a></p>
                     <p id='nodecWhite'>TED L2</p>
 
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#C000C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/1A AFM.html" class="nodecWhite">1A AFM</a></p>
+                    <p id='nodecWhite'><a href="../Classi/1A AFM.php" class="nodecWhite">1A AFM</a></p>
                     <p id='nodecWhite'>TED L2</p>
 
                 </TD>
@@ -241,27 +242,27 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#C000C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/1E TUR.html" class="nodecWhite">1E TUR</a></p>
+                    <p id='nodecWhite'><a href="../Classi/1E TUR.php" class="nodecWhite">1E TUR</a></p>
                     <p id='nodecWhite'>TED L2</p>
 
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#C000C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/1A AFM.html" class="nodecWhite">1A AFM</a></p>
+                    <p id='nodecWhite'><a href="../Classi/1A AFM.php" class="nodecWhite">1A AFM</a></p>
                     <p id='nodecWhite'>TED L2</p>
 
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#C000C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/5B RIM Gruppo TED 2.html" class="nodecWhite">5B RIM Gruppo TED
-                            2</a> - <a href="../Classi/5C RIM Gruppo TED 2.html" class="nodecWhite">5C RIM Gruppo TED
+                    <p id='nodecWhite'><a href="../Classi/5B RIM Gruppo TED 2.php" class="nodecWhite">5B RIM Gruppo TED
+                            2</a> - <a href="../Classi/5C RIM Gruppo TED 2.php" class="nodecWhite">5C RIM Gruppo TED
                             2</a></p>
                     <p id='nodecWhite'>TED L2</p>
 
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#C000C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/1E TUR.html" class="nodecWhite">1E TUR</a></p>
+                    <p id='nodecWhite'><a href="../Classi/1E TUR.php" class="nodecWhite">1E TUR</a></p>
                     <p id='nodecWhite'>TED L2</p>
 
                 </TD>
@@ -275,28 +276,28 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#C000C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/3C TUR Gruppo TED 2.html" class="nodecWhite">3C TUR Gruppo TED
+                    <p id='nodecWhite'><a href="../Classi/3C TUR Gruppo TED 2.php" class="nodecWhite">3C TUR Gruppo TED
                             2</a></p>
                     <p id='nodecWhite'>TED L2</p>
 
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#C000C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/1C AFM.html" class="nodecWhite">1C AFM</a></p>
+                    <p id='nodecWhite'><a href="../Classi/1C AFM.php" class="nodecWhite">1C AFM</a></p>
                     <p id='nodecWhite'>TED L2</p>
 
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#C000C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/5B RIM Gruppo TED 2.html" class="nodecWhite">5B RIM Gruppo TED
-                            2</a> - <a href="../Classi/5C RIM Gruppo TED 2.html" class="nodecWhite">5C RIM Gruppo TED
+                    <p id='nodecWhite'><a href="../Classi/5B RIM Gruppo TED 2.php" class="nodecWhite">5B RIM Gruppo TED
+                            2</a> - <a href="../Classi/5C RIM Gruppo TED 2.php" class="nodecWhite">5C RIM Gruppo TED
                             2</a></p>
                     <p id='nodecWhite'>TED L2</p>
 
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#C000C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/1C AFM.html" class="nodecWhite">1C AFM</a></p>
+                    <p id='nodecWhite'><a href="../Classi/1C AFM.php" class="nodecWhite">1C AFM</a></p>
                     <p id='nodecWhite'>TED L2</p>
 
                 </TD>
@@ -316,7 +317,7 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#C000C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/1A AFM.html" class="nodecWhite">1A AFM</a></p>
+                    <p id='nodecWhite'><a href="../Classi/1A AFM.php" class="nodecWhite">1A AFM</a></p>
                     <p id='nodecWhite'>TED L2</p>
 
                 </TD>
@@ -328,14 +329,14 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#C000C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/3C TUR Gruppo TED 2.html" class="nodecWhite">3C TUR Gruppo TED
+                    <p id='nodecWhite'><a href="../Classi/3C TUR Gruppo TED 2.php" class="nodecWhite">3C TUR Gruppo TED
                             2</a></p>
                     <p id='nodecWhite'>TED L2</p>
 
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#C000C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/1C AFM.html" class="nodecWhite">1C AFM</a></p>
+                    <p id='nodecWhite'><a href="../Classi/1C AFM.php" class="nodecWhite">1C AFM</a></p>
                     <p id='nodecWhite'>TED L2</p>
 
                 </TD>
@@ -355,7 +356,7 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#C000C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/1C AFM.html" class="nodecWhite">1C AFM</a></p>
+                    <p id='nodecWhite'><a href="../Classi/1C AFM.php" class="nodecWhite">1C AFM</a></p>
                     <p id='nodecWhite'>TED L2</p>
 
                 </TD>
@@ -393,7 +394,7 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#C000C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/1E TUR.html" class="nodecWhite">1E TUR</a></p>
+                    <p id='nodecWhite'><a href="../Classi/1E TUR.php" class="nodecWhite">1E TUR</a></p>
                     <p id='nodecWhite'>TED L2</p>
 
                 </TD>
@@ -429,7 +430,7 @@
 
     <center>
         <p class='mathema'>
-            <a href="../index.html" class='mathema'>[Indice tabelle orario]</a>
+            <a href="../index.php" class='mathema'>[Indice tabelle orario]</a>
             <p>
                 <p class='mathema'>
                     Orario scolastico realizzato con <A HREF="http://www.orariofacile.com" class='mathema'>Orario Facile
@@ -437,4 +438,4 @@
     </center>
 </body>
 
-</html>
+</php>

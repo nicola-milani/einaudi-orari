@@ -82,6 +82,7 @@
 
 <BODY>
 
+  <?php include '../header.html';?>
 
 
     <center>
@@ -124,7 +125,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#C0C080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/5B RIM.html" class="nodecBlack">5B RIM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/5B RIM.php" class="nodecBlack">5B RIM</a></p>
                     <p id='nodecBlack'>RELAZ. INTERNAZIONALI</p>
 
                 </TD>
@@ -136,7 +137,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#C0C080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/3C articolata RIM_TUR GruppoRELAZ INTERNAZ.html"
+                    <p id='nodecBlack'><a href="../Classi/3C articolata RIM_TUR GruppoRELAZ INTERNAZ.php"
                             class="nodecBlack">3C articolata RIM/TUR GruppoRELAZ INTERNAZ</a></p>
                     <p id='nodecBlack'>RELAZ. INTERNAZIONALI</p>
 
@@ -163,7 +164,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#C0C080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/5B RIM.html" class="nodecBlack">5B RIM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/5B RIM.php" class="nodecBlack">5B RIM</a></p>
                     <p id='nodecBlack'>RELAZ. INTERNAZIONALI</p>
 
                 </TD>
@@ -213,13 +214,13 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#A090FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/5B RIM.html" class="nodecBlack">5B RIM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/5B RIM.php" class="nodecBlack">5B RIM</a></p>
                     <p id='nodecBlack'>DIRITTO</p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#C0C080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/5B RIM.html" class="nodecBlack">5B RIM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/5B RIM.php" class="nodecBlack">5B RIM</a></p>
                     <p id='nodecBlack'>RELAZ. INTERNAZIONALI</p>
 
                 </TD>
@@ -257,7 +258,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#C0C080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/4C RIM.html" class="nodecBlack">4C RIM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/4C RIM.php" class="nodecBlack">4C RIM</a></p>
                     <p id='nodecBlack'>RELAZ. INTERNAZIONALI</p>
 
                 </TD>
@@ -283,21 +284,21 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#A090FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/3C articolata RIM_TUR Gruppo DIRITTO RIM.html"
+                    <p id='nodecBlack'><a href="../Classi/3C articolata RIM_TUR Gruppo DIRITTO RIM.php"
                             class="nodecBlack">3C articolata RIM/TUR Gruppo DIRITTO RIM</a></p>
                     <p id='nodecBlack'>DIRITTO</p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#A090FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/3C articolata RIM_TUR Gruppo DIRITTO RIM.html"
+                    <p id='nodecBlack'><a href="../Classi/3C articolata RIM_TUR Gruppo DIRITTO RIM.php"
                             class="nodecBlack">3C articolata RIM/TUR Gruppo DIRITTO RIM</a></p>
                     <p id='nodecBlack'>DIRITTO</p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#C0C080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/4A RIM.html" class="nodecBlack">4A RIM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/4A RIM.php" class="nodecBlack">4A RIM</a></p>
                     <p id='nodecBlack'>RELAZ. INTERNAZIONALI</p>
 
                 </TD>
@@ -323,13 +324,13 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#C0C080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/4C RIM.html" class="nodecBlack">4C RIM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/4C RIM.php" class="nodecBlack">4C RIM</a></p>
                     <p id='nodecBlack'>RELAZ. INTERNAZIONALI</p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#A090FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/5B RIM.html" class="nodecBlack">5B RIM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/5B RIM.php" class="nodecBlack">5B RIM</a></p>
                     <p id='nodecBlack'>DIRITTO</p>
 
                 </TD>
@@ -361,7 +362,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#C0C080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/3C articolata RIM_TUR GruppoRELAZ INTERNAZ.html"
+                    <p id='nodecBlack'><a href="../Classi/3C articolata RIM_TUR GruppoRELAZ INTERNAZ.php"
                             class="nodecBlack">3C articolata RIM/TUR GruppoRELAZ INTERNAZ</a></p>
                     <p id='nodecBlack'>RELAZ. INTERNAZIONALI</p>
 
@@ -400,7 +401,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#C0C080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/4A RIM.html" class="nodecBlack">4A RIM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/4A RIM.php" class="nodecBlack">4A RIM</a></p>
                     <p id='nodecBlack'>RELAZ. INTERNAZIONALI</p>
 
                 </TD>
@@ -424,7 +425,7 @@
 
     <center>
         <p class='mathema'>
-            <a href="../index.html" class='mathema'>[Indice tabelle orario]</a>
+            <a href="../index.php" class='mathema'>[Indice tabelle orario]</a>
             <p>
                 <p class='mathema'>
                     Orario scolastico realizzato con <A HREF="http://www.orariofacile.com" class='mathema'>Orario Facile
@@ -432,4 +433,4 @@
     </center>
 </body>
 
-</html>
+</php>

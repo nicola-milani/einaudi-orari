@@ -82,6 +82,7 @@
 
 <BODY>
 
+  <?php include '../header.html';?>
 
 
     <center>
@@ -124,7 +125,7 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#0080E0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/5F TUR.html" class="nodecWhite">5F TUR</a></p>
+                    <p id='nodecWhite'><a href="../Classi/5F TUR.php" class="nodecWhite">5F TUR</a></p>
                     <p id='nodecWhite'>ARTE E TERRITORIO</p>
 
                 </TD>
@@ -136,7 +137,7 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#0080E0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/3C articolata RIM_TUR Gruppo ARTE E TERRIT.html"
+                    <p id='nodecWhite'><a href="../Classi/3C articolata RIM_TUR Gruppo ARTE E TERRIT.php"
                             class="nodecWhite">3C articolata RIM/TUR Gruppo ARTE E TERRIT</a></p>
                     <p id='nodecWhite'>ARTE E TERRITORIO</p>
 
@@ -175,7 +176,7 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#0080E0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/5F TUR.html" class="nodecWhite">5F TUR</a></p>
+                    <p id='nodecWhite'><a href="../Classi/5F TUR.php" class="nodecWhite">5F TUR</a></p>
                     <p id='nodecWhite'>ARTE E TERRITORIO</p>
 
                 </TD>
@@ -233,7 +234,7 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#0080E0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/5E TUR.html" class="nodecWhite">5E TUR</a></p>
+                    <p id='nodecWhite'><a href="../Classi/5E TUR.php" class="nodecWhite">5E TUR</a></p>
                     <p id='nodecWhite'>ARTE E TERRITORIO</p>
 
                 </TD>
@@ -271,7 +272,7 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#0080E0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/3E TUR.html" class="nodecWhite">3E TUR</a></p>
+                    <p id='nodecWhite'><a href="../Classi/3E TUR.php" class="nodecWhite">3E TUR</a></p>
                     <p id='nodecWhite'>ARTE E TERRITORIO</p>
 
                 </TD>
@@ -321,7 +322,7 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#0080E0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/5E TUR.html" class="nodecWhite">5E TUR</a></p>
+                    <p id='nodecWhite'><a href="../Classi/5E TUR.php" class="nodecWhite">5E TUR</a></p>
                     <p id='nodecWhite'>ARTE E TERRITORIO</p>
 
                 </TD>
@@ -333,7 +334,7 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#0080E0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/3E TUR.html" class="nodecWhite">3E TUR</a></p>
+                    <p id='nodecWhite'><a href="../Classi/3E TUR.php" class="nodecWhite">3E TUR</a></p>
                     <p id='nodecWhite'>ARTE E TERRITORIO</p>
 
                 </TD>
@@ -359,7 +360,7 @@
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#0080E0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-                    <p id='nodecWhite'><a href="../Classi/3C articolata RIM_TUR Gruppo ARTE E TERRIT.html"
+                    <p id='nodecWhite'><a href="../Classi/3C articolata RIM_TUR Gruppo ARTE E TERRIT.php"
                             class="nodecWhite">3C articolata RIM/TUR Gruppo ARTE E TERRIT</a></p>
                     <p id='nodecWhite'>ARTE E TERRITORIO</p>
 
@@ -422,7 +423,7 @@
 
     <center>
         <p class='mathema'>
-            <a href="../index.html" class='mathema'>[Indice tabelle orario]</a>
+            <a href="../index.php" class='mathema'>[Indice tabelle orario]</a>
             <p>
                 <p class='mathema'>
                     Orario scolastico realizzato con <A HREF="http://www.orariofacile.com" class='mathema'>Orario Facile
@@ -430,4 +431,4 @@
     </center>
 </body>
 
-</html>
+</php>

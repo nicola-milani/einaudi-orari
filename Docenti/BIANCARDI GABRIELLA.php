@@ -82,6 +82,7 @@
 
 <BODY>
 
+  <?php include '../header.html';?>
 
 
     <center>
@@ -124,7 +125,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#A0FFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/4G TUR.html" class="nodecBlack">4G TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/4G TUR.php" class="nodecBlack">4G TUR</a></p>
                     <p id='nodecBlack'>GEOGRAFIA TURISTICA</p>
 
                 </TD>
@@ -136,13 +137,13 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#A0FFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/4G TUR.html" class="nodecBlack">4G TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/4G TUR.php" class="nodecBlack">4G TUR</a></p>
                     <p id='nodecBlack'>GEOGRAFIA TURISTICA</p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#A0FFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/5F TUR.html" class="nodecBlack">5F TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/5F TUR.php" class="nodecBlack">5F TUR</a></p>
                     <p id='nodecBlack'>GEOGRAFIA TURISTICA</p>
 
                 </TD>
@@ -162,7 +163,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#A0FFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/3E TUR.html" class="nodecBlack">3E TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/3E TUR.php" class="nodecBlack">3E TUR</a></p>
                     <p id='nodecBlack'>GEOGRAFIA TURISTICA</p>
 
                 </TD>
@@ -174,14 +175,14 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#A0FFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/3C articolata RIM_TUR Gruppo GEOGR TUR.html"
+                    <p id='nodecBlack'><a href="../Classi/3C articolata RIM_TUR Gruppo GEOGR TUR.php"
                             class="nodecBlack">3C articolata RIM/TUR Gruppo GEOGR TUR</a></p>
                     <p id='nodecBlack'>GEOGRAFIA TURISTICA</p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#C0E0E0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/2A AFM.html" class="nodecBlack">2A AFM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/2A AFM.php" class="nodecBlack">2A AFM</a></p>
                     <p id='nodecBlack'>GEOGRAFIA</p>
 
                 </TD>
@@ -195,13 +196,13 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#A0FFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/5E TUR.html" class="nodecBlack">5E TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/5E TUR.php" class="nodecBlack">5E TUR</a></p>
                     <p id='nodecBlack'>GEOGRAFIA TURISTICA</p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#A0FFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/5E TUR.html" class="nodecBlack">5E TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/5E TUR.php" class="nodecBlack">5E TUR</a></p>
                     <p id='nodecBlack'>GEOGRAFIA TURISTICA</p>
 
                 </TD>
@@ -213,7 +214,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#A0FFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/5F TUR.html" class="nodecBlack">5F TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/5F TUR.php" class="nodecBlack">5F TUR</a></p>
                     <p id='nodecBlack'>GEOGRAFIA TURISTICA</p>
 
                 </TD>
@@ -233,32 +234,32 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#A0FFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/3C articolata RIM_TUR Gruppo GEOGR TUR.html"
+                    <p id='nodecBlack'><a href="../Classi/3C articolata RIM_TUR Gruppo GEOGR TUR.php"
                             class="nodecBlack">3C articolata RIM/TUR Gruppo GEOGR TUR</a></p>
                     <p id='nodecBlack'>GEOGRAFIA TURISTICA</p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#C0E0E0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/1H TUR.html" class="nodecBlack">1H TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/1H TUR.php" class="nodecBlack">1H TUR</a></p>
                     <p id='nodecBlack'>GEOGRAFIA</p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#C0E0E0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/2A AFM.html" class="nodecBlack">2A AFM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/2A AFM.php" class="nodecBlack">2A AFM</a></p>
                     <p id='nodecBlack'>GEOGRAFIA</p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#C0E0E0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/1H TUR.html" class="nodecBlack">1H TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/1H TUR.php" class="nodecBlack">1H TUR</a></p>
                     <p id='nodecBlack'>GEOGRAFIA</p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#C0E0E0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/2D TUR.html" class="nodecBlack">2D TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/2D TUR.php" class="nodecBlack">2D TUR</a></p>
                     <p id='nodecBlack'>GEOGRAFIA</p>
 
                 </TD>
@@ -284,7 +285,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#C0E0E0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/2D TUR.html" class="nodecBlack">2D TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/2D TUR.php" class="nodecBlack">2D TUR</a></p>
                     <p id='nodecBlack'>GEOGRAFIA</p>
 
                 </TD>
@@ -310,7 +311,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#C0E0E0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/2D TUR.html" class="nodecBlack">2D TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/2D TUR.php" class="nodecBlack">2D TUR</a></p>
                     <p id='nodecBlack'>GEOGRAFIA</p>
 
                 </TD>
@@ -322,7 +323,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#A0FFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/3E TUR.html" class="nodecBlack">3E TUR</a></p>
+                    <p id='nodecBlack'><a href="../Classi/3E TUR.php" class="nodecBlack">3E TUR</a></p>
                     <p id='nodecBlack'>GEOGRAFIA TURISTICA</p>
 
                 </TD>
@@ -348,7 +349,7 @@
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#C0E0E0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-                    <p id='nodecBlack'><a href="../Classi/2A AFM.html" class="nodecBlack">2A AFM</a></p>
+                    <p id='nodecBlack'><a href="../Classi/2A AFM.php" class="nodecBlack">2A AFM</a></p>
                     <p id='nodecBlack'>GEOGRAFIA</p>
 
                 </TD>
@@ -422,7 +423,7 @@
 
     <center>
         <p class='mathema'>
-            <a href="../index.html" class='mathema'>[Indice tabelle orario]</a>
+            <a href="../index.php" class='mathema'>[Indice tabelle orario]</a>
             <p>
                 <p class='mathema'>
                     Orario scolastico realizzato con <A HREF="http://www.orariofacile.com" class='mathema'>Orario Facile
@@ -430,4 +431,4 @@
     </center>
 </body>
 
-</html>
+</php>

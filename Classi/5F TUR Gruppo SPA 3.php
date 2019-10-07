@@ -120,34 +120,34 @@
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#80FFFF" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
                     <p id='nodecBlack'>DISCIPLINE TURIST. AZIENDALI</p>
-                    <p id='nodecBlack'><a href="../Docenti/MAZZANTI SUSANNA.html" class="nodecBlack">MAZZANTI
+                    <p id='nodecBlack'><a href="../Docenti/MAZZANTI SUSANNA.php" class="nodecBlack">MAZZANTI
                             SUSANNA</a></p>
 
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#0080E0" COLSPAN=2 ROWSPAN=1 COLOR="#FFFFFF">
                     <p id='nodecWhite'>ARTE E TERRITORIO</p>
-                    <p id='nodecWhite'><a href="../Docenti/VENDITTI DEBORA.html" class="nodecWhite">VENDITTI DEBORA</a>
+                    <p id='nodecWhite'><a href="../Docenti/VENDITTI DEBORA.php" class="nodecWhite">VENDITTI DEBORA</a>
                     </p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#C0FFC0" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
                     <p id='nodecBlack'>SCIENZE MOTORIE</p>
-                    <p id='nodecBlack'><a href="../Docenti/COMENCINI CINZIA.html" class="nodecBlack">COMENCINI
+                    <p id='nodecBlack'><a href="../Docenti/COMENCINI CINZIA.php" class="nodecBlack">COMENCINI
                             CINZIA</a></p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#D0C0FF" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
                     <p id='nodecBlack'>SPA L3</p>
-                    <p id='nodecBlack'><a href="../Docenti/TURCO MANUELA.html" class="nodecBlack">TURCO MANUELA</a></p>
+                    <p id='nodecBlack'><a href="../Docenti/TURCO MANUELA.php" class="nodecBlack">TURCO MANUELA</a></p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#A0FFA0" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
                     <p id='nodecBlack'>GEOGRAFIA TURISTICA</p>
-                    <p id='nodecBlack'><a href="../Docenti/BIANCARDI GABRIELLA.html" class="nodecBlack">BIANCARDI
+                    <p id='nodecBlack'><a href="../Docenti/BIANCARDI GABRIELLA.php" class="nodecBlack">BIANCARDI
                             GABRIELLA</a></p>
 
                 </TD>
@@ -162,33 +162,33 @@
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#FF00FF" COLSPAN=2 ROWSPAN=1 COLOR="#FFFFFF">
                     <p id='nodecWhite'>DIRITTO E LEGISL. TURIST.</p>
-                    <p id='nodecWhite'><a href="../Docenti/DE ROSIS AMALIA.html" class="nodecWhite">DE ROSIS AMALIA</a>
+                    <p id='nodecWhite'><a href="../Docenti/DE ROSIS AMALIA.php" class="nodecWhite">DE ROSIS AMALIA</a>
                     </p>
 
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#C000C0" COLSPAN=2 ROWSPAN=1 COLOR="#FFFFFF">
                     <p id='nodecWhite'>TED L2</p>
-                    <p id='nodecWhite'><a href="../Docenti/BONELLI PAOLA.html" class="nodecWhite">BONELLI PAOLA</a></p>
+                    <p id='nodecWhite'><a href="../Docenti/BONELLI PAOLA.php" class="nodecWhite">BONELLI PAOLA</a></p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#D0C0FF" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
                     <p id='nodecBlack'>SPA L3</p>
-                    <p id='nodecBlack'><a href="../Docenti/TURCO MANUELA.html" class="nodecBlack">TURCO MANUELA</a></p>
+                    <p id='nodecBlack'><a href="../Docenti/TURCO MANUELA.php" class="nodecBlack">TURCO MANUELA</a></p>
 
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#0080E0" COLSPAN=2 ROWSPAN=1 COLOR="#FFFFFF">
                     <p id='nodecWhite'>ARTE E TERRITORIO</p>
-                    <p id='nodecWhite'><a href="../Docenti/VENDITTI DEBORA.html" class="nodecWhite">VENDITTI DEBORA</a>
+                    <p id='nodecWhite'><a href="../Docenti/VENDITTI DEBORA.php" class="nodecWhite">VENDITTI DEBORA</a>
                     </p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFC080" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
                     <p id='nodecBlack'>MATEMATICA</p>
-                    <p id='nodecBlack'><a href="../Docenti/PIETRAFESA GIOVANNA.html" class="nodecBlack">PIETRAFESA
+                    <p id='nodecBlack'><a href="../Docenti/PIETRAFESA GIOVANNA.php" class="nodecBlack">PIETRAFESA
                             GIOVANNA</a></p>
 
                 </TD>
@@ -203,35 +203,35 @@
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFC0C0" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
                     <p id='nodecBlack'>LETTERE</p>
-                    <p id='nodecBlack'><a href="../Docenti/MARANI DANIELA.html" class="nodecBlack">MARANI DANIELA</a>
+                    <p id='nodecBlack'><a href="../Docenti/MARANI DANIELA.php" class="nodecBlack">MARANI DANIELA</a>
                     </p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFC0C0" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
                     <p id='nodecBlack'>LETTERE</p>
-                    <p id='nodecBlack'><a href="../Docenti/MARANI DANIELA.html" class="nodecBlack">MARANI DANIELA</a>
+                    <p id='nodecBlack'><a href="../Docenti/MARANI DANIELA.php" class="nodecBlack">MARANI DANIELA</a>
                     </p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#80FFFF" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
                     <p id='nodecBlack'>DISCIPLINE TURIST. AZIENDALI</p>
-                    <p id='nodecBlack'><a href="../Docenti/MAZZANTI SUSANNA.html" class="nodecBlack">MAZZANTI
+                    <p id='nodecBlack'><a href="../Docenti/MAZZANTI SUSANNA.php" class="nodecBlack">MAZZANTI
                             SUSANNA</a></p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#A0FFA0" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
                     <p id='nodecBlack'>GEOGRAFIA TURISTICA</p>
-                    <p id='nodecBlack'><a href="../Docenti/BIANCARDI GABRIELLA.html" class="nodecBlack">BIANCARDI
+                    <p id='nodecBlack'><a href="../Docenti/BIANCARDI GABRIELLA.php" class="nodecBlack">BIANCARDI
                             GABRIELLA</a></p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFC080" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
                     <p id='nodecBlack'>MATEMATICA</p>
-                    <p id='nodecBlack'><a href="../Docenti/PIETRAFESA GIOVANNA.html" class="nodecBlack">PIETRAFESA
+                    <p id='nodecBlack'><a href="../Docenti/PIETRAFESA GIOVANNA.php" class="nodecBlack">PIETRAFESA
                             GIOVANNA</a></p>
 
                 </TD>
@@ -246,35 +246,35 @@
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#6CFFFF" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
                     <p id='nodecBlack'>RELIGIONE o ATT. ALTERNATIVA</p>
-                    <p id='nodecBlack'><a href="../Docenti/BARBIERI ANGELO.html" class="nodecBlack">BARBIERI ANGELO</a>
+                    <p id='nodecBlack'><a href="../Docenti/BARBIERI ANGELO.php" class="nodecBlack">BARBIERI ANGELO</a>
                     </p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFC080" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
                     <p id='nodecBlack'>MATEMATICA</p>
-                    <p id='nodecBlack'><a href="../Docenti/PIETRAFESA GIOVANNA.html" class="nodecBlack">PIETRAFESA
+                    <p id='nodecBlack'><a href="../Docenti/PIETRAFESA GIOVANNA.php" class="nodecBlack">PIETRAFESA
                             GIOVANNA</a></p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#80FFFF" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
                     <p id='nodecBlack'>DISCIPLINE TURIST. AZIENDALI</p>
-                    <p id='nodecBlack'><a href="../Docenti/MAZZANTI SUSANNA.html" class="nodecBlack">MAZZANTI
+                    <p id='nodecBlack'><a href="../Docenti/MAZZANTI SUSANNA.php" class="nodecBlack">MAZZANTI
                             SUSANNA</a></p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFC0C0" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
                     <p id='nodecBlack'>LETTERE</p>
-                    <p id='nodecBlack'><a href="../Docenti/MARANI DANIELA.html" class="nodecBlack">MARANI DANIELA</a>
+                    <p id='nodecBlack'><a href="../Docenti/MARANI DANIELA.php" class="nodecBlack">MARANI DANIELA</a>
                     </p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#D0C0FF" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
                     <p id='nodecBlack'>SPA L3</p>
-                    <p id='nodecBlack'><a href="../Docenti/TURCO MANUELA.html" class="nodecBlack">TURCO MANUELA</a></p>
+                    <p id='nodecBlack'><a href="../Docenti/TURCO MANUELA.php" class="nodecBlack">TURCO MANUELA</a></p>
 
                 </TD>
 
@@ -288,34 +288,34 @@
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#C000C0" COLSPAN=2 ROWSPAN=1 COLOR="#FFFFFF">
                     <p id='nodecWhite'>TED L2</p>
-                    <p id='nodecWhite'><a href="../Docenti/BONELLI PAOLA.html" class="nodecWhite">BONELLI PAOLA</a></p>
+                    <p id='nodecWhite'><a href="../Docenti/BONELLI PAOLA.php" class="nodecWhite">BONELLI PAOLA</a></p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#80FFFF" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
                     <p id='nodecBlack'>DISCIPLINE TURIST. AZIENDALI</p>
-                    <p id='nodecBlack'><a href="../Docenti/MAZZANTI SUSANNA.html" class="nodecBlack">MAZZANTI
+                    <p id='nodecBlack'><a href="../Docenti/MAZZANTI SUSANNA.php" class="nodecBlack">MAZZANTI
                             SUSANNA</a></p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFA0FF" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
                     <p id='nodecBlack'>INGLESE</p>
-                    <p id='nodecBlack'><a href="../Docenti/MARUCCIO STEFANIA.html" class="nodecBlack">MARUCCIO
+                    <p id='nodecBlack'><a href="../Docenti/MARUCCIO STEFANIA.php" class="nodecBlack">MARUCCIO
                             STEFANIA</a></p>
 
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#FF00FF" COLSPAN=2 ROWSPAN=1 COLOR="#FFFFFF">
                     <p id='nodecWhite'>DIRITTO E LEGISL. TURIST.</p>
-                    <p id='nodecWhite'><a href="../Docenti/DE ROSIS AMALIA.html" class="nodecWhite">DE ROSIS AMALIA</a>
+                    <p id='nodecWhite'><a href="../Docenti/DE ROSIS AMALIA.php" class="nodecWhite">DE ROSIS AMALIA</a>
                     </p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFC0C0" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
                     <p id='nodecBlack'>LETTERE</p>
-                    <p id='nodecBlack'><a href="../Docenti/MARANI DANIELA.html" class="nodecBlack">MARANI DANIELA</a>
+                    <p id='nodecBlack'><a href="../Docenti/MARANI DANIELA.php" class="nodecBlack">MARANI DANIELA</a>
                     </p>
 
                 </TD>
@@ -330,34 +330,34 @@
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#C0FFC0" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
                     <p id='nodecBlack'>SCIENZE MOTORIE</p>
-                    <p id='nodecBlack'><a href="../Docenti/COMENCINI CINZIA.html" class="nodecBlack">COMENCINI
+                    <p id='nodecBlack'><a href="../Docenti/COMENCINI CINZIA.php" class="nodecBlack">COMENCINI
                             CINZIA</a></p>
 
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#FF00FF" COLSPAN=2 ROWSPAN=1 COLOR="#FFFFFF">
                     <p id='nodecWhite'>DIRITTO E LEGISL. TURIST.</p>
-                    <p id='nodecWhite'><a href="../Docenti/DE ROSIS AMALIA.html" class="nodecWhite">DE ROSIS AMALIA</a>
+                    <p id='nodecWhite'><a href="../Docenti/DE ROSIS AMALIA.php" class="nodecWhite">DE ROSIS AMALIA</a>
                     </p>
 
                 </TD>
 
                 <TD class='nodecWhite' NOWRAP BGCOLOR="#C000C0" COLSPAN=2 ROWSPAN=1 COLOR="#FFFFFF">
                     <p id='nodecWhite'>TED L2</p>
-                    <p id='nodecWhite'><a href="../Docenti/BONELLI PAOLA.html" class="nodecWhite">BONELLI PAOLA</a></p>
+                    <p id='nodecWhite'><a href="../Docenti/BONELLI PAOLA.php" class="nodecWhite">BONELLI PAOLA</a></p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFC0C0" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
                     <p id='nodecBlack'>LETTERE</p>
-                    <p id='nodecBlack'><a href="../Docenti/MARANI DANIELA.html" class="nodecBlack">MARANI DANIELA</a>
+                    <p id='nodecBlack'><a href="../Docenti/MARANI DANIELA.php" class="nodecBlack">MARANI DANIELA</a>
                     </p>
 
                 </TD>
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFC0C0" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
                     <p id='nodecBlack'>LETTERE</p>
-                    <p id='nodecBlack'><a href="../Docenti/MARANI DANIELA.html" class="nodecBlack">MARANI DANIELA</a>
+                    <p id='nodecBlack'><a href="../Docenti/MARANI DANIELA.php" class="nodecBlack">MARANI DANIELA</a>
                     </p>
 
                 </TD>
@@ -396,7 +396,7 @@
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFA0FF" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
                     <p id='nodecBlack'>INGLESE</p>
-                    <p id='nodecBlack'><a href="../Docenti/MARUCCIO STEFANIA.html" class="nodecBlack">MARUCCIO
+                    <p id='nodecBlack'><a href="../Docenti/MARUCCIO STEFANIA.php" class="nodecBlack">MARUCCIO
                             STEFANIA</a></p>
 
                 </TD>
@@ -435,7 +435,7 @@
 
                 <TD class='nodecBlack' NOWRAP BGCOLOR="#FFA0FF" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
                     <p id='nodecBlack'>INGLESE</p>
-                    <p id='nodecBlack'><a href="../Docenti/MARUCCIO STEFANIA.html" class="nodecBlack">MARUCCIO
+                    <p id='nodecBlack'><a href="../Docenti/MARUCCIO STEFANIA.php" class="nodecBlack">MARUCCIO
                             STEFANIA</a></p>
 
                 </TD>
@@ -447,7 +447,7 @@
 
     <center>
         <p class='mathema'>
-            <a href="../index.html" class='mathema'>[Indice tabelle orario]</a>
+            <a href="../index.php" class='mathema'>[Indice tabelle orario]</a>
             <p>
                 <p class='mathema'>
                     Orario scolastico realizzato con <A HREF="http://www.orariofacile.com" class='mathema'>Orario Facile
@@ -455,4 +455,4 @@
     </center>
 </body>
 
-</html>
+</php>
