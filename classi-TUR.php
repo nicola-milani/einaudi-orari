@@ -32,13 +32,13 @@
                     </Th>
                 </tr>
                 <tr>
-                    <td><A HREF="Classi/3C articolata RIM_TUR.html" class='mathema'>3C articolata RIM/TUR</A><BR></td>
+                    <td><A HREF="Classi/3C articolata RIM_TUR.php" class='mathema'>3C articolata RIM/TUR</A><BR></td>
                 </tr>
                 <tr>
-                    <td><A HREF="Classi/3D TUR.html" class='mathema'>3D TUR</A><BR></td>
+                    <td><A HREF="Classi/3D TUR.php" class='mathema'>3D TUR</A><BR></td>
                 </tr>
                 <tr>
-                    <td><A HREF="Classi/3E TUR.html" class='mathema'>3E TUR</A><BR></td>
+                    <td><A HREF="Classi/3E TUR.php" class='mathema'>3E TUR</A><BR></td>
                 </tr>
                 <tr>
                     <td class='mathema'>
@@ -62,13 +62,13 @@
                 </tr>
 
                 <tr>
-                    <td><A HREF="Classi/4E TUR.html" class='mathema'>4E TUR</A><BR></td>
+                    <td><A HREF="Classi/4E TUR.php" class='mathema'>4E TUR</A><BR></td>
                 </tr>
                 <tr>
-                    <td><A HREF="Classi/4F TUR.html" class='mathema'>4F TUR</A><BR></td>
+                    <td><A HREF="Classi/4F TUR.php" class='mathema'>4F TUR</A><BR></td>
                 </tr>
                 <tr>
-                    <td><A HREF="Classi/4G TUR.html" class='mathema'>4G TUR</A><BR></td>
+                    <td><A HREF="Classi/4G TUR.php" class='mathema'>4G TUR</A><BR></td>
                 </tr>
                 <tr>
                     <td class='mathema'>
@@ -91,16 +91,16 @@
                     </Th>
                 </tr>
                 <tr>
-                    <td><A HREF="Classi/5D TUR.html" class='mathema'>5D TUR</A><BR></td>
+                    <td><A HREF="Classi/5D TUR.php" class='mathema'>5D TUR</A><BR></td>
                 </tr>
                 <tr>
-                    <td><A HREF="Classi/5E TUR.html" class='mathema'>5E TUR</A><BR></td>
+                    <td><A HREF="Classi/5E TUR.php" class='mathema'>5E TUR</A><BR></td>
                 </tr>
                 <tr>
-                    <td><A HREF="Classi/5F TUR.html" class='mathema'>5F TUR</A><BR></td>
+                    <td><A HREF="Classi/5F TUR.php" class='mathema'>5F TUR</A><BR></td>
                 </tr>
                 <tr>
-                    <td><A HREF="Classi/5G TUR.html" class='mathema'>5G TUR</A><BR></td>
+                    <td><A HREF="Classi/5G TUR.php" class='mathema'>5G TUR</A><BR></td>
                 </tr>
                 <tr>
                     <td>
