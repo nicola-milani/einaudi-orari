@@ -28,9 +28,9 @@
                         <b>AULE</b>
                     </Th>
                 </tr>
-                        <tr><td><A HREF="Aule/LABORATORIO CHIMICA.html" class='mathema'>LABORATORIO CHIMICA</A><BR></td></tr>
-                        <tr><td><A HREF="Aule/PALESTRA 1.html" class='mathema'>PALESTRA 1</A><BR></td></tr>
-                        <tr><td><A HREF="Aule/PALESTRA 2.html" class='mathema'>PALESTRA 2</A><BR></td></tr>
+                        <tr><td><A HREF="Aule/LABORATORIO CHIMICA.php" class='mathema'>LABORATORIO CHIMICA</A><BR></td></tr>
+                        <tr><td><A HREF="Aule/PALESTRA 1.php" class='mathema'>PALESTRA 1</A><BR></td></tr>
+                        <tr><td><A HREF="Aule/PALESTRA 2.php" class='mathema'>PALESTRA 2</A><BR></td></tr>
         </TABLE>
     </div>
     </div>

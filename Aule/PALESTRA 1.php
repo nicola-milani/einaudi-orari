@@ -2,7 +2,7 @@
 
 <HEAD>
     <TITLE>
-        ISTITUTO TECNICO ECONOMICO STATALE &quot;LUIGI EINAUDI&quot; - VERONA - Orario PALESTRA 2
+        ISTITUTO TECNICO ECONOMICO STATALE &quot;LUIGI EINAUDI&quot; - VERONA - Orario PALESTRA 1
     </TITLE>
     <META NAME="DESCRIPTION"
         CONTENT="ISTITUTO TECNICO ECONOMICO STATALE &quot;LUIGI EINAUDI&quot; - VERONA - Orario scolastico">
@@ -89,7 +89,7 @@
         <p class='mathema'>
             ISTITUTO TECNICO ECONOMICO STATALE &quot;LUIGI EINAUDI&quot; - VERONA<p>
                 <p class='mathema'>
-                    OCCUPAZIONE AULA PALESTRA 2<p>
+                    OCCUPAZIONE AULA PALESTRA 1<p>
     </center>
     <CENTER>
         <TABLE BORDER=2 WIDTH="80%" CELLSPACING=0 CELLPADDING=4>
@@ -381,7 +381,7 @@
 
     <center>
         <p class='mathema'>
-            <a href="../index.html" class='mathema'>[Indice tabelle orario]</a>
+            <a href="../index.php" class='mathema'>[Indice tabelle orario]</a>
             <p>
                 <p class='mathema'>
                     Orario scolastico realizzato con <A HREF="http://www.orariofacile.com" class='mathema'>Orario Facile
@@ -389,4 +389,4 @@
     </center>
 </body>
 
-</html>
+</php>
