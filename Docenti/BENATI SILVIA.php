@@ -1,89 +1,23 @@
 <HTML>
 
 <HEAD>
-
     <TITLE>
-        ISTITUTO TECNICO ECONOMICO STATALE &quot;LUIGI EINAUDI&quot; - VERONA - Orario BENATI SILVIA
+        ISTITUTO TECNICO ECONOMICO STATALE &quot;LUIGI EINAUDI&quot; - VERONA - Orario BERNI ROSSANA
     </TITLE>
     <META NAME="DESCRIPTION"
         CONTENT="ISTITUTO TECNICO ECONOMICO STATALE &quot;LUIGI EINAUDI&quot; - VERONA - Orario scolastico">
     <META NAME="KEYWORDS"
         CONTENT="orario scolastico, ISTITUTO TECNICO ECONOMICO STATALE &quot;LUIGI EINAUDI&quot; - VERONA">
-        <link href="../style/style.css" rel="stylesheet" type="text/css">
-    
     <META NAME="ROBOTS" CONTENT="index, follow">
-    
-    
-    <style>
-    A.nodecBlack {
-        color: #000000;
-        text-decoration: none;
-        font-family: 'Tahoma';
-        font-size: 8pt;
-        font-weight: normal;
-        font-style: normal;
-    }
-
-    A.nodecBlack:hover {
-        text-decoration: none;
-    }
-
-    A.nodecWhite {
-        color: #FFFFFF;
-        text-decoration: none;
-        font-family: 'Tahoma';
-        font-size: 8pt;
-        font-weight: normal;
-        font-style: normal;
-    }
-
-    A.nodecWhite:hover {
-        text-decoration: none;
-    }
-
-    .nodecBlack {
-        color: #000000;
-        text-decoration: none;
-        font-family: 'Tahoma';
-        font-size: 8pt;
-        font-weight: normal;
-        font-style: normal;
-    }
-
-    .nodecBlack:hover {
-        text-decoration: none;
-    }
-
-    .nodecWhite {
-        color: #FFFFFF;
-        text-decoration: none;
-        font-family: 'Tahoma';
-        font-size: 8pt;
-        font-weight: normal;
-        font-style: normal;
-    }
-
-    .nodecWhite:hover {
-        text-decoration: none;
-    }
-
-    .mathema {
-        color: #444444;
-        text-decoration: none;
-        font-family: 'Tahoma';
-        font-size: 8pt;
-        font-weight: normal;
-        font-style: normal;
-    }
-
-    .mathema:hover {
-        text-decoration: none;
-    }
-</style>
+        <link href="../style/style.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
 </HEAD>
 
+
 <BODY>
+<?php include '../header.html';?>
 
     <center>
         <p class='mathema'>
@@ -149,10 +83,6 @@
                 </TD>
 
             </TR>
-  <?php include '../header.html';?>
-
-
-
             <TR ALIGN=CENTER VALIGN=MIDDLE>
 
                 <TD class='mathema' NOWRAP>

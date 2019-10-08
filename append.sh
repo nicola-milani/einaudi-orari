@@ -136,4 +136,5 @@ do_replace_first_occurency(){
 done
 }
 
-do_remove_row_class
+#do_remove_row_class
+add_bootstrap
