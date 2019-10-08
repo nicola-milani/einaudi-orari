@@ -15,7 +15,7 @@ set -f
 
 #done
 add_bootstrap_req(){
-for f in `find ./Classi -name "*.php"`;do
+for f in `find ./Docenti -name "*.php"`;do
 ed $f << END
 20i
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
@@ -37,7 +37,7 @@ done
 }
 
 add_bootstrap(){
-for f in `find ./Classi -name "*.php"`;do
+for f in `find ./Docenti -name "*.php"`;do
 ed $f << END
 13i
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
@@ -51,7 +51,7 @@ done
 
 }
 add_header_table(){
-for f in `find ./Classi -name "*.php"`;do
+for f in `find ./Docenti -name "*.php"`;do
 ed $f << END
 43i
                 <th class='mathema'>
@@ -92,16 +92,16 @@ done
 
 #Remove row from 44 and 57
 do_remove_row_class(){
-for f in `find ./Classi -name "*.php"`;do
+for f in `find ./Docenti -name "*.php"`;do
  #mv "$f" ./Aule/"$(basename "$f" .html).php"
-sed -i '44,57d' $f
+sed -i '16,81d' $f
 done
 }
 
 #change extensions
 do_change_extensions(){
-for f in `find ./Classi -name "*.html"`;do
- mv "$f" ./Classi/"$(basename "$f" .html).php"
+for f in `find ./Docenti -name "*.html"`;do
+ mv "$f" ./Docenti/"$(basename "$f" .html).php"
 done
 }
 
@@ -116,7 +116,7 @@ done
 }
 
 do_replace_table_header(){
-for f in `find ./Classi -name "*.php"`;do
+for f in `find ./Docenti -name "*.php"`;do
 
 sed -i  's/<TABLE BORDER=2 WIDTH="80%" CELLSPACING=0 CELLPADDING=4>/<TABLE CELLSPACING=0 style="float:center" class="table table-hover table-borderless table-responsive text-center">/g' $f
 
@@ -124,18 +124,16 @@ done
 }
 
 do_replace_first_column(){
-for f in `find ./Classi -name "*.php"`;do
+for f in `find ./Docenti -name "*.php"`;do
 sed -i  's/<TD class='\''mathema'\'' NOWRAP>/<Th class='\''mathema'\'' NOWRAP  style="position:sticky">/g' $f
 done
 }
 
 do_replace_first_occurency(){
-    for f in `find ./Classi -name "*.php"`;do
+    for f in `find ./Docenti -name "*.php"`;do
     sed -i '0,/<TR ALIGN=CENTER VALIGN=MIDDLE>/s/<TR ALIGN=CENTER VALIGN=MIDDLE>/<TR ALIGN=CENTER VALIGN=MIDDLE class="thead-light">/' $f
 
 done
 }
 
-#do_remove_row_class
-#add_header_table
-do_replace_first_column
+do_remove_row_class

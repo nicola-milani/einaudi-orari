@@ -11,8 +11,74 @@
     <META NAME="ROBOTS" CONTENT="index, follow">
         <link href="../style/style.css" rel="stylesheet" type="text/css">
 
-    <link rel="stylesheet" type="text/css" href="../style/style.css">
 </HEAD>
+
+<style>
+    A.nodecBlack {
+        color: #000000;
+        text-decoration: none;
+        font-family: 'Tahoma';
+        font-size: 8pt;
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    A.nodecBlack:hover {
+        text-decoration: none;
+    }
+
+    A.nodecWhite {
+        color: #FFFFFF;
+        text-decoration: none;
+        font-family: 'Tahoma';
+        font-size: 8pt;
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    A.nodecWhite:hover {
+        text-decoration: none;
+    }
+
+    .nodecBlack {
+        color: #000000;
+        text-decoration: none;
+        font-family: 'Tahoma';
+        font-size: 8pt;
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    .nodecBlack:hover {
+        text-decoration: none;
+    }
+
+    .nodecWhite {
+        color: #FFFFFF;
+        text-decoration: none;
+        font-family: 'Tahoma';
+        font-size: 8pt;
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    .nodecWhite:hover {
+        text-decoration: none;
+    }
+
+    .mathema {
+        color: #444444;
+        text-decoration: none;
+        font-family: 'Tahoma';
+        font-size: 8pt;
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    .mathema:hover {
+        text-decoration: none;
+    }
+</style>
 
 <BODY>
 <?php include '../header.html';?>
