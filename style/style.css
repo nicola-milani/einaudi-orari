@@ -63,12 +63,29 @@ A.nodecWhite:hover {
     text-decoration: none;
 }
 
-table {
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+th
+{
+background-color:rgb(76, 114, 175);
+color:black;
+}
+th:first-child, td:first-child
+{
+  position:sticky;
+  left:0px;
+ 
+}
+/* table {
     border-collapse: collapse;
     border-spacing: 0;
     width: 100%;
     border: 0px solid rgba(38, 93, 223, 0.671);
-}
+    class="table table-hover table-sm table-borderless table-responsive"
+} */
 
 .mathema {
     color: #444444;
