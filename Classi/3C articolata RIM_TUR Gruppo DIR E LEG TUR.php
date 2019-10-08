@@ -10,6 +10,8 @@
     <META NAME="KEYWORDS"
         CONTENT="orario scolastico, ISTITUTO TECNICO ECONOMICO STATALE &quot;LUIGI EINAUDI&quot; - VERONA">
         <link href="../style/style.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
     <META NAME="ROBOTS" CONTENT="index, follow">
 </HEAD>

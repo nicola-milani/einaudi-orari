@@ -10,11 +10,77 @@
         CONTENT="orario scolastico, ISTITUTO TECNICO ECONOMICO STATALE &quot;LUIGI EINAUDI&quot; - VERONA">
     <META NAME="ROBOTS" CONTENT="index, follow">
     <link href="../style/style.css" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
 </HEAD>
 
+<style>
+    A.nodecBlack {
+        color: #000000;
+        text-decoration: none;
+        font-family: 'Tahoma';
+        font-size: 8pt;
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    A.nodecBlack:hover {
+        text-decoration: none;
+    }
+
+    A.nodecWhite {
+        color: #FFFFFF;
+        text-decoration: none;
+        font-family: 'Tahoma';
+        font-size: 8pt;
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    A.nodecWhite:hover {
+        text-decoration: none;
+    }
+
+    .nodecBlack {
+        color: #000000;
+        text-decoration: none;
+        font-family: 'Tahoma';
+        font-size: 8pt;
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    .nodecBlack:hover {
+        text-decoration: none;
+    }
+
+    .nodecWhite {
+        color: #FFFFFF;
+        text-decoration: none;
+        font-family: 'Tahoma';
+        font-size: 8pt;
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    .nodecWhite:hover {
+        text-decoration: none;
+    }
+
+    .mathema {
+        color: #444444;
+        text-decoration: none;
+        font-family: 'Tahoma';
+        font-size: 8pt;
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    .mathema:hover {
+        text-decoration: none;
+    }
+</style>
 
 <BODY>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
