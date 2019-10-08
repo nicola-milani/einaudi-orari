@@ -125,9 +125,7 @@ done
 
 do_replace_first_column(){
 for f in `find ./Classi -name "*.php"`;do
-
-sed -i  's/<TD class='mathema' NOWRAP>/<Th class='mathema' NOWRAP  style="position:sticky">/g' $f
-
+sed -i  's/<TD class='\''mathema'\'' NOWRAP>/<Th class='\''mathema'\'' NOWRAP  style="position:sticky">/g' $f
 done
 }
 

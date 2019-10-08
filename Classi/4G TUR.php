@@ -59,7 +59,7 @@
 
             <TR ALIGN=CENTER VALIGN=MIDDLE>
 
-                <TD class='mathema' NOWRAP>
+                <Th class='mathema' NOWRAP  style="position:sticky">
                     7.55
                 </TD>
 
@@ -126,7 +126,7 @@
 
             <TR ALIGN=CENTER VALIGN=MIDDLE>
 
-                <TD class='mathema' NOWRAP>
+                <Th class='mathema' NOWRAP  style="position:sticky">
                     8.55
                 </TD>
 
@@ -173,7 +173,7 @@
 
             <TR ALIGN=CENTER VALIGN=MIDDLE>
 
-                <TD class='mathema' NOWRAP>
+                <Th class='mathema' NOWRAP  style="position:sticky">
                     9.55
                 </TD>
 
@@ -243,7 +243,7 @@
 
             <TR ALIGN=CENTER VALIGN=MIDDLE>
 
-                <TD class='mathema' NOWRAP>
+                <Th class='mathema' NOWRAP  style="position:sticky">
                     11.05
                 </TD>
 
@@ -289,7 +289,7 @@
 
             <TR ALIGN=CENTER VALIGN=MIDDLE>
 
-                <TD class='mathema' NOWRAP>
+                <Th class='mathema' NOWRAP  style="position:sticky">
                     11.55
                 </TD>
 
@@ -345,7 +345,7 @@
 
             <TR ALIGN=CENTER VALIGN=MIDDLE>
 
-                <TD class='mathema' NOWRAP>
+                <Th class='mathema' NOWRAP  style="position:sticky">
                     12.55
                 </TD>
 
@@ -391,7 +391,7 @@
 
             <TR ALIGN=CENTER VALIGN=MIDDLE>
 
-                <TD class='mathema' NOWRAP>
+                <Th class='mathema' NOWRAP  style="position:sticky">
                     14.15
                 </TD>
 
@@ -445,7 +445,7 @@
 
             <TR ALIGN=CENTER VALIGN=MIDDLE>
 
-                <TD class='mathema' NOWRAP>
+                <Th class='mathema' NOWRAP  style="position:sticky">
                     15.05
                 </TD>
 
