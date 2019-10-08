@@ -40,21 +40,21 @@
     <CENTER>
         <TABLE CELLSPACING=0 style="float:center" class="table table-hover table-borderless table-responsive text-center">
 
-            <TR ALIGN=CENTER VALIGN=MIDDLE>
-
-                <TD class='mathema'>
+                <th class='mathema'>
                     &nbsp;
-                </TD>
+                </th>
 
-                <TD class='mathema' WIDTH="15%" NOWRAP COLSPAN=6 ROWSPAN=1>
+                <Th class='mathema' scope="col" NOWRAP COLSPAN=1 ROWSPAN=1>
                     LUN
-                <TD class='mathema' WIDTH="15%" NOWRAP COLSPAN=6 ROWSPAN=1>
+                <Th class='mathema' scope="col" NOWRAP COLSPAN=1 ROWSPAN=1>
                     MAR
-                <TD class='mathema' WIDTH="15%" NOWRAP COLSPAN=6 ROWSPAN=1>
+                <th class='mathema' scope="col" NOWRAP COLSPAN=1 ROWSPAN=1>
                     MER
-                <TD class='mathema' WIDTH="15%" NOWRAP COLSPAN=6 ROWSPAN=1>
+                <th class='mathema' scope="col" NOWRAP COLSPAN=1 ROWSPAN=1>
                     GIO
-                <TD class='mathema' WIDTH="15%" NOWRAP COLSPAN=6 ROWSPAN=1>
+                <th class='mathema' scope="col" NOWRAP COLSPAN=1 ROWSPAN=1>
+                    VEN
+            <TR ALIGN=CENTER VALIGN=MIDDLE class="thead-light">
                     VEN
             </TR>
 

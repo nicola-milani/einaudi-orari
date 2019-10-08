@@ -36,10 +36,10 @@
     </div>
     <div align="center">
 
+    
         <TABLE CELLSPACING=0 style="float:center" class="table table-hover table-borderless table-responsive text-center">
 
             <TR ALIGN=CENTER VALIGN=MIDDLE class="thead-light">
-
                 <th class='mathema'>
                     &nbsp;
                 </th>
@@ -54,9 +54,10 @@
                     GIO
                 <th class='mathema' scope="col" NOWRAP COLSPAN=1 ROWSPAN=1>
                     VEN
+
             </TR>
             <tbody>
-                <TR ALIGN=CENTER VALIGN=MIDDLE>
+                <TR ALIGN=CENTER VALIGN=MIDDLE class="thead-light">
 
                     <Th class='mathema' NOWRAP scope="row" style="position:sticky">
                         7.55
