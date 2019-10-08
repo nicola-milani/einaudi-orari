@@ -17,7 +17,7 @@ set -f
 add_bootstrap_req(){
 for f in `find ./Docenti -name "*.php"`;do
 ed $f << END
-20i
+18i
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
     </script>
@@ -92,9 +92,9 @@ done
 
 #Remove row from 44 and 57
 do_remove_row_class(){
-for f in `find ./Docenti -name "*.php"`;do
+for f in `find ./Classi -name "*.php"`;do
  #mv "$f" ./Aule/"$(basename "$f" .html).php"
-sed -i '16,81d' $f
+sed -i '20,28d' $f
 done
 }
 
@@ -136,5 +136,10 @@ do_replace_first_occurency(){
 done
 }
 
-#do_remove_row_class
-add_bootstrap
+do_remove_row_class
+#add_bootstrap
+#add_bootstrap_req
+#do_replace_first_occurency
+#do_replace_first_column
+#do_replace_table_header
+#add_header_table
