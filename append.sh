@@ -15,9 +15,9 @@ set -f
 
 #done
 add_bootstrap_req(){
-for f in `find ./Docenti -name "*.php"`;do
+for f in `find ./Classi -name "*.php"`;do
 ed $f << END
-18i
+15i
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
     </script>
@@ -136,9 +136,9 @@ do_replace_first_occurency(){
 done
 }
 
-do_remove_row_class
+#do_remove_row_class
 #add_bootstrap
-#add_bootstrap_req
+add_bootstrap_req
 #do_replace_first_occurency
 #do_replace_first_column
 #do_replace_table_header
