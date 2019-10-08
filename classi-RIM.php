@@ -1,44 +1,7 @@
 <HTML>
 
 <HEAD>
-    <TITLE>
-        ISTITUTO TECNICO ECONOMICO STATALE &quot;LUIGI EINAUDI&quot; - VERONA - Orario scolastico
-    </TITLE>
-    <META NAME="DESCRIPTION"
-        CONTENT="ISTITUTO TECNICO ECONOMICO STATALE &quot;LUIGI EINAUDI&quot; - VERONA - Orario scolastico">
-    <META NAME="KEYWORDS"
-        CONTENT="orario scolastico, ISTITUTO TECNICO ECONOMICO STATALE &quot;LUIGI EINAUDI&quot; - VERONA">
-    <META NAME="ROBOTS" CONTENT="index, follow">
-    <link href="./style/style.css" rel="stylesheet" type="text/css">
-
-    <!-- <style>
-        .mathema {
-            color: #444444;
-            text-decoration: none;
-            font-family: 'Tahoma';
-            font-size: 8pt;
-            font-weight: normal;
-            font-style: normal;
-        }
-
-        .mathema:hover {
-            text-decoration: none;
-        }
-
-        th,
-        td {
-            text-align: left;
-            padding: 16px;
-        }
-
-        tr:nth-child(even) {
-            background-color: #f2f2f2
-        }
-
-        .responsive {
-            display: inline-block;
-        }
-    </style> -->
+    <?php include 'href.html';?>
 </HEAD>
 
 <BODY>

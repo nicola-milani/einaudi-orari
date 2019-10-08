@@ -68,17 +68,30 @@ td, th {
     text-align: left;
     padding: 8px;
 }
-th
-{
+th.mathema, .thead-light th:first-child {
 background-color:rgb(76, 114, 175);
-color:black;
+color:white;
 }
+
 th:first-child, td:first-child
 {
   position:sticky;
   left:0px;
  
 }
+
+table{
+    text-align: center;
+    margin: 0 auto;
+}
+
+@media only screen and (min-width: 900px) {
+  table.table-responsive{
+    display: inline;
+}
+}
+
+
 /* table {
     border-collapse: collapse;
     border-spacing: 0;
@@ -126,3 +139,100 @@ div.footer {
     position: running(footer);
 
 }
+
+/*home*/
+        .list-group {
+                padding-left: 0;
+                margin-bottom: 20px;
+                float: none;
+                margin-left: auto;
+                margin-right: auto;
+        }
+
+
+
+        /* Formattazione dell'item di lista */
+        .list-group-item {
+                position: relative;
+                display: block;
+                padding: 10px 15px;
+                margin-bottom: -1px;
+                background-color: #ffffff;
+                border: 1px solid #dddddd;
+        }
+
+
+        /* Arrotondamento del bordo superiore */
+        .list-group-item:first-child {
+                border-top-right-radius: 4px;
+                border-top-left-radius: 4px;
+        }
+
+
+        /* Arrotondamento del bordo inferiore */
+        .list-group-item:last-child {
+                margin-bottom: 0;
+                border-bottom-right-radius: 4px;
+                border-bottom-left-radius: 4px;
+        }
+
+
+        /* Colore dei link */
+        a.list-group-item {
+                color: #555555;
+        }
+
+
+        /* Colore dei titoli */
+        a.list-group-item .list-group-item-heading {
+                color: #333333;
+        }
+
+
+        /* Colore di sfondo sull'hover */
+        a.list-group-item:hover,
+        a.list-group-item:focus {
+                text-decoration: none;
+                background-color: #f5f5f5;
+        }
+
+
+        /* Colori dell'item attivo */
+        .list-group-item.active,
+        .list-group-item.active:hover,
+        .list-group-item.active:focus {
+                z-index: 2;
+                color: #ffffff;
+                background-color: #428bca;
+                border-color: #428bca;
+        }
+
+
+        /* Colore dei titoli per un item attivo */
+        .list-group-item.active .list-group-item-heading,
+        .list-group-item.active:hover .list-group-item-heading,
+        .list-group-item.active:focus .list-group-item-heading {
+                color: inherit;
+        }
+
+
+        /* Colore del paragrafo per un item attivo */
+        .list-group-item.active .list-group-item-text,
+        .list-group-item.active:hover .list-group-item-text,
+        .list-group-item.active:focus .list-group-item-text {
+                color: #e1edf7;
+        }
+
+
+        /* Margine del titolo */
+        .list-group-item-heading {
+                margin-top: 0;
+                margin-bottom: 5px;
+        }
+
+
+        /* Margine e altezza di riga del paragrafo */
+        .list-group-item-text {
+                margin-bottom: 0;
+                line-height: 1.3;
+        }
