@@ -92,7 +92,7 @@ done
 do_replace_table_header(){
 for f in `find ./Classi -name "*.php"`;do
 
-sed -i -e 's/<TABLE BORDER=2 WIDTH="80%" CELLSPACING=0 CELLPADDING=4>/<TABLE CELLSPACING=0 style="float:center" class="table table-hover table-borderless table-responsive text-center">/g' ./Classi/*
+sed -i  's/<TABLE BORDER=2 WIDTH="80%" CELLSPACING=0 CELLPADDING=4>/<TABLE CELLSPACING=0 style="float:center" class="table table-hover table-borderless table-responsive text-center">/g' $f
 
 done
 }

@@ -37,7 +37,7 @@
                     ORARIO CLASSE 3E TUR Gruppo FRA 3<p>
     </center>
     <CENTER>
-        <TABLE BORDER=2 WIDTH="80%" CELLSPACING=0 CELLPADDING=4>
+        <TABLE CELLSPACING=0 style="float:center" class="table table-hover table-borderless table-responsive text-center">
 
             <TR ALIGN=CENTER VALIGN=MIDDLE>
 
