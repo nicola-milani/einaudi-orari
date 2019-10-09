@@ -11,7 +11,7 @@
 
     <div align="center">
         <div class="responsive">
-            <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=4>
+        <table cellspacing=0 class="table table-hover table-borderless table-responsive text-center">
 
                 <TR VALIGN=TOP>
 
@@ -40,7 +40,8 @@
             </TABLE>
         </div>
         <div class="responsive">
-            <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=4>
+        <table cellspacing=0 class="table table-hover table-borderless table-responsive text-center">
+
 
                 <TR VALIGN=TOP>
 
@@ -70,8 +71,7 @@
             </TABLE>
         </div>
         <div class="responsive">
-            <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=4>
-
+        <table cellspacing=0 class="table table-hover table-borderless table-responsive text-center">
                 <TR VALIGN=TOP>
 
                     <Th ALIGN=TOP class='mathema'>

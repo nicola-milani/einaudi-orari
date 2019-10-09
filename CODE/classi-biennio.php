@@ -1,7 +1,7 @@
 <!doctype html>
 <HTML>
 
-<HEAD> 
+<HEAD>
     <?php include 'href.html';?>
 </HEAD>
 
@@ -9,10 +9,10 @@
     <div class='header'>
         <?php include 'header.html';?>
     </div>
-    
+
     <div align="center">
         <div class="responsive">
-            <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=4 class="table">
+            <table cellspacing=0 class="table table-hover table-borderless table-responsive text-center">
 
                 <TR VALIGN=TOP>
 
@@ -36,8 +36,7 @@
 
         </div>
         <div class="responsive">
-
-            <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=4 class="table">
+            <table cellspacing=0 class="table table-hover table-borderless table-responsive text-center">
 
                 <TR VALIGN=TOP>
 
@@ -64,8 +63,7 @@
     <br>
     <div align="center">
         <div class="responsive" style="vertical-align: top;">
-            <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=4 class="table">
-
+        <table cellspacing=0 class="table table-hover table-borderless table-responsive text-center">
                 <TR VALIGN=TOP>
 
                     <Th ALIGN=TOP class='mathema'>
@@ -81,21 +79,10 @@
                 <tr>
                     <td><A HREF="Classi/2C AFM.php" class='mathema'>2C AFM</A><BR></td>
                 </tr>
-                <tr>
-                    <td class='mathema'>
-                        <p> &nbsp</p>
-                    </td>
-                </tr>
-                <tr>
-                    <td class='mathema'>
-                        <p> &nbsp</p>
-
-                    </td>
-                </tr>
             </TABLE>
         </div>
         <div class="responsive" style="vertical-align: top;">
-            <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=4 class="table">
+        <table cellspacing=0 class="table table-hover table-borderless table-responsive text-center">
 
                 <TR VALIGN=TOP>
 
@@ -122,7 +109,8 @@
         </div>
 
     </div>
-
+    <div style="padding-top:20px">
+    </div>
     <?php include 'footer.html';?>
 </BODY>
 
