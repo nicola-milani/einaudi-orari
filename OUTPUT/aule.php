@@ -1,47 +1,33 @@
-<html>
+<HTML>
 
-	<head> 
-	    <?php include 'href.html';?>
-	</head>
+<HEAD> 
+    <?php include 'href.html';?>
+</HEAD>
 
-	<body>
+<BODY>
 
-		<div class='header'>
-		        <?php include 'header.html';?>
-		</div>
-		<div align="center">
-		    <div class="responsive">
-		        <table border=0 cellspacing=0 cellpadding=4>
+<div class='header'>
+        <?php include 'header.html';?>
+    </div>
+    <div align="center">
+        <div class="responsive">
+            <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=4>
 
-	                <tr valign=top>
-	                    <th align=top class='mathema'>
-	                        <b>Aule</b>
-	                    </th>
-	                </tr>
-	                <tr>
-	                	<td>
-	                		<a href="aule/laboratorio chimica.php" class='mathema'>Laboratorio Chimica</a>
-	                		<br>
-	                	</td>
-	                </tr>
-	                <tr>
-	                	<td>
-	                		<a href="aule/palestra 1.php" class='mathema'>Palestra 1</a>
-	                		<br>
-	                	</td>
-	                </tr>
-	                <tr>
-	                	<td>
-	                		<a href="aule/palestra 2.php" class='mathema'>Palestra 2</a>
-	                		<br>
-	                	</td>
-	                </tr>
-		        </table>
-		    </div>
-		</div>
+                <TR VALIGN=TOP>
 
-	    <?php include 'footer.html';?>
-	   
-	</body>
+                    <Th ALIGN=TOP class='mathema'>
+                        <b>AULE</b>
+                    </Th>
+                </tr>
+                        <tr><td><A HREF="Aule/LABORATORIO CHIMICA.php" class='mathema'>LABORATORIO CHIMICA</A><BR></td></tr>
+                        <tr><td><A HREF="Aule/PALESTRA 1.php" class='mathema'>PALESTRA 1</A><BR></td></tr>
+                        <tr><td><A HREF="Aule/PALESTRA 2.php" class='mathema'>PALESTRA 2</A><BR></td></tr>
+        </TABLE>
+    </div>
+    </div>
 
-</html>
+    <?php include 'footer.html';?>
+   
+</BODY>
+
+</HTML>
