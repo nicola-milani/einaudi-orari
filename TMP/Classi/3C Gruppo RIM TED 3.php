@@ -11,7 +11,7 @@ ORARIO CLASSE 3C Gruppo RIM TED 3</p>
     <div align="center">
 
 
-<table BORDER=2 WIDTH="80%" CELLSPACING=0 CELLPADDING=4>
+<table cellspacing=0 class="table table-hover table-borderless table-responsive text-center">
 
   <tr  class="thead-light">
                 <th class='mathema' scope="row">
@@ -33,7 +33,7 @@ ORARIO CLASSE 3C Gruppo RIM TED 3</p>
             <tbody>
                 <tr>
 
-<td class = 'mathema' >
+<th class='mathema' scope="row" >
 7.55
 </td>
 
@@ -83,7 +83,7 @@ ORARIO CLASSE 3C Gruppo RIM TED 3</p>
 
 <tr >
 
-<td class = 'mathema' >
+<th class='mathema' scope="row" >
 8.55
 </td>
 
@@ -140,7 +140,7 @@ ORARIO CLASSE 3C Gruppo RIM TED 3</p>
 
 <tr >
 
-<td class = 'mathema' >
+<th class='mathema' scope="row" >
 9.55
 </td>
 
@@ -204,7 +204,7 @@ ORARIO CLASSE 3C Gruppo RIM TED 3</p>
 
 <tr >
 
-<td class = 'mathema' >
+<th class='mathema' scope="row" >
 11.05
 </td>
 
@@ -254,7 +254,7 @@ ORARIO CLASSE 3C Gruppo RIM TED 3</p>
 
 <tr >
 
-<td class = 'mathema' >
+<th class='mathema' scope="row" >
 11.55
 </td>
 
@@ -325,7 +325,7 @@ ORARIO CLASSE 3C Gruppo RIM TED 3</p>
 
 <tr >
 
-<td class = 'mathema' >
+<th class='mathema' scope="row" >
 12.55
 </td>
 
@@ -375,7 +375,7 @@ ORARIO CLASSE 3C Gruppo RIM TED 3</p>
 
 <tr >
 
-<td class = 'mathema' >
+<th class='mathema' scope="row" >
 14.15
 </td>
 
@@ -425,7 +425,7 @@ ORARIO CLASSE 3C Gruppo RIM TED 3</p>
 
 <tr >
 
-<td class = 'mathema' >
+<th class='mathema' scope="row" >
 15.05
 </td>
 

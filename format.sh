@@ -83,7 +83,7 @@ do_replace_table_header(){
 DIR=$1
 for f in `find ./TMP/$DIR/ -name "*.php"`;do
 
-sed -i  's/<TABLE BORDER=2 WIDTH="80%" CELLSPACING=0 CELLPADDING=4>/<table cellspacing=0 class="table table-hover table-borderless table-responsive text-center">/g' $f
+sed -i  's/<table BORDER=2 WIDTH="80%" CELLSPACING=0 CELLPADDING=4>/<table cellspacing=0 class="table table-hover table-borderless table-responsive text-center">/g' $f
 
 done
 }
@@ -91,7 +91,7 @@ done
 do_replace_first_column(){
     DIR=$1
 for f in `find ./TMP/$DIR/ -name "*.php"`;do
-sed -i  's/<TD class='\''mathema'\'' NOWRAP>/<Th class='\''mathema'\'' scope="row" >/g' $f
+sed -i  's/<td class = '\''mathema'\'' >/<th class='\''mathema'\'' scope="row" >/g' $f
 done
 }
 
@@ -217,5 +217,5 @@ do_replace_footer Aule
 
           
 
-#cp -r ./TMP/* ./OUTPUT/
+cp -r ./TMP/* ./OUTPUT/
 
