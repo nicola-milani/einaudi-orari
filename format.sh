@@ -11,7 +11,6 @@ do_copy_to_tmp(){
     rm ./TMP/Classi/*Copia.html 2> /dev/null
     rm ./TMP/Docenti/*Copia.html 2> /dev/null
 
-
 }
 
 do_delete_header(){
@@ -43,6 +42,18 @@ do_remove_tag(){
         sed  -i 's/<CENTER>//g' $f
         sed  -i 's/<\/CENTER>//g' $f
         sed  -i 's/<style>//g' $f
+        sed  -i 's/WIDTH="15%"//g' $f
+        # sed  -i 's/LUN/LUN<\/td>/g' $f
+        # sed  -i 's/MAR/MAR<\/td>/g' $f
+        # sed  -i 's/MER/MER<\/td>/g' $f
+        # sed  -i 's/GIO/GIO<\/td>/g' $f
+        # sed  -i 's/VEN/VEN<\/td>/g' $f
+
+        
+        # sed  -i 's/COLSPAN=1//g' $f
+        # sed  -i 's/COLSPAN=6//g' $f
+        # sed  -i 's/ROWSPAN=1//g' $f
+      #  sed  -i 's/<p id = '\''mathema'\''>&nbsp;<p>/<p id = '\''mathema'\''>&nbsp;<\/p>/g' $f
 
     done
 }
@@ -122,15 +133,15 @@ ed $f << END
                     &nbsp;
                 </th>
 
-                <th class='mathema' scope="col" COLSPAN=1 ROWSPAN=1>
+                <th class='mathema' scope="col" >
                     LUN
-                <th class='mathema' scope="col" COLSPAN=1 ROWSPAN=1>
+                <th class='mathema' scope="col" >
                     MAR
-                <th class='mathema' scope="col" COLSPAN=1 ROWSPAN=1>
+                <th class='mathema' scope="col" >
                     MER
-                <th class='mathema' scope="col" COLSPAN=1 ROWSPAN=1>
+                <th class='mathema' scope="col" >
                     GIO
-                <th class='mathema' scope="col" COLSPAN=1 ROWSPAN=1>
+                <th class='mathema' scope="col" >
                     VEN
 
             </tr>
@@ -151,8 +162,9 @@ do_replace_footer(){
     ed -s $f <<< $'-7,$d\nwq'    
 cat >> $f << QWE
         </div>
-</body>
+
 <?php include '../footer.html';?>
+</body>
 </html>
 QWE
     done
@@ -191,9 +203,9 @@ do_replace_table_header Docenti
 do_replace_table_header Aule
 
 echo "Elimina prima riga tabella"
-do_delete_first_row Classi
-do_delete_first_row Docenti
-do_delete_first_row Aule
+# do_delete_first_row Classi
+# do_delete_first_row Docenti
+# do_delete_first_row Aule
 
 echo "Chiudi i tag paragrafo aperti"
 do_close_tagp Classi
@@ -206,9 +218,9 @@ do_replace_first_column Docenti
 do_replace_first_column Aule
 
 echo "Aggiungi nuova prima riga "
-do_add_first_row Classi
-do_add_first_row Docenti
-do_add_first_row Aule
+# do_add_first_row Classi
+# do_add_first_row Docenti
+# do_add_first_row Aule
 
 echo "Aggiungi footer"
 do_replace_footer Classi

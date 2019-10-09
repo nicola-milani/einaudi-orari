@@ -13,25 +13,25 @@ ORARIO DOCENTE PLACIDI GIORGIO</p>
 
 <table cellspacing=0 class="table table-hover table-borderless table-responsive text-center">
 
-  <tr  class="thead-light">
-                <th class='mathema' scope="row">
-                    &nbsp;
-                </th>
+<tr >
 
-                <th class='mathema' scope="col" COLSPAN=1 ROWSPAN=1>
-                    LUN
-                <th class='mathema' scope="col" COLSPAN=1 ROWSPAN=1>
-                    MAR
-                <th class='mathema' scope="col" COLSPAN=1 ROWSPAN=1>
-                    MER
-                <th class='mathema' scope="col" COLSPAN=1 ROWSPAN=1>
-                    GIO
-                <th class='mathema' scope="col" COLSPAN=1 ROWSPAN=1>
-                    VEN
+<td class = 'mathema'>
+&nbsp;
+</td>
 
-            </tr>
-            <tbody>
-                <tr>
+<td class = 'mathema'   COLSPAN=1 ROWSPAN=1>
+LUN
+<td class = 'mathema'   COLSPAN=1 ROWSPAN=1>
+MAR
+<td class = 'mathema'   COLSPAN=1 ROWSPAN=1>
+MER
+<td class = 'mathema'   COLSPAN=1 ROWSPAN=1>
+GIO
+<td class = 'mathema'   COLSPAN=1 ROWSPAN=1>
+VEN
+</tr>
+
+<tr >
 
 <th class='mathema' scope="row" >
 7.55
@@ -339,6 +339,7 @@ ORARIO DOCENTE PLACIDI GIORGIO</p>
 
 
         </div>
-</body>
+
 <?php include '../footer.html';?>
+</body>
 </html>
