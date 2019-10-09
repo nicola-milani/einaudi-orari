@@ -44,7 +44,7 @@ VEN
 </td>
 
 <td class = 'nodecWhite'  BGCOLOR="#0080E0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/5F TUR.html"  class="nodecWhite">5F TUR</a></p>
+<p id = 'nodecWhite'><a href="../Classi/5F TUR.php"  class="nodecWhite">5F TUR</a></p>
 <p id = 'nodecWhite'>ARTE E TERRITORIO</p>
 
 </td>
@@ -56,7 +56,7 @@ VEN
 </td>
 
 <td class = 'nodecWhite'  BGCOLOR="#0080E0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/3C articolata RIM_TUR Gruppo ARTE E TERRIT.html"  class="nodecWhite">3C articolata RIM/TUR Gruppo ARTE E TERRIT</a></p>
+<p id = 'nodecWhite'><a href="../Classi/3C articolata RIM_TUR Gruppo ARTE E TERRIT.php"  class="nodecWhite">3C articolata RIM/TUR Gruppo ARTE E TERRIT</a></p>
 <p id = 'nodecWhite'>ARTE E TERRITORIO</p>
 
 </td>
@@ -94,7 +94,7 @@ VEN
 </td>
 
 <td class = 'nodecWhite'  BGCOLOR="#0080E0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/5F TUR.html"  class="nodecWhite">5F TUR</a></p>
+<p id = 'nodecWhite'><a href="../Classi/5F TUR.php"  class="nodecWhite">5F TUR</a></p>
 <p id = 'nodecWhite'>ARTE E TERRITORIO</p>
 
 </td>
@@ -152,7 +152,7 @@ VEN
 </td>
 
 <td class = 'nodecWhite'  BGCOLOR="#0080E0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/5E TUR.html"  class="nodecWhite">5E TUR</a></p>
+<p id = 'nodecWhite'><a href="../Classi/5E TUR.php"  class="nodecWhite">5E TUR</a></p>
 <p id = 'nodecWhite'>ARTE E TERRITORIO</p>
 
 </td>
@@ -190,7 +190,7 @@ VEN
 </td>
 
 <td class = 'nodecWhite'  BGCOLOR="#0080E0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/3E TUR.html"  class="nodecWhite">3E TUR</a></p>
+<p id = 'nodecWhite'><a href="../Classi/3E TUR.php"  class="nodecWhite">3E TUR</a></p>
 <p id = 'nodecWhite'>ARTE E TERRITORIO</p>
 
 </td>
@@ -240,7 +240,7 @@ VEN
 </td>
 
 <td class = 'nodecWhite'  BGCOLOR="#0080E0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/5E TUR.html"  class="nodecWhite">5E TUR</a></p>
+<p id = 'nodecWhite'><a href="../Classi/5E TUR.php"  class="nodecWhite">5E TUR</a></p>
 <p id = 'nodecWhite'>ARTE E TERRITORIO</p>
 
 </td>
@@ -252,7 +252,7 @@ VEN
 </td>
 
 <td class = 'nodecWhite'  BGCOLOR="#0080E0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/3E TUR.html"  class="nodecWhite">3E TUR</a></p>
+<p id = 'nodecWhite'><a href="../Classi/3E TUR.php"  class="nodecWhite">3E TUR</a></p>
 <p id = 'nodecWhite'>ARTE E TERRITORIO</p>
 
 </td>
@@ -278,7 +278,7 @@ VEN
 </td>
 
 <td class = 'nodecWhite'  BGCOLOR="#0080E0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/3C articolata RIM_TUR Gruppo ARTE E TERRIT.html"  class="nodecWhite">3C articolata RIM/TUR Gruppo ARTE E TERRIT</a></p>
+<p id = 'nodecWhite'><a href="../Classi/3C articolata RIM_TUR Gruppo ARTE E TERRIT.php"  class="nodecWhite">3C articolata RIM/TUR Gruppo ARTE E TERRIT</a></p>
 <p id = 'nodecWhite'>ARTE E TERRITORIO</p>
 
 </td>

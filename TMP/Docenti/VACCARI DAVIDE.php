@@ -56,7 +56,7 @@ VEN
 </td>
 
 <td class = 'nodecWhite'  BGCOLOR="#FF5151" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/1F TUR.html"  class="nodecWhite">1F TUR</a></p>
+<p id = 'nodecWhite'><a href="../Classi/1F TUR.php"  class="nodecWhite">1F TUR</a></p>
 <p id = 'nodecWhite'>INFORMATICA</p>
 
 </td>
@@ -132,7 +132,7 @@ VEN
 </td>
 
 <td class = 'nodecWhite'  BGCOLOR="#FF5151" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/1H TUR.html"  class="nodecWhite">1H TUR</a></p>
+<p id = 'nodecWhite'><a href="../Classi/1H TUR.php"  class="nodecWhite">1H TUR</a></p>
 <p id = 'nodecWhite'>INFORMATICA</p>
 
 </td>
@@ -208,7 +208,7 @@ VEN
 </td>
 
 <td class = 'nodecWhite'  BGCOLOR="#FF5151" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/1F TUR.html"  class="nodecWhite">1F TUR</a></p>
+<p id = 'nodecWhite'><a href="../Classi/1F TUR.php"  class="nodecWhite">1F TUR</a></p>
 <p id = 'nodecWhite'>INFORMATICA</p>
 
 </td>
@@ -246,7 +246,7 @@ VEN
 </td>
 
 <td class = 'nodecWhite'  BGCOLOR="#FF5151" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/1H TUR.html"  class="nodecWhite">1H TUR</a></p>
+<p id = 'nodecWhite'><a href="../Classi/1H TUR.php"  class="nodecWhite">1H TUR</a></p>
 <p id = 'nodecWhite'>INFORMATICA</p>
 
 </td>

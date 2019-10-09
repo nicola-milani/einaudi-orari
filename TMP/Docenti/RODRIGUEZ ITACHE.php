@@ -38,7 +38,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#D0C0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/4D RIM.html"  class="nodecBlack">4D RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/4D RIM.php"  class="nodecBlack">4D RIM</a></p>
 <p id = 'nodecBlack'>SPA L3</p>
 
 </td>
@@ -56,13 +56,13 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FFFFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/4F TUR.html"  class="nodecBlack">4F TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/4F TUR.php"  class="nodecBlack">4F TUR</a></p>
 <p id = 'nodecBlack'>SPA L2</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#D0C0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/4D RIM.html"  class="nodecBlack">4D RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/4D RIM.php"  class="nodecBlack">4D RIM</a></p>
 <p id = 'nodecBlack'>SPA L3</p>
 
 </td>
@@ -76,7 +76,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#D0C0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3C Gruppo TUR SPA 3.html"  class="nodecBlack">3C Gruppo TUR SPA 3</a></p>
+<p id = 'nodecBlack'><a href="../Classi/3C Gruppo TUR SPA 3.php"  class="nodecBlack">3C Gruppo TUR SPA 3</a></p>
 <p id = 'nodecBlack'>SPA L3</p>
 
 </td>
@@ -94,13 +94,13 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FFFFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5E TUR.html"  class="nodecBlack">5E TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5E TUR.php"  class="nodecBlack">5E TUR</a></p>
 <p id = 'nodecBlack'>SPA L2</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#D0C0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/4D RIM.html"  class="nodecBlack">4D RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/4D RIM.php"  class="nodecBlack">4D RIM</a></p>
 <p id = 'nodecBlack'>SPA L3</p>
 
 </td>
@@ -114,7 +114,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#D0C0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5A RIM Gruppo SPA 3.html"  class="nodecBlack">5A RIM Gruppo SPA 3</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5A RIM Gruppo SPA 3.php"  class="nodecBlack">5A RIM Gruppo SPA 3</a></p>
 <p id = 'nodecBlack'>SPA L3</p>
 
 </td>
@@ -126,19 +126,19 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FFFFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5E TUR.html"  class="nodecBlack">5E TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5E TUR.php"  class="nodecBlack">5E TUR</a></p>
 <p id = 'nodecBlack'>SPA L2</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FFFFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5E TUR.html"  class="nodecBlack">5E TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5E TUR.php"  class="nodecBlack">5E TUR</a></p>
 <p id = 'nodecBlack'>SPA L2</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#D0C0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5A RIM Gruppo SPA 3.html"  class="nodecBlack">5A RIM Gruppo SPA 3</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5A RIM Gruppo SPA 3.php"  class="nodecBlack">5A RIM Gruppo SPA 3</a></p>
 <p id = 'nodecBlack'>SPA L3</p>
 
 </td>
@@ -152,7 +152,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#D0C0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/4A RIM Gruppo SPA 3.html"  class="nodecBlack">4A RIM Gruppo SPA 3</a></p>
+<p id = 'nodecBlack'><a href="../Classi/4A RIM Gruppo SPA 3.php"  class="nodecBlack">4A RIM Gruppo SPA 3</a></p>
 <p id = 'nodecBlack'>SPA L3</p>
 
 </td>
@@ -164,7 +164,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#D0C0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3C Gruppo TUR SPA 3.html"  class="nodecBlack">3C Gruppo TUR SPA 3</a></p>
+<p id = 'nodecBlack'><a href="../Classi/3C Gruppo TUR SPA 3.php"  class="nodecBlack">3C Gruppo TUR SPA 3</a></p>
 <p id = 'nodecBlack'>SPA L3</p>
 
 </td>
@@ -196,13 +196,13 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#D0C0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/4A RIM Gruppo SPA 3.html"  class="nodecBlack">4A RIM Gruppo SPA 3</a></p>
+<p id = 'nodecBlack'><a href="../Classi/4A RIM Gruppo SPA 3.php"  class="nodecBlack">4A RIM Gruppo SPA 3</a></p>
 <p id = 'nodecBlack'>SPA L3</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#D0C0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/4A RIM Gruppo SPA 3.html"  class="nodecBlack">4A RIM Gruppo SPA 3</a></p>
+<p id = 'nodecBlack'><a href="../Classi/4A RIM Gruppo SPA 3.php"  class="nodecBlack">4A RIM Gruppo SPA 3</a></p>
 <p id = 'nodecBlack'>SPA L3</p>
 
 </td>
@@ -214,7 +214,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#D0C0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3C Gruppo TUR SPA 3.html"  class="nodecBlack">3C Gruppo TUR SPA 3</a></p>
+<p id = 'nodecBlack'><a href="../Classi/3C Gruppo TUR SPA 3.php"  class="nodecBlack">3C Gruppo TUR SPA 3</a></p>
 <p id = 'nodecBlack'>SPA L3</p>
 
 </td>
@@ -228,19 +228,19 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FFFFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/4F TUR.html"  class="nodecBlack">4F TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/4F TUR.php"  class="nodecBlack">4F TUR</a></p>
 <p id = 'nodecBlack'>SPA L2</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FFFFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/4F TUR.html"  class="nodecBlack">4F TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/4F TUR.php"  class="nodecBlack">4F TUR</a></p>
 <p id = 'nodecBlack'>SPA L2</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#D0C0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5A RIM Gruppo SPA 3.html"  class="nodecBlack">5A RIM Gruppo SPA 3</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5A RIM Gruppo SPA 3.php"  class="nodecBlack">5A RIM Gruppo SPA 3</a></p>
 <p id = 'nodecBlack'>SPA L3</p>
 
 </td>

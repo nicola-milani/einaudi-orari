@@ -38,31 +38,31 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#80FFFF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5E TUR.html"  class="nodecBlack">5E TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5E TUR.php"  class="nodecBlack">5E TUR</a></p>
 <p id = 'nodecBlack'>DISCIPLINE TURIST. AZIENDALI</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#80FFFF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5E TUR.html"  class="nodecBlack">5E TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5E TUR.php"  class="nodecBlack">5E TUR</a></p>
 <p id = 'nodecBlack'>DISCIPLINE TURIST. AZIENDALI</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FF9D9D" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5A RIM.html"  class="nodecBlack">5A RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5A RIM.php"  class="nodecBlack">5A RIM</a></p>
 <p id = 'nodecBlack'>EC. AZIEND. e GEOGR. POLITICA</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FF9D9D" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5A RIM.html"  class="nodecBlack">5A RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5A RIM.php"  class="nodecBlack">5A RIM</a></p>
 <p id = 'nodecBlack'>EC. AZIEND. e GEOGR. POLITICA</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FF9D9D" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5A RIM.html"  class="nodecBlack">5A RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5A RIM.php"  class="nodecBlack">5A RIM</a></p>
 <p id = 'nodecBlack'>EC. AZIEND. e GEOGR. POLITICA</p>
 
 </td>
@@ -76,31 +76,31 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#B0B0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/1B AFM.html"  class="nodecBlack">1B AFM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/1B AFM.php"  class="nodecBlack">1B AFM</a></p>
 <p id = 'nodecBlack'>ECONOMIA AZIENDALE</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FF9D9D" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5A RIM.html"  class="nodecBlack">5A RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5A RIM.php"  class="nodecBlack">5A RIM</a></p>
 <p id = 'nodecBlack'>EC. AZIEND. e GEOGR. POLITICA</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FF9D9D" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3C articolata RIM_TUR Gruppo EC AZIENDALE.html"  class="nodecBlack">3C articolata RIM/TUR Gruppo EC AZIENDALE</a></p>
+<p id = 'nodecBlack'><a href="../Classi/3C articolata RIM_TUR Gruppo EC AZIENDALE.php"  class="nodecBlack">3C articolata RIM/TUR Gruppo EC AZIENDALE</a></p>
 <p id = 'nodecBlack'>EC. AZIEND. e GEOGR. POLITICA</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FF9D9D" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5A RIM.html"  class="nodecBlack">5A RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5A RIM.php"  class="nodecBlack">5A RIM</a></p>
 <p id = 'nodecBlack'>EC. AZIEND. e GEOGR. POLITICA</p>
 
 </td>
 
 <td class = 'nodecWhite'  BGCOLOR="#9000FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/3C articolata RIM_TUR Gruppo EC AZ E GEOPOL1.html"  class="nodecWhite">3C articolata RIM/TUR Gruppo EC AZ E GEOPOL1</a></p>
+<p id = 'nodecWhite'><a href="../Classi/3C articolata RIM_TUR Gruppo EC AZ E GEOPOL1.php"  class="nodecWhite">3C articolata RIM/TUR Gruppo EC AZ E GEOPOL1</a></p>
 <p id = 'nodecWhite'>EC AZIEND. e GEOGR. POLITICA1</p>
 
 </td>
@@ -114,7 +114,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FF9D9D" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3C articolata RIM_TUR Gruppo EC AZIENDALE.html"  class="nodecBlack">3C articolata RIM/TUR Gruppo EC AZIENDALE</a></p>
+<p id = 'nodecBlack'><a href="../Classi/3C articolata RIM_TUR Gruppo EC AZIENDALE.php"  class="nodecBlack">3C articolata RIM/TUR Gruppo EC AZIENDALE</a></p>
 <p id = 'nodecBlack'>EC. AZIEND. e GEOGR. POLITICA</p>
 
 </td>
@@ -138,7 +138,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FF9D9D" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3C articolata RIM_TUR Gruppo EC AZIENDALE.html"  class="nodecBlack">3C articolata RIM/TUR Gruppo EC AZIENDALE</a></p>
+<p id = 'nodecBlack'><a href="../Classi/3C articolata RIM_TUR Gruppo EC AZIENDALE.php"  class="nodecBlack">3C articolata RIM/TUR Gruppo EC AZIENDALE</a></p>
 <p id = 'nodecBlack'>EC. AZIEND. e GEOGR. POLITICA</p>
 
 </td>
@@ -152,7 +152,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FF9D9D" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5A RIM.html"  class="nodecBlack">5A RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5A RIM.php"  class="nodecBlack">5A RIM</a></p>
 <p id = 'nodecBlack'>EC. AZIEND. e GEOGR. POLITICA</p>
 
 </td>
@@ -196,7 +196,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FF9D9D" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3C articolata RIM_TUR Gruppo EC AZIENDALE.html"  class="nodecBlack">3C articolata RIM/TUR Gruppo EC AZIENDALE</a></p>
+<p id = 'nodecBlack'><a href="../Classi/3C articolata RIM_TUR Gruppo EC AZIENDALE.php"  class="nodecBlack">3C articolata RIM/TUR Gruppo EC AZIENDALE</a></p>
 <p id = 'nodecBlack'>EC. AZIEND. e GEOGR. POLITICA</p>
 
 </td>
@@ -214,7 +214,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#80FFFF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5E TUR.html"  class="nodecBlack">5E TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5E TUR.php"  class="nodecBlack">5E TUR</a></p>
 <p id = 'nodecBlack'>DISCIPLINE TURIST. AZIENDALI</p>
 
 </td>
@@ -234,7 +234,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#B0B0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/1B AFM.html"  class="nodecBlack">1B AFM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/1B AFM.php"  class="nodecBlack">1B AFM</a></p>
 <p id = 'nodecBlack'>ECONOMIA AZIENDALE</p>
 
 </td>
@@ -252,7 +252,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#80FFFF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5E TUR.html"  class="nodecBlack">5E TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5E TUR.php"  class="nodecBlack">5E TUR</a></p>
 <p id = 'nodecBlack'>DISCIPLINE TURIST. AZIENDALI</p>
 
 </td>

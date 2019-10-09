@@ -234,19 +234,19 @@ VEN
 </td>
 
 <td class = 'nodecWhite'  BGCOLOR="#C000C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/4D RIM.html"  class="nodecWhite">4D RIM</a></p>
+<p id = 'nodecWhite'><a href="../Classi/4D RIM.php"  class="nodecWhite">4D RIM</a></p>
 <p id = 'nodecWhite'>TED L2</p>
 
 </td>
 
 <td class = 'nodecWhite'  BGCOLOR="#C000C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/4D RIM.html"  class="nodecWhite">4D RIM</a></p>
+<p id = 'nodecWhite'><a href="../Classi/4D RIM.php"  class="nodecWhite">4D RIM</a></p>
 <p id = 'nodecWhite'>TED L2</p>
 
 </td>
 
 <td class = 'nodecWhite'  BGCOLOR="#C000C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/4D RIM.html"  class="nodecWhite">4D RIM</a></p>
+<p id = 'nodecWhite'><a href="../Classi/4D RIM.php"  class="nodecWhite">4D RIM</a></p>
 <p id = 'nodecWhite'>TED L2</p>
 
 </td>

@@ -44,25 +44,25 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0FFC0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5G TUR.html"  class="nodecBlack">5G TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5G TUR.php"  class="nodecBlack">5G TUR</a></p>
 <p id = 'nodecBlack'>SCIENZE MOTORIE</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0FFC0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5F TUR.html"  class="nodecBlack">5F TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5F TUR.php"  class="nodecBlack">5F TUR</a></p>
 <p id = 'nodecBlack'>SCIENZE MOTORIE</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0FFC0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/2F TUR.html"  class="nodecBlack">2F TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/2F TUR.php"  class="nodecBlack">2F TUR</a></p>
 <p id = 'nodecBlack'>SCIENZE MOTORIE</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0FFC0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3B RIM.html"  class="nodecBlack">3B RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/3B RIM.php"  class="nodecBlack">3B RIM</a></p>
 <p id = 'nodecBlack'>SCIENZE MOTORIE</p>
 
 </td>
@@ -76,31 +76,31 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0FFC0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/4G TUR.html"  class="nodecBlack">4G TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/4G TUR.php"  class="nodecBlack">4G TUR</a></p>
 <p id = 'nodecBlack'>SCIENZE MOTORIE</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0FFC0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3B RIM.html"  class="nodecBlack">3B RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/3B RIM.php"  class="nodecBlack">3B RIM</a></p>
 <p id = 'nodecBlack'>SCIENZE MOTORIE</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0FFC0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/2F TUR.html"  class="nodecBlack">2F TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/2F TUR.php"  class="nodecBlack">2F TUR</a></p>
 <p id = 'nodecBlack'>SCIENZE MOTORIE</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0FFC0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/2G TUR.html"  class="nodecBlack">2G TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/2G TUR.php"  class="nodecBlack">2G TUR</a></p>
 <p id = 'nodecBlack'>SCIENZE MOTORIE</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0FFC0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5G TUR.html"  class="nodecBlack">5G TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5G TUR.php"  class="nodecBlack">5G TUR</a></p>
 <p id = 'nodecBlack'>SCIENZE MOTORIE</p>
 
 </td>
@@ -114,7 +114,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0FFC0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/4F TUR.html"  class="nodecBlack">4F TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/4F TUR.php"  class="nodecBlack">4F TUR</a></p>
 <p id = 'nodecBlack'>SCIENZE MOTORIE</p>
 
 </td>
@@ -126,7 +126,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0FFC0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/2G TUR.html"  class="nodecBlack">2G TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/2G TUR.php"  class="nodecBlack">2G TUR</a></p>
 <p id = 'nodecBlack'>SCIENZE MOTORIE</p>
 
 </td>
@@ -138,7 +138,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0FFC0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/4F TUR.html"  class="nodecBlack">4F TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/4F TUR.php"  class="nodecBlack">4F TUR</a></p>
 <p id = 'nodecBlack'>SCIENZE MOTORIE</p>
 
 </td>
@@ -152,7 +152,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0FFC0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/1G TUR.html"  class="nodecBlack">1G TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/1G TUR.php"  class="nodecBlack">1G TUR</a></p>
 <p id = 'nodecBlack'>SCIENZE MOTORIE</p>
 
 </td>
@@ -164,7 +164,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0FFC0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/4G TUR.html"  class="nodecBlack">4G TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/4G TUR.php"  class="nodecBlack">4G TUR</a></p>
 <p id = 'nodecBlack'>SCIENZE MOTORIE</p>
 
 </td>
@@ -176,7 +176,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0FFC0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/1G TUR.html"  class="nodecBlack">1G TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/1G TUR.php"  class="nodecBlack">1G TUR</a></p>
 <p id = 'nodecBlack'>SCIENZE MOTORIE</p>
 
 </td>
@@ -228,7 +228,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0FFC0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5F TUR.html"  class="nodecBlack">5F TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5F TUR.php"  class="nodecBlack">5F TUR</a></p>
 <p id = 'nodecBlack'>SCIENZE MOTORIE</p>
 
 </td>

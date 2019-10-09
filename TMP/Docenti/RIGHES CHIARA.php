@@ -50,7 +50,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0C000" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/2D TUR.html"  class="nodecBlack">2D TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/2D TUR.php"  class="nodecBlack">2D TUR</a></p>
 <p id = 'nodecBlack'>DIRITTO E ECONOMIA</p>
 
 </td>
@@ -76,7 +76,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0C000" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/2D TUR.html"  class="nodecBlack">2D TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/2D TUR.php"  class="nodecBlack">2D TUR</a></p>
 <p id = 'nodecBlack'>DIRITTO E ECONOMIA</p>
 
 </td>
@@ -88,7 +88,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#A090FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/4D RIM.html"  class="nodecBlack">4D RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/4D RIM.php"  class="nodecBlack">4D RIM</a></p>
 <p id = 'nodecBlack'>DIRITTO</p>
 
 </td>
@@ -126,19 +126,19 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#A090FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3B RIM.html"  class="nodecBlack">3B RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/3B RIM.php"  class="nodecBlack">3B RIM</a></p>
 <p id = 'nodecBlack'>DIRITTO</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#A090FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5A RIM.html"  class="nodecBlack">5A RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5A RIM.php"  class="nodecBlack">5A RIM</a></p>
 <p id = 'nodecBlack'>DIRITTO</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0C000" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/1D AFM.html"  class="nodecBlack">1D AFM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/1D AFM.php"  class="nodecBlack">1D AFM</a></p>
 <p id = 'nodecBlack'>DIRITTO E ECONOMIA</p>
 
 </td>
@@ -152,13 +152,13 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0C000" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/1D AFM.html"  class="nodecBlack">1D AFM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/1D AFM.php"  class="nodecBlack">1D AFM</a></p>
 <p id = 'nodecBlack'>DIRITTO E ECONOMIA</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#A090FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5A RIM.html"  class="nodecBlack">5A RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5A RIM.php"  class="nodecBlack">5A RIM</a></p>
 <p id = 'nodecBlack'>DIRITTO</p>
 
 </td>
@@ -170,13 +170,13 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#A090FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3B RIM.html"  class="nodecBlack">3B RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/3B RIM.php"  class="nodecBlack">3B RIM</a></p>
 <p id = 'nodecBlack'>DIRITTO</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0C080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5A RIM.html"  class="nodecBlack">5A RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5A RIM.php"  class="nodecBlack">5A RIM</a></p>
 <p id = 'nodecBlack'>RELAZ. INTERNAZIONALI</p>
 
 </td>
@@ -196,7 +196,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0C080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3B RIM.html"  class="nodecBlack">3B RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/3B RIM.php"  class="nodecBlack">3B RIM</a></p>
 <p id = 'nodecBlack'>RELAZ. INTERNAZIONALI</p>
 
 </td>
@@ -208,13 +208,13 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0C080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3B RIM.html"  class="nodecBlack">3B RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/3B RIM.php"  class="nodecBlack">3B RIM</a></p>
 <p id = 'nodecBlack'>RELAZ. INTERNAZIONALI</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0C080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5A RIM.html"  class="nodecBlack">5A RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5A RIM.php"  class="nodecBlack">5A RIM</a></p>
 <p id = 'nodecBlack'>RELAZ. INTERNAZIONALI</p>
 
 </td>
@@ -228,7 +228,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0C080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5A RIM.html"  class="nodecBlack">5A RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5A RIM.php"  class="nodecBlack">5A RIM</a></p>
 <p id = 'nodecBlack'>RELAZ. INTERNAZIONALI</p>
 
 </td>
@@ -252,7 +252,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#A090FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/4D RIM.html"  class="nodecBlack">4D RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/4D RIM.php"  class="nodecBlack">4D RIM</a></p>
 <p id = 'nodecBlack'>DIRITTO</p>
 
 </td>

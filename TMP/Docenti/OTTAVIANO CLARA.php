@@ -44,25 +44,25 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#A090FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3A RIM.html"  class="nodecBlack">3A RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/3A RIM.php"  class="nodecBlack">3A RIM</a></p>
 <p id = 'nodecBlack'>DIRITTO</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0C000" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/2B AFM.html"  class="nodecBlack">2B AFM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/2B AFM.php"  class="nodecBlack">2B AFM</a></p>
 <p id = 'nodecBlack'>DIRITTO E ECONOMIA</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0C080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/4D RIM.html"  class="nodecBlack">4D RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/4D RIM.php"  class="nodecBlack">4D RIM</a></p>
 <p id = 'nodecBlack'>RELAZ. INTERNAZIONALI</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0C080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5C RIM.html"  class="nodecBlack">5C RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5C RIM.php"  class="nodecBlack">5C RIM</a></p>
 <p id = 'nodecBlack'>RELAZ. INTERNAZIONALI</p>
 
 </td>
@@ -82,25 +82,25 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0C080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/4B RIM.html"  class="nodecBlack">4B RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/4B RIM.php"  class="nodecBlack">4B RIM</a></p>
 <p id = 'nodecBlack'>RELAZ. INTERNAZIONALI</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0C000" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/2B AFM.html"  class="nodecBlack">2B AFM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/2B AFM.php"  class="nodecBlack">2B AFM</a></p>
 <p id = 'nodecBlack'>DIRITTO E ECONOMIA</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0C080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3A RIM.html"  class="nodecBlack">3A RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/3A RIM.php"  class="nodecBlack">3A RIM</a></p>
 <p id = 'nodecBlack'>RELAZ. INTERNAZIONALI</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0C080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/4B RIM.html"  class="nodecBlack">4B RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/4B RIM.php"  class="nodecBlack">4B RIM</a></p>
 <p id = 'nodecBlack'>RELAZ. INTERNAZIONALI</p>
 
 </td>
@@ -152,13 +152,13 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0C080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/4D RIM.html"  class="nodecBlack">4D RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/4D RIM.php"  class="nodecBlack">4D RIM</a></p>
 <p id = 'nodecBlack'>RELAZ. INTERNAZIONALI</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#A090FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3A RIM.html"  class="nodecBlack">3A RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/3A RIM.php"  class="nodecBlack">3A RIM</a></p>
 <p id = 'nodecBlack'>DIRITTO</p>
 
 </td>
@@ -196,7 +196,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0C080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3A RIM.html"  class="nodecBlack">3A RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/3A RIM.php"  class="nodecBlack">3A RIM</a></p>
 <p id = 'nodecBlack'>RELAZ. INTERNAZIONALI</p>
 
 </td>
@@ -228,7 +228,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0C080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5C RIM.html"  class="nodecBlack">5C RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5C RIM.php"  class="nodecBlack">5C RIM</a></p>
 <p id = 'nodecBlack'>RELAZ. INTERNAZIONALI</p>
 
 </td>
@@ -304,7 +304,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0C080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5C RIM.html"  class="nodecBlack">5C RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5C RIM.php"  class="nodecBlack">5C RIM</a></p>
 <p id = 'nodecBlack'>RELAZ. INTERNAZIONALI</p>
 
 </td>

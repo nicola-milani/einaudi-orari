@@ -100,7 +100,7 @@ VEN
 </td>
 
 <td class = 'nodecWhite'  BGCOLOR="#FF0000" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/3C articolata RIM_TUR Gruppo DIRITTO E LEG TUR1.html"  class="nodecWhite">3C articolata RIM/TUR Gruppo DIRITTO E LEG TUR1</a></p>
+<p id = 'nodecWhite'><a href="../Classi/3C articolata RIM_TUR Gruppo DIRITTO E LEG TUR1.php"  class="nodecWhite">3C articolata RIM/TUR Gruppo DIRITTO E LEG TUR1</a></p>
 <p id = 'nodecWhite'>DIRITTO E LEGISL. TURIST.1</p>
 
 </td>
@@ -138,7 +138,7 @@ VEN
 </td>
 
 <td class = 'nodecWhite'  BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/5G TUR.html"  class="nodecWhite">5G TUR</a></p>
+<p id = 'nodecWhite'><a href="../Classi/5G TUR.php"  class="nodecWhite">5G TUR</a></p>
 <p id = 'nodecWhite'>DIRITTO E LEGISL. TURIST.</p>
 
 </td>
@@ -170,7 +170,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0C000" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/1C AFM.html"  class="nodecBlack">1C AFM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/1C AFM.php"  class="nodecBlack">1C AFM</a></p>
 <p id = 'nodecBlack'>DIRITTO E ECONOMIA</p>
 
 </td>
@@ -196,19 +196,19 @@ VEN
 </td>
 
 <td class = 'nodecWhite'  BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/5G TUR.html"  class="nodecWhite">5G TUR</a></p>
+<p id = 'nodecWhite'><a href="../Classi/5G TUR.php"  class="nodecWhite">5G TUR</a></p>
 <p id = 'nodecWhite'>DIRITTO E LEGISL. TURIST.</p>
 
 </td>
 
 <td class = 'nodecWhite'  BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/3C articolata RIM_TUR Gruppo DIR E LEG TUR.html"  class="nodecWhite">3C articolata RIM/TUR Gruppo DIR E LEG TUR</a></p>
+<p id = 'nodecWhite'><a href="../Classi/3C articolata RIM_TUR Gruppo DIR E LEG TUR.php"  class="nodecWhite">3C articolata RIM/TUR Gruppo DIR E LEG TUR</a></p>
 <p id = 'nodecWhite'>DIRITTO E LEGISL. TURIST.</p>
 
 </td>
 
 <td class = 'nodecWhite'  BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/3C articolata RIM_TUR Gruppo DIR E LEG TUR.html"  class="nodecWhite">3C articolata RIM/TUR Gruppo DIR E LEG TUR</a></p>
+<p id = 'nodecWhite'><a href="../Classi/3C articolata RIM_TUR Gruppo DIR E LEG TUR.php"  class="nodecWhite">3C articolata RIM/TUR Gruppo DIR E LEG TUR</a></p>
 <p id = 'nodecWhite'>DIRITTO E LEGISL. TURIST.</p>
 
 </td>
@@ -246,13 +246,13 @@ VEN
 </td>
 
 <td class = 'nodecWhite'  BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/5G TUR.html"  class="nodecWhite">5G TUR</a></p>
+<p id = 'nodecWhite'><a href="../Classi/5G TUR.php"  class="nodecWhite">5G TUR</a></p>
 <p id = 'nodecWhite'>DIRITTO E LEGISL. TURIST.</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0C000" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/1C AFM.html"  class="nodecBlack">1C AFM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/1C AFM.php"  class="nodecBlack">1C AFM</a></p>
 <p id = 'nodecBlack'>DIRITTO E ECONOMIA</p>
 
 </td>

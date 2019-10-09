@@ -56,13 +56,13 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#6CFFFF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5B RIM.html"  class="nodecBlack">5B RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5B RIM.php"  class="nodecBlack">5B RIM</a></p>
 <p id = 'nodecBlack'>RELIGIONE o ATT. ALTERNATIVA</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#6CFFFF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3C articolata RIM_TUR.html"  class="nodecBlack">3C articolata RIM/TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/3C articolata RIM_TUR.php"  class="nodecBlack">3C articolata RIM/TUR</a></p>
 <p id = 'nodecBlack'>RELIGIONE o ATT. ALTERNATIVA</p>
 
 </td>
@@ -94,7 +94,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#6CFFFF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/1B AFM.html"  class="nodecBlack">1B AFM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/1B AFM.php"  class="nodecBlack">1B AFM</a></p>
 <p id = 'nodecBlack'>RELIGIONE o ATT. ALTERNATIVA</p>
 
 </td>
@@ -138,7 +138,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#6CFFFF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/1G TUR.html"  class="nodecBlack">1G TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/1G TUR.php"  class="nodecBlack">1G TUR</a></p>
 <p id = 'nodecBlack'>RELIGIONE o ATT. ALTERNATIVA</p>
 
 </td>
@@ -158,13 +158,13 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#6CFFFF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3B RIM.html"  class="nodecBlack">3B RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/3B RIM.php"  class="nodecBlack">3B RIM</a></p>
 <p id = 'nodecBlack'>RELIGIONE o ATT. ALTERNATIVA</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#6CFFFF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/1E TUR.html"  class="nodecBlack">1E TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/1E TUR.php"  class="nodecBlack">1E TUR</a></p>
 <p id = 'nodecBlack'>RELIGIONE o ATT. ALTERNATIVA</p>
 
 </td>
@@ -176,7 +176,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#6CFFFF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5C RIM.html"  class="nodecBlack">5C RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5C RIM.php"  class="nodecBlack">5C RIM</a></p>
 <p id = 'nodecBlack'>RELIGIONE o ATT. ALTERNATIVA</p>
 
 </td>
@@ -196,25 +196,25 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#6CFFFF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5E TUR.html"  class="nodecBlack">5E TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5E TUR.php"  class="nodecBlack">5E TUR</a></p>
 <p id = 'nodecBlack'>RELIGIONE o ATT. ALTERNATIVA</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#6CFFFF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3E TUR.html"  class="nodecBlack">3E TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/3E TUR.php"  class="nodecBlack">3E TUR</a></p>
 <p id = 'nodecBlack'>RELIGIONE o ATT. ALTERNATIVA</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#6CFFFF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/2B AFM.html"  class="nodecBlack">2B AFM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/2B AFM.php"  class="nodecBlack">2B AFM</a></p>
 <p id = 'nodecBlack'>RELIGIONE o ATT. ALTERNATIVA</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#6CFFFF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/1F TUR.html"  class="nodecBlack">1F TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/1F TUR.php"  class="nodecBlack">1F TUR</a></p>
 <p id = 'nodecBlack'>RELIGIONE o ATT. ALTERNATIVA</p>
 
 </td>
@@ -234,25 +234,25 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#6CFFFF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/1H TUR.html"  class="nodecBlack">1H TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/1H TUR.php"  class="nodecBlack">1H TUR</a></p>
 <p id = 'nodecBlack'>RELIGIONE o ATT. ALTERNATIVA</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#6CFFFF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5G TUR.html"  class="nodecBlack">5G TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5G TUR.php"  class="nodecBlack">5G TUR</a></p>
 <p id = 'nodecBlack'>RELIGIONE o ATT. ALTERNATIVA</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#6CFFFF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/2F TUR.html"  class="nodecBlack">2F TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/2F TUR.php"  class="nodecBlack">2F TUR</a></p>
 <p id = 'nodecBlack'>RELIGIONE o ATT. ALTERNATIVA</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#6CFFFF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/2G TUR.html"  class="nodecBlack">2G TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/2G TUR.php"  class="nodecBlack">2G TUR</a></p>
 <p id = 'nodecBlack'>RELIGIONE o ATT. ALTERNATIVA</p>
 
 </td>
@@ -290,7 +290,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#6CFFFF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5D TUR.html"  class="nodecBlack">5D TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5D TUR.php"  class="nodecBlack">5D TUR</a></p>
 <p id = 'nodecBlack'>RELIGIONE o ATT. ALTERNATIVA</p>
 
 </td>
@@ -316,7 +316,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#6CFFFF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/4C RIM.html"  class="nodecBlack">4C RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/4C RIM.php"  class="nodecBlack">4C RIM</a></p>
 <p id = 'nodecBlack'>RELIGIONE o ATT. ALTERNATIVA</p>
 
 </td>

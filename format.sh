@@ -62,6 +62,7 @@ do_remove_tag(){
 do_change_extensions(){
     DIR=$1
     for f in `find ./TMP/$DIR/ -name "*.html"`;do
+        sed  -i 's/html/php/g' $f
         mv "$f" ./TMP/$DIR/"$(basename "$f" .html).php"
     done
 }

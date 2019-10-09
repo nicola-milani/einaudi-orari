@@ -38,7 +38,7 @@ VEN
 </td>
 
 <td class = 'nodecWhite'  BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/5D TUR.html"  class="nodecWhite">5D TUR</a></p>
+<p id = 'nodecWhite'><a href="../Classi/5D TUR.php"  class="nodecWhite">5D TUR</a></p>
 <p id = 'nodecWhite'>DIRITTO E LEGISL. TURIST.</p>
 
 </td>
@@ -62,7 +62,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#A090FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/4A RIM.html"  class="nodecBlack">4A RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/4A RIM.php"  class="nodecBlack">4A RIM</a></p>
 <p id = 'nodecBlack'>DIRITTO</p>
 
 </td>
@@ -76,7 +76,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0C000" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/2E TUR.html"  class="nodecBlack">2E TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/2E TUR.php"  class="nodecBlack">2E TUR</a></p>
 <p id = 'nodecBlack'>DIRITTO E ECONOMIA</p>
 
 </td>
@@ -100,7 +100,7 @@ VEN
 </td>
 
 <td class = 'nodecWhite'  BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/5E TUR.html"  class="nodecWhite">5E TUR</a></p>
+<p id = 'nodecWhite'><a href="../Classi/5E TUR.php"  class="nodecWhite">5E TUR</a></p>
 <p id = 'nodecWhite'>DIRITTO E LEGISL. TURIST.</p>
 
 </td>
@@ -114,7 +114,7 @@ VEN
 </td>
 
 <td class = 'nodecWhite'  BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/3E TUR.html"  class="nodecWhite">3E TUR</a></p>
+<p id = 'nodecWhite'><a href="../Classi/3E TUR.php"  class="nodecWhite">3E TUR</a></p>
 <p id = 'nodecWhite'>DIRITTO E LEGISL. TURIST.</p>
 
 </td>
@@ -126,19 +126,19 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#A090FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/4B RIM.html"  class="nodecBlack">4B RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/4B RIM.php"  class="nodecBlack">4B RIM</a></p>
 <p id = 'nodecBlack'>DIRITTO</p>
 
 </td>
 
 <td class = 'nodecWhite'  BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/3E TUR.html"  class="nodecWhite">3E TUR</a></p>
+<p id = 'nodecWhite'><a href="../Classi/3E TUR.php"  class="nodecWhite">3E TUR</a></p>
 <p id = 'nodecWhite'>DIRITTO E LEGISL. TURIST.</p>
 
 </td>
 
 <td class = 'nodecWhite'  BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/5D TUR.html"  class="nodecWhite">5D TUR</a></p>
+<p id = 'nodecWhite'><a href="../Classi/5D TUR.php"  class="nodecWhite">5D TUR</a></p>
 <p id = 'nodecWhite'>DIRITTO E LEGISL. TURIST.</p>
 
 </td>
@@ -164,13 +164,13 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#A090FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/4A RIM.html"  class="nodecBlack">4A RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/4A RIM.php"  class="nodecBlack">4A RIM</a></p>
 <p id = 'nodecBlack'>DIRITTO</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0C000" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/2E TUR.html"  class="nodecBlack">2E TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/2E TUR.php"  class="nodecBlack">2E TUR</a></p>
 <p id = 'nodecBlack'>DIRITTO E ECONOMIA</p>
 
 </td>
@@ -190,7 +190,7 @@ VEN
 </td>
 
 <td class = 'nodecWhite'  BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/5E TUR.html"  class="nodecWhite">5E TUR</a></p>
+<p id = 'nodecWhite'><a href="../Classi/5E TUR.php"  class="nodecWhite">5E TUR</a></p>
 <p id = 'nodecWhite'>DIRITTO E LEGISL. TURIST.</p>
 
 </td>
@@ -208,13 +208,13 @@ VEN
 </td>
 
 <td class = 'nodecWhite'  BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/5D TUR.html"  class="nodecWhite">5D TUR</a></p>
+<p id = 'nodecWhite'><a href="../Classi/5D TUR.php"  class="nodecWhite">5D TUR</a></p>
 <p id = 'nodecWhite'>DIRITTO E LEGISL. TURIST.</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#A090FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/4B RIM.html"  class="nodecBlack">4B RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/4B RIM.php"  class="nodecBlack">4B RIM</a></p>
 <p id = 'nodecBlack'>DIRITTO</p>
 
 </td>
@@ -234,7 +234,7 @@ VEN
 </td>
 
 <td class = 'nodecWhite'  BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/3E TUR.html"  class="nodecWhite">3E TUR</a></p>
+<p id = 'nodecWhite'><a href="../Classi/3E TUR.php"  class="nodecWhite">3E TUR</a></p>
 <p id = 'nodecWhite'>DIRITTO E LEGISL. TURIST.</p>
 
 </td>
@@ -246,7 +246,7 @@ VEN
 </td>
 
 <td class = 'nodecWhite'  BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/5E TUR.html"  class="nodecWhite">5E TUR</a></p>
+<p id = 'nodecWhite'><a href="../Classi/5E TUR.php"  class="nodecWhite">5E TUR</a></p>
 <p id = 'nodecWhite'>DIRITTO E LEGISL. TURIST.</p>
 
 </td>

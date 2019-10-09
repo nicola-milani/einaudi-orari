@@ -38,31 +38,31 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FFFF80" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/1A AFM.html"  class="nodecBlack">1A AFM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/1A AFM.php"  class="nodecBlack">1A AFM</a></p>
 <p id = 'nodecBlack'>SCIENZE TERRA/BIOLOGIA</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FF8060" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/2H TUR.html"  class="nodecBlack">2H TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/2H TUR.php"  class="nodecBlack">2H TUR</a></p>
 <p id = 'nodecBlack'>CHIMICA</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FF8060" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/2A AFM.html"  class="nodecBlack">2A AFM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/2A AFM.php"  class="nodecBlack">2A AFM</a></p>
 <p id = 'nodecBlack'>CHIMICA</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FFFF80" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/2A AFM.html"  class="nodecBlack">2A AFM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/2A AFM.php"  class="nodecBlack">2A AFM</a></p>
 <p id = 'nodecBlack'>SCIENZE TERRA/BIOLOGIA</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FFFF80" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/2H TUR.html"  class="nodecBlack">2H TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/2H TUR.php"  class="nodecBlack">2H TUR</a></p>
 <p id = 'nodecBlack'>SCIENZE TERRA/BIOLOGIA</p>
 
 </td>
@@ -76,31 +76,31 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FFFF80" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/2F TUR.html"  class="nodecBlack">2F TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/2F TUR.php"  class="nodecBlack">2F TUR</a></p>
 <p id = 'nodecBlack'>SCIENZE TERRA/BIOLOGIA</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FF8060" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/2H TUR.html"  class="nodecBlack">2H TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/2H TUR.php"  class="nodecBlack">2H TUR</a></p>
 <p id = 'nodecBlack'>CHIMICA</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FFFF80" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/2H TUR.html"  class="nodecBlack">2H TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/2H TUR.php"  class="nodecBlack">2H TUR</a></p>
 <p id = 'nodecBlack'>SCIENZE TERRA/BIOLOGIA</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FFFF80" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/2F TUR.html"  class="nodecBlack">2F TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/2F TUR.php"  class="nodecBlack">2F TUR</a></p>
 <p id = 'nodecBlack'>SCIENZE TERRA/BIOLOGIA</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FF8060" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/2F TUR.html"  class="nodecBlack">2F TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/2F TUR.php"  class="nodecBlack">2F TUR</a></p>
 <p id = 'nodecBlack'>CHIMICA</p>
 
 </td>
@@ -114,7 +114,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FFFF80" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/1F TUR.html"  class="nodecBlack">1F TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/1F TUR.php"  class="nodecBlack">1F TUR</a></p>
 <p id = 'nodecBlack'>SCIENZE TERRA/BIOLOGIA</p>
 
 </td>
@@ -126,19 +126,19 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0E0E0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/1A AFM.html"  class="nodecBlack">1A AFM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/1A AFM.php"  class="nodecBlack">1A AFM</a></p>
 <p id = 'nodecBlack'>GEOGRAFIA</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FFFF80" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/1F TUR.html"  class="nodecBlack">1F TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/1F TUR.php"  class="nodecBlack">1F TUR</a></p>
 <p id = 'nodecBlack'>SCIENZE TERRA/BIOLOGIA</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FF8060" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/2F TUR.html"  class="nodecBlack">2F TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/2F TUR.php"  class="nodecBlack">2F TUR</a></p>
 <p id = 'nodecBlack'>CHIMICA</p>
 
 </td>
@@ -170,13 +170,13 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#C0E0E0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/1A AFM.html"  class="nodecBlack">1A AFM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/1A AFM.php"  class="nodecBlack">1A AFM</a></p>
 <p id = 'nodecBlack'>GEOGRAFIA</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FF8060" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/2A AFM.html"  class="nodecBlack">2A AFM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/2A AFM.php"  class="nodecBlack">2A AFM</a></p>
 <p id = 'nodecBlack'>CHIMICA</p>
 
 </td>
@@ -202,7 +202,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FFFF80" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/2A AFM.html"  class="nodecBlack">2A AFM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/2A AFM.php"  class="nodecBlack">2A AFM</a></p>
 <p id = 'nodecBlack'>SCIENZE TERRA/BIOLOGIA</p>
 
 </td>
@@ -214,7 +214,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FFFF80" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/1A AFM.html"  class="nodecBlack">1A AFM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/1A AFM.php"  class="nodecBlack">1A AFM</a></p>
 <p id = 'nodecBlack'>SCIENZE TERRA/BIOLOGIA</p>
 
 </td>

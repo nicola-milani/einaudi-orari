@@ -56,7 +56,7 @@ VEN
 </td>
 
 <td class = 'nodecWhite'  BGCOLOR="#0080E0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/4E TUR.html"  class="nodecWhite">4E TUR</a></p>
+<p id = 'nodecWhite'><a href="../Classi/4E TUR.php"  class="nodecWhite">4E TUR</a></p>
 <p id = 'nodecWhite'>ARTE E TERRITORIO</p>
 
 </td>
@@ -94,7 +94,7 @@ VEN
 </td>
 
 <td class = 'nodecWhite'  BGCOLOR="#0080E0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/4E TUR.html"  class="nodecWhite">4E TUR</a></p>
+<p id = 'nodecWhite'><a href="../Classi/4E TUR.php"  class="nodecWhite">4E TUR</a></p>
 <p id = 'nodecWhite'>ARTE E TERRITORIO</p>
 
 </td>
@@ -208,7 +208,7 @@ VEN
 </td>
 
 <td class = 'nodecWhite'  BGCOLOR="#0080E0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/4F TUR.html"  class="nodecWhite">4F TUR</a></p>
+<p id = 'nodecWhite'><a href="../Classi/4F TUR.php"  class="nodecWhite">4F TUR</a></p>
 <p id = 'nodecWhite'>ARTE E TERRITORIO</p>
 
 </td>
@@ -246,7 +246,7 @@ VEN
 </td>
 
 <td class = 'nodecWhite'  BGCOLOR="#0080E0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/4F TUR.html"  class="nodecWhite">4F TUR</a></p>
+<p id = 'nodecWhite'><a href="../Classi/4F TUR.php"  class="nodecWhite">4F TUR</a></p>
 <p id = 'nodecWhite'>ARTE E TERRITORIO</p>
 
 </td>

@@ -38,7 +38,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FF9D9D" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3B RIM.html"  class="nodecBlack">3B RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/3B RIM.php"  class="nodecBlack">3B RIM</a></p>
 <p id = 'nodecBlack'>EC. AZIEND. e GEOGR. POLITICA</p>
 
 </td>
@@ -62,7 +62,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#B0B0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/2G TUR.html"  class="nodecBlack">2G TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/2G TUR.php"  class="nodecBlack">2G TUR</a></p>
 <p id = 'nodecBlack'>ECONOMIA AZIENDALE</p>
 
 </td>
@@ -76,7 +76,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#B0B0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/1H TUR.html"  class="nodecBlack">1H TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/1H TUR.php"  class="nodecBlack">1H TUR</a></p>
 <p id = 'nodecBlack'>ECONOMIA AZIENDALE</p>
 
 </td>
@@ -100,7 +100,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#B0B0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/2C AFM.html"  class="nodecBlack">2C AFM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/2C AFM.php"  class="nodecBlack">2C AFM</a></p>
 <p id = 'nodecBlack'>ECONOMIA AZIENDALE</p>
 
 </td>
@@ -132,13 +132,13 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FF9D9D" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3B RIM.html"  class="nodecBlack">3B RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/3B RIM.php"  class="nodecBlack">3B RIM</a></p>
 <p id = 'nodecBlack'>EC. AZIEND. e GEOGR. POLITICA</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FF9D9D" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3B RIM.html"  class="nodecBlack">3B RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/3B RIM.php"  class="nodecBlack">3B RIM</a></p>
 <p id = 'nodecBlack'>EC. AZIEND. e GEOGR. POLITICA</p>
 
 </td>
@@ -176,7 +176,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#B0B0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/1H TUR.html"  class="nodecBlack">1H TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/1H TUR.php"  class="nodecBlack">1H TUR</a></p>
 <p id = 'nodecBlack'>ECONOMIA AZIENDALE</p>
 
 </td>
@@ -208,7 +208,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#B0B0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/2C AFM.html"  class="nodecBlack">2C AFM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/2C AFM.php"  class="nodecBlack">2C AFM</a></p>
 <p id = 'nodecBlack'>ECONOMIA AZIENDALE</p>
 
 </td>
@@ -240,7 +240,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#B0B0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/2G TUR.html"  class="nodecBlack">2G TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/2G TUR.php"  class="nodecBlack">2G TUR</a></p>
 <p id = 'nodecBlack'>ECONOMIA AZIENDALE</p>
 
 </td>
@@ -278,7 +278,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FF9D9D" COLSPAN=1 ROWSPAN=2 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3B RIM.html"  class="nodecBlack">3B RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/3B RIM.php"  class="nodecBlack">3B RIM</a></p>
 <p id = 'nodecBlack'>EC. AZIEND. e GEOGR. POLITICA</p>
 
 </td>

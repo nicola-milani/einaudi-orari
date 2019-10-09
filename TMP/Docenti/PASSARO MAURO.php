@@ -50,7 +50,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FFA0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3A RIM.html"  class="nodecBlack">3A RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/3A RIM.php"  class="nodecBlack">3A RIM</a></p>
 <p id = 'nodecBlack'>INGLESE</p>
 
 </td>
@@ -62,7 +62,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FFA0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3A RIM.html"  class="nodecBlack">3A RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/3A RIM.php"  class="nodecBlack">3A RIM</a></p>
 <p id = 'nodecBlack'>INGLESE</p>
 
 </td>
@@ -100,7 +100,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FFA0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5A RIM.html"  class="nodecBlack">5A RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5A RIM.php"  class="nodecBlack">5A RIM</a></p>
 <p id = 'nodecBlack'>INGLESE</p>
 
 </td>
@@ -120,7 +120,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FFA0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3C articolata RIM_TUR.html"  class="nodecBlack">3C articolata RIM/TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/3C articolata RIM_TUR.php"  class="nodecBlack">3C articolata RIM/TUR</a></p>
 <p id = 'nodecBlack'>INGLESE</p>
 
 </td>
@@ -170,7 +170,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FFA0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3C articolata RIM_TUR.html"  class="nodecBlack">3C articolata RIM/TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/3C articolata RIM_TUR.php"  class="nodecBlack">3C articolata RIM/TUR</a></p>
 <p id = 'nodecBlack'>INGLESE</p>
 
 </td>
@@ -190,7 +190,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FFA0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5A RIM.html"  class="nodecBlack">5A RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5A RIM.php"  class="nodecBlack">5A RIM</a></p>
 <p id = 'nodecBlack'>INGLESE</p>
 
 </td>
@@ -228,13 +228,13 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FFA0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3C articolata RIM_TUR.html"  class="nodecBlack">3C articolata RIM/TUR</a></p>
+<p id = 'nodecBlack'><a href="../Classi/3C articolata RIM_TUR.php"  class="nodecBlack">3C articolata RIM/TUR</a></p>
 <p id = 'nodecBlack'>INGLESE</p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FFA0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3A RIM.html"  class="nodecBlack">3A RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/3A RIM.php"  class="nodecBlack">3A RIM</a></p>
 <p id = 'nodecBlack'>INGLESE</p>
 
 </td>
@@ -246,7 +246,7 @@ VEN
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#FFA0FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5A RIM.html"  class="nodecBlack">5A RIM</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5A RIM.php"  class="nodecBlack">5A RIM</a></p>
 <p id = 'nodecBlack'>INGLESE</p>
 
 </td>
