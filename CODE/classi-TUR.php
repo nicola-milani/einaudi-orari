@@ -10,8 +10,8 @@
     </div>
 
     <div align="center">
-        <div class="responsive">
-        <table cellspacing=0 class="table table-hover table-borderless table-responsive text-center">
+        <div class="responsive" style="vertical-align: top;">
+            <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=4 class="tabel launch">
 
                 <TR VALIGN=TOP>
 
@@ -28,7 +28,7 @@
                 <tr>
                     <td><A HREF="Classi/3E TUR.php" class='mathema'>3E TUR</A><BR></td>
                 </tr>
-                <tr>
+<!--                 <tr>
                     <td class='mathema'>
                       <p> &nbsp</p>
                     </td>
@@ -36,12 +36,11 @@
                 <tr>
                     <td class='mathema'>
                     </td>
-                </tr>
+                </tr> -->
             </TABLE>
         </div>
-        <div class="responsive">
-        <table cellspacing=0 class="table table-hover table-borderless table-responsive text-center">
-
+        <div class="responsive" style="vertical-align: top;">
+            <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=4 class="tabel launch">
 
                 <TR VALIGN=TOP>
 
@@ -59,7 +58,7 @@
                 <tr>
                     <td><A HREF="Classi/4G TUR.php" class='mathema'>4G TUR</A><BR></td>
                 </tr>
-                <tr>
+<!--                 <tr>
                     <td class='mathema'>
                       <p> &nbsp</p>
                     </td>
@@ -67,11 +66,12 @@
                 <tr>
                     <td class='mathema'>
                     </td>
-                </tr>
+                </tr> -->
             </TABLE>
         </div>
-        <div class="responsive">
-        <table cellspacing=0 class="table table-hover table-borderless table-responsive text-center">
+        <div class="responsive" style="vertical-align: top;">
+            <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=4 class="tabel launch">
+
                 <TR VALIGN=TOP>
 
                     <Th ALIGN=TOP class='mathema'>
@@ -90,10 +90,10 @@
                 <tr>
                     <td><A HREF="Classi/5G TUR.php" class='mathema'>5G TUR</A><BR></td>
                 </tr>
-                <tr>
+<!--                 <tr>
                     <td>
                     </td>
-                </tr>
+                </tr> -->
             </TABLE>
         </div>
     </div>

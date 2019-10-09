@@ -11,8 +11,7 @@
 
     <div align="center">
         <div class="responsive" style="vertical-align: top;">
-
-            <table cellspacing=0 class="table table-hover table-borderless table-responsive text-center">
+            <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=4 class="tabel launch">
 
                 <TR VALIGN=TOP>
 
@@ -30,10 +29,20 @@
                 <tr>
                     <td><A HREF="Classi/3C articolata RIM_TUR.php" class='mathema'>3C articolata RIM/TUR</A><BR></td>
                 </tr>
+<!--                 <tr>
+                    <td class='mathema'>
+                      <p> &nbsp</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class='mathema'>
+                    </td>
+                </tr> -->
             </TABLE>
         </div>
         <div class="responsive" style="vertical-align: top;">
-            <table cellspacing=0 class="table table-hover table-borderless table-responsive text-center">
+
+            <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=4 class="tabel launch">
 
                 <TR VALIGN=TOP>
 
@@ -53,12 +62,18 @@
                 <tr>
                     <td><A HREF="Classi/4D RIM.php" class='mathema'>4D RIM</A><BR></td>
                 </tr>
+<!--                 <tr>
+                    <td class='mathema'>
+                      <p> &nbsp</p>
+                    </td>
+                </tr> -->
 
             </TABLE>
         </div>
-
         <div class="responsive" style="vertical-align: top;">
-            <table cellspacing=0 class="table table-hover table-borderless table-responsive text-center">
+
+            <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=4 class="tabel launch">
+
                 <TR VALIGN=TOP>
 
                     <Th ALIGN=TOP class='mathema'>
@@ -74,6 +89,14 @@
                 <tr>
                     <td><A HREF="Classi/5C RIM.php" class='mathema'>5C RIM</A><BR></td>
                 </tr>
+<!--                 <tr>
+                    <td class='mathema'>
+                    </td>
+                </tr>
+                <tr>
+                    <td class='mathema'>
+                    </td>
+                </tr> -->
             </TABLE>
 
         </div>

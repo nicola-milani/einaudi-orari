@@ -8,8 +8,8 @@
     <?php include 'header.html';?>
 
     <div align="center">
-        <div class="responsive">
-            <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=4>
+        <div class="responsive" style="vertical-align: top;">
+            <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=4 class="table launch">
 
                 <TR VALIGN=TOP>
 
