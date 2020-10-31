@@ -6,12 +6,12 @@
         <?php include '../header.html';?>
         <div align="center">
 <p class='mathema'>
-ORARIO DOCENTE VENDITTI DEBORA</p>
+ORARIO DOCENTE VENDITTI Debora</p>
 </div>
     <div align="center">
 
 
-<table cellspacing=0 class="table table-hover table-borderless table-responsive text-center">
+<table BORDER=2 WIDTH="90%" CELLSPACING=0 CELLPADDING=4>
 
 <tr >
 
@@ -34,18 +34,12 @@ VEN
 <tr >
 
 <th class='mathema' scope="row" >
-7.55
+8.00
 </td>
 
-<td class = 'nodecWhite'  BGCOLOR="#C0C0C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'>DISPOSIZIONE</p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'nodecWhite'  BGCOLOR="#0080E0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/5F TUR.html"  class="nodecWhite">5F TUR</a></p>
-<p id = 'nodecWhite'>ARTE E TERRITORIO</p>
+<td class = 'nodecBlack'  BGCOLOR="#FFC0C0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'><a href="../Classi/4C articolata RIM_TUR Gruppo ARTE E TERR.php" class="nodecBlack">4C articolata RIM/TUR Gruppo ARTE E TERR</a></p>
+<p id = 'nodecBlack'>ARTE e TERRITORIO</p>
 
 </td>
 
@@ -55,15 +49,21 @@ VEN
 
 </td>
 
-<td class = 'nodecWhite'  BGCOLOR="#0080E0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/3C articolata RIM_TUR Gruppo ARTE E TERRIT.html"  class="nodecWhite">3C articolata RIM/TUR Gruppo ARTE E TERRIT</a></p>
-<p id = 'nodecWhite'>ARTE E TERRITORIO</p>
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
+<p id = 'mathema'>&nbsp;<p>
 
 </td>
 
 <td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
 <p id = 'mathema'>&nbsp;<p>
 <p id = 'mathema'>&nbsp;<p>
+
+</td>
+
+<td class = 'nodecBlack'  BGCOLOR="#FFC0C0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'><a href="../Classi/4E TUR.php" class="nodecBlack">4E TUR</a></p>
+<p id = 'nodecBlack'>ARTE e TERRITORIO</p>
 
 </td>
 
@@ -72,17 +72,11 @@ VEN
 <tr >
 
 <th class='mathema' scope="row" >
-8.55
+8.50
 </td>
 
-<td class = 'nodecWhite'  BGCOLOR="#C0C0C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'>DISPOSIZIONE</p>
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
 <p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'nodecWhite'  BGCOLOR="#C0C0C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'>DISPOSIZIONE</p>
 <p id = 'mathema'>&nbsp;<p>
 
 </td>
@@ -93,15 +87,21 @@ VEN
 
 </td>
 
-<td class = 'nodecWhite'  BGCOLOR="#0080E0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/5F TUR.html"  class="nodecWhite">5F TUR</a></p>
-<p id = 'nodecWhite'>ARTE E TERRITORIO</p>
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
+<p id = 'mathema'>&nbsp;<p>
 
 </td>
 
 <td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
 <p id = 'mathema'>&nbsp;<p>
 <p id = 'mathema'>&nbsp;<p>
+
+</td>
+
+<td class = 'nodecBlack'  BGCOLOR="#FFC0C0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'><a href="../Classi/5G TUR.php" class="nodecBlack">5G TUR</a></p>
+<p id = 'nodecBlack'>ARTE e TERRITORIO</p>
 
 </td>
 
@@ -110,89 +110,7 @@ VEN
 <tr >
 
 <th class='mathema' scope="row" >
-9.55
-</td>
-
-<td class = 'nodecWhite'  BGCOLOR="#C0C0C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'>DISPOSIZIONE</p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'nodecWhite'  BGCOLOR="#C0C0C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'>DISPOSIZIONE</p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
-<p id = 'mathema'>&nbsp;<p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'nodecWhite'  BGCOLOR="#C0C0C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'>DISPOSIZIONE</p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
-<p id = 'mathema'>&nbsp;<p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-</tr>
-
-<tr >
-
-<th class='mathema' scope="row" >
-11.05
-</td>
-
-<td class = 'nodecWhite'  BGCOLOR="#0080E0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/5E TUR.html"  class="nodecWhite">5E TUR</a></p>
-<p id = 'nodecWhite'>ARTE E TERRITORIO</p>
-
-</td>
-
-<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
-<p id = 'mathema'>&nbsp;<p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
-<p id = 'mathema'>&nbsp;<p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'nodecWhite'  BGCOLOR="#C0C0C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'>DISPOSIZIONE</p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'nodecWhite'  BGCOLOR="#C0C0C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'>DISPOSIZIONE</p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-</tr>
-
-<tr >
-
-<th class='mathema' scope="row" >
-11.55
-</td>
-
-<td class = 'nodecWhite'  BGCOLOR="#0080E0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/3E TUR.html"  class="nodecWhite">3E TUR</a></p>
-<p id = 'nodecWhite'>ARTE E TERRITORIO</p>
-
+9.40
 </td>
 
 <td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
@@ -210,76 +128,6 @@ VEN
 <td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
 <p id = 'mathema'>&nbsp;<p>
 <p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'nodecWhite'  BGCOLOR="#C0C0C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'>DISPOSIZIONE</p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-</tr>
-
-<tr >
-
-<th class='mathema' scope="row" >
-12.55
-</td>
-
-<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
-<p id = 'mathema'>&nbsp;<p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
-<p id = 'mathema'>&nbsp;<p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'nodecWhite'  BGCOLOR="#0080E0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/5E TUR.html"  class="nodecWhite">5E TUR</a></p>
-<p id = 'nodecWhite'>ARTE E TERRITORIO</p>
-
-</td>
-
-<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
-<p id = 'mathema'>&nbsp;<p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'nodecWhite'  BGCOLOR="#0080E0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/3E TUR.html"  class="nodecWhite">3E TUR</a></p>
-<p id = 'nodecWhite'>ARTE E TERRITORIO</p>
-
-</td>
-
-</tr>
-
-<tr >
-
-<th class='mathema' scope="row" >
-14.15
-</td>
-
-<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
-<p id = 'mathema'>&nbsp;<p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
-<p id = 'mathema'>&nbsp;<p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'nodecWhite'  BGCOLOR="#0080E0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/3C articolata RIM_TUR Gruppo ARTE E TERRIT.html"  class="nodecWhite">3C articolata RIM/TUR Gruppo ARTE E TERRIT</a></p>
-<p id = 'nodecWhite'>ARTE E TERRITORIO</p>
 
 </td>
 
@@ -300,7 +148,19 @@ VEN
 <tr >
 
 <th class='mathema' scope="row" >
-15.05
+10.40
+</td>
+
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
+<p id = 'mathema'>&nbsp;<p>
+
+</td>
+
+<td class = 'nodecBlack'  BGCOLOR="#FFC0C0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'><a href="../Classi/4C articolata RIM_TUR Gruppo ARTE E TERR.php" class="nodecBlack">4C articolata RIM/TUR Gruppo ARTE E TERR</a></p>
+<p id = 'nodecBlack'>ARTE e TERRITORIO</p>
+
 </td>
 
 <td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
@@ -315,8 +175,22 @@ VEN
 
 </td>
 
-<td class = 'nodecWhite'  BGCOLOR="#C0C0C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'>DISPOSIZIONE</p>
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
+<p id = 'mathema'>&nbsp;<p>
+
+</td>
+
+</tr>
+
+<tr >
+
+<th class='mathema' scope="row" >
+11.30
+</td>
+
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
 <p id = 'mathema'>&nbsp;<p>
 
 </td>
@@ -324,6 +198,132 @@ VEN
 <td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
 <p id = 'mathema'>&nbsp;<p>
 <p id = 'mathema'>&nbsp;<p>
+
+</td>
+
+<td class = 'nodecBlack'  BGCOLOR="#FFC0C0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'><a href="../Classi/5E TUR.php" class="nodecBlack">5E TUR</a></p>
+<p id = 'nodecBlack'>ARTE e TERRITORIO</p>
+
+</td>
+
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
+<p id = 'mathema'>&nbsp;<p>
+
+</td>
+
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
+<p id = 'mathema'>&nbsp;<p>
+
+</td>
+
+</tr>
+
+<tr >
+
+<th class='mathema' scope="row" >
+12.30
+</td>
+
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
+<p id = 'mathema'>&nbsp;<p>
+
+</td>
+
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
+<p id = 'mathema'>&nbsp;<p>
+
+</td>
+
+<td class = 'nodecBlack'  BGCOLOR="#FFC0C0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'><a href="../Classi/4E TUR.php" class="nodecBlack">4E TUR</a></p>
+<p id = 'nodecBlack'>ARTE e TERRITORIO</p>
+
+</td>
+
+<td class = 'nodecBlack'  BGCOLOR="#FFC0C0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'><a href="../Classi/5E TUR.php" class="nodecBlack">5E TUR</a></p>
+<p id = 'nodecBlack'>ARTE e TERRITORIO</p>
+
+</td>
+
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
+<p id = 'mathema'>&nbsp;<p>
+
+</td>
+
+</tr>
+
+<tr >
+
+<th class='mathema' scope="row" >
+13.20
+</td>
+
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
+<p id = 'mathema'>&nbsp;<p>
+
+</td>
+
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
+<p id = 'mathema'>&nbsp;<p>
+
+</td>
+
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
+<p id = 'mathema'>&nbsp;<p>
+
+</td>
+
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
+<p id = 'mathema'>&nbsp;<p>
+
+</td>
+
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
+<p id = 'mathema'>&nbsp;<p>
+
+</td>
+
+</tr>
+
+<tr >
+
+<th class='mathema' scope="row" >
+14.20
+</td>
+
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
+<p id = 'mathema'>&nbsp;<p>
+
+</td>
+
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
+<p id = 'mathema'>&nbsp;<p>
+
+</td>
+
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
+<p id = 'mathema'>&nbsp;<p>
+
+</td>
+
+<td class = 'nodecBlack'  BGCOLOR="#FFC0C0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'><a href="../Classi/5G TUR.php" class="nodecBlack">5G TUR</a></p>
+<p id = 'nodecBlack'>ARTE e TERRITORIO</p>
 
 </td>
 
@@ -336,6 +336,7 @@ VEN
 </tr>
 
 </table>
+
 
 
         </div>

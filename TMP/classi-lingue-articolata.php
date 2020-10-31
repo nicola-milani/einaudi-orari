@@ -15,83 +15,30 @@
             <TR VALIGN=TOP>
 
                 <Th ALIGN=TOP class='mathema'>
-                    <b>CLASSI TERZE RIM</b>
+                    <b>CLASSI TERZE</b>
                 </Th>
             </tr>
+<tr><td><A HREF="Classi/3A RIM gruppo FRA L3.html" class = 'mathema'>3A RIM gruppo FRA L3</A><BR></td></tr>
+<tr><td><A HREF="Classi/3A RIM gruppo SPA 3.html" class = 'mathema'>3A RIM gruppo SPA 3</A><BR></td></tr>
+<tr><td><A HREF="Classi/3B RIM gruppo CIN 3.html" class = 'mathema'>3B RIM gruppo CIN 3</A><BR></td></tr>
+<tr><td><A HREF="Classi/3B RIM gruppo SPA 3.html" class = 'mathema'>3B RIM gruppo SPA 3</A><BR></td></tr>
+<tr><td><A HREF="Classi/3C RIM gruppo FRA 3.html" class = 'mathema'>3C RIM gruppo FRA 3</A><BR></td></tr>
+<tr><td><A HREF="Classi/3C RIM gruppo TED 3.html" class = 'mathema'>3C RIM gruppo TED 3</A><BR></td></tr>
+<tr><td><A HREF="Classi/3D RIM gruppo FRA 3.html" class = 'mathema'>3D RIM gruppo FRA 3</A><BR></td></tr>
+<tr><td><A HREF="Classi/3D RIM gruppo TED 3.html" class = 'mathema'>3D RIM gruppo TED 3</A><BR></td></tr>
+<tr><td><A HREF="Classi/3E RIM gruppo FRA 2.html" class = 'mathema'>3E RIM gruppo FRA 2</A><BR></td></tr>
+<tr><td><A HREF="Classi/3E RIM gruppo SPA 2.html" class = 'mathema'>3E RIM gruppo SPA 2</A><BR></td></tr>
+<tr><td><A HREF="Classi/3E RIM gruppo CIN 3.html" class = 'mathema'>3E RIM gruppo CIN 3</A><BR></td></tr>
+<tr><td><A HREF="Classi/3E RIM gruppo SPA 3.html" class = 'mathema'>3E RIM gruppo SPA 3</A><BR></td></tr>
+<tr><td><A HREF="Classi/3F TUR gruppo FRA 2.html" class = 'mathema'>3F TUR gruppo FRA 2</A><BR></td></tr>
+<tr><td><A HREF="Classi/3F TUR gruppo SPA 2.html" class = 'mathema'>3F TUR gruppo SPA 2</A><BR></td></tr>
+<tr><td><A HREF="Classi/3F TUR gruppo SPA 3.html" class = 'mathema'>3F TUR gruppo SPA 3</A><BR></td></tr>
+<tr><td><A HREF="Classi/3F TUR gruppo TED 3.html" class = 'mathema'>3F TUR gruppo TED 3</A><BR></td></tr>
+<tr><td><A HREF="Classi/3G TUR gruppo SPA 2.html" class = 'mathema'>3G TUR gruppo SPA 2</A><BR></td></tr>
+<tr><td><A HREF="Classi/3G TUR gruppo TED 2.html" class = 'mathema'>3G TUR gruppo TED 2</A><BR></td></tr>
+<tr><td><A HREF="Classi/3G TUR gruppo FRA 3.html" class = 'mathema'>3G TUR gruppo FRA 3</A><BR></td></tr>
+<tr><td><A HREF="Classi/3G TUR gruppo SPA 3.html" class = 'mathema'>3G TUR gruppo SPA 3</A><BR></td></tr>
 
-           
-            <tr>
-                <td><A HREF="Classi/3A RIM Gruppo SPA 2.html" class='mathema'>3A RIM Gruppo SPA 2</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/3A RIM Gruppo TED 2.html" class='mathema'>3A RIM Gruppo TED 2</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/3A RIM Gruppo CIN 3.html" class='mathema'>3A RIM Gruppo CIN 3</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/3A RIM Gruppo SPA 3.html" class='mathema'>3A RIM Gruppo SPA 3</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/3A RIM Gruppo TED 3.html" class='mathema'>3A RIM Gruppo TED 3</A><BR></td>
-            </tr>
-        
-            <tr>
-                <td><A HREF="Classi/3C articolata RIM_TUR Gruppo ARTE E TERRIT.html" class='mathema'>3C articolata
-                        RIM/TUR Gruppo ARTE E TERRIT</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/3C articolata RIM_TUR GruppoRELAZ INTERNAZ.html" class='mathema'>3C articolata
-                        RIM/TUR GruppoRELAZ INTERNAZ</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/3C articolata RIM_TUR Gruppo DIR E LEG TUR.html" class='mathema'>3C articolata
-                        RIM/TUR Gruppo DIR E LEG TUR</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/3C articolata RIM_TUR Gruppo DIRITTO RIM.html" class='mathema'>3C articolata RIM/TUR
-                        Gruppo DIRITTO RIM</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/3C articolata RIM_TUR Gruppo DTA.html" class='mathema'>3C articolata RIM/TUR Gruppo
-                        DTA</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/3C articolata RIM_TUR Gruppo EC AZIENDALE.html" class='mathema'>3C articolata
-                        RIM/TUR Gruppo EC AZIENDALE</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/3C articolata RIM_TUR Gruppo DIRITTO E LEG TUR1.html" class='mathema'>3C articolata
-                        RIM/TUR Gruppo DIRITTO E LEG TUR1</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/3C articolata RIM_TUR Gruppo EC AZ E GEOPOL1.html" class='mathema'>3C articolata
-                        RIM/TUR Gruppo EC AZ E GEOPOL1</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/3C RIM Gruppo SPA 2.html" class='mathema'>3C RIM Gruppo SPA 2</A><BR></td>
-            </tr>
-
-            <tr>
-                <td><A HREF="Classi/3C Gruppo RIM TED 3.html" class='mathema'>3C Gruppo RIM TED 3</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/3C Gruppo TUR SPA 3.html" class='mathema'>3C Gruppo TUR SPA 3</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/3C RIM Gruppo CIN 3.html" class='mathema'>3C RIM Gruppo CIN 3</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/3C articolata RIM_TUR Gruppo GEOGR TUR.html" class='mathema'>3C articolata RIM/TUR
-                        Gruppo GEOGR TUR</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/3C articolata RIM_TUR Gruppo TEC COMM.html" class='mathema'>3C articolata RIM/TUR
-                        Gruppo TEC COMM</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/3C articolata RIM_TUR.html" class='mathema'>3C articolata RIM/TUR</A><BR></td>
-            </tr>
 
         </TABLE>
         </div>
@@ -102,39 +49,46 @@
             <TR VALIGN=TOP>
 
                 <Th ALIGN=TOP class='mathema'>
-                    <b>CLASSI QUARTE RIM</b>
+                    <b>CLASSI QUARTE</b>
                 </Th>
             </tr>
-            <tr>
-                <td><A HREF="Classi/4A RIM Gruppo CIN 3.html" class='mathema'>4A RIM Gruppo CIN 3</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/4A RIM Gruppo SPA 3.html" class='mathema'>4A RIM Gruppo SPA 3</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/4A RIM.html" class='mathema'>4A RIM</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/4B RIM Gruppo CIN 3.html" class='mathema'>4B RIM Gruppo CIN 3</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/4B RIM Gruppo SPA 3.html" class='mathema'>4B RIM Gruppo SPA 3</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/4B RIM.html" class='mathema'>4B RIM</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/4C RIM Gruppo CIN 3.html" class='mathema'>4C RIM Gruppo CIN 3</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/4C RIM Gruppo TED 3.html" class='mathema'>4C RIM Gruppo TED 3</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/4C RIM.html" class='mathema'>4C RIM</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/4D RIM.html" class='mathema'>4D RIM</A><BR></td>
-            </tr>
+            <tr><td><A HREF="Classi/4A RIM gruppo SPA 2.html" class = 'mathema'>4A RIM gruppo SPA 2</A><BR></td></tr>
+<tr><td><A HREF="Classi/4A RIM gruppo TED 2.html" class = 'mathema'>4A RIM gruppo TED 2</A><BR></td></tr>
+<tr><td><A HREF="Classi/4A RIM gruppo CIN 3.html" class = 'mathema'>4A RIM gruppo CIN 3</A><BR></td></tr>
+<tr><td><A HREF="Classi/4A RIM gruppo SPA 3.html" class = 'mathema'>4A RIM gruppo SPA 3</A><BR></td></tr>
+<tr><td><A HREF="Classi/4A RIM gruppo TED 3.html" class = 'mathema'>4A RIM gruppo TED 3</A><BR></td></tr>
+<tr><td><A HREF="Classi/4B RIM gruppo FRA 2.html" class = 'mathema'>4B RIM gruppo FRA 2</A><BR></td></tr>
+<tr><td><A HREF="Classi/4B RIM gruppo TED 2.html" class = 'mathema'>4B RIM gruppo TED 2</A><BR></td></tr>
+<tr><td><A HREF="Classi/4B RIM gruppo CIN 3.html" class = 'mathema'>4B RIM gruppo CIN 3</A><BR></td></tr>
+<tr><td><A HREF="Classi/4B RIM gruppo SPA 3.html" class = 'mathema'>4B RIM gruppo SPA 3</A><BR></td></tr>
+<tr><td><A HREF="Classi/4B RIM gruppo TED 3.html" class = 'mathema'>4B RIM gruppo TED 3</A><BR></td></tr>
+<tr><td><A HREF="Classi/4C articolata RIM_TUR Gruppo ARTE E TERR.html" class = 'mathema'>4C articolata RIM/TUR Gruppo ARTE E TERR</A><BR></td></tr>
+<tr><td><A HREF="Classi/4C articolata RIM_TUR Gruppo RELAZ INTERN.html" class = 'mathema'>4C articolata RIM/TUR Gruppo RELAZ INTERN</A><BR></td></tr>
+<tr><td><A HREF="Classi/4C articolata RIM_TUR Gruppo DIR E LEG TUR.html" class = 'mathema'>4C articolata RIM/TUR Gruppo DIR E LEG TUR</A><BR></td></tr>
+<tr><td><A HREF="Classi/4C articolata RIM_TUR Gruppo DIRITTO RIM.html" class = 'mathema'>4C articolata RIM/TUR Gruppo DIRITTO RIM</A><BR></td></tr>
+<tr><td><A HREF="Classi/4C RIM_TUR Gruppo DTA.html" class = 'mathema'>4C RIM/TUR Gruppo DTA</A><BR></td></tr>
+<tr><td><A HREF="Classi/4C RIM_TUR Gruppo EC AZIENDALE.html" class = 'mathema'>4C RIM/TUR Gruppo EC AZIENDALE</A><BR></td></tr>
+<tr><td><A HREF="Classi/4C articolata RIM_TUR Gruppo DIRITTO e LEG TUR1.html" class = 'mathema'>4C articolata RIM/TUR Gruppo DIRITTO e LEG TUR1</A><BR></td></tr>
+<tr><td><A HREF="Classi/4C articolata RIM_TUR Gruppo EC AZ e GEOPOL1.html" class = 'mathema'>4C articolata RIM/TUR Gruppo EC AZ e GEOPOL1</A><BR></td></tr>
+<tr><td><A HREF="Classi/4C RIM_TUR Gruppo INGLESE 1.html" class = 'mathema'>4C RIM/TUR Gruppo INGLESE 1</A><BR></td></tr>
+<tr><td><A HREF="Classi/4C RIM_TUR Gruppo INGLESEX.html" class = 'mathema'>4C RIM/TUR Gruppo INGLESEX</A><BR></td></tr>
+<tr><td><A HREF="Classi/4C RIM gruppo SPA 2.html" class = 'mathema'>4C RIM gruppo SPA 2</A><BR></td></tr>
+<tr><td><A HREF="Classi/4C TUR gruppo TED 2.html" class = 'mathema'>4C TUR gruppo TED 2</A><BR></td></tr>
+<tr><td><A HREF="Classi/4C RIM gruppo CIN 3.html" class = 'mathema'>4C RIM gruppo CIN 3</A><BR></td></tr>
+<tr><td><A HREF="Classi/4C RIM gruppo TED 3.html" class = 'mathema'>4C RIM gruppo TED 3</A><BR></td></tr>
+<tr><td><A HREF="Classi/4C TUR gruppo SPA 3.html" class = 'mathema'>4C TUR gruppo SPA 3</A><BR></td></tr>
+<tr><td><A HREF="Classi/4C articolata RIM_TUR Gruppo GEOGR TUR.html" class = 'mathema'>4C articolata RIM/TUR Gruppo GEOGR TUR</A><BR></td></tr>
+<tr><td><A HREF="Classi/4C articolata RIM_TUR Gruppo TEC COM.html" class = 'mathema'>4C articolata RIM/TUR Gruppo TEC COM</A><BR></td></tr>
+<tr><td><A HREF="Classi/4D TUR gruppo FRA 2.html" class = 'mathema'>4D TUR gruppo FRA 2</A><BR></td></tr>
+<tr><td><A HREF="Classi/4D TUR gruppo TED 2.html" class = 'mathema'>4D TUR gruppo TED 2</A><BR></td></tr>
+<tr><td><A HREF="Classi/4D TUR gruppo SPA 3.html" class = 'mathema'>4D TUR gruppo SPA 3</A><BR></td></tr>
+<tr><td><A HREF="Classi/4D TUR gruppo TED 3.html" class = 'mathema'>4D TUR gruppo TED 3</A><BR></td></tr>
+<tr><td><A HREF="Classi/4E TUR gruppo SPA 2.html" class = 'mathema'>4E TUR gruppo SPA 2</A><BR></td></tr>
+<tr><td><A HREF="Classi/4E TUR gruppo TED 2.html" class = 'mathema'>4E TUR gruppo TED 2</A><BR></td></tr>
+<tr><td><A HREF="Classi/4E TUR gruppo CIN 3.html" class = 'mathema'>4E TUR gruppo CIN 3</A><BR></td></tr>
+<tr><td><A HREF="Classi/4E TUR gruppo FRA 3.html" class = 'mathema'>4E TUR gruppo FRA 3</A><BR></td></tr>
+<tr><td><A HREF="Classi/4E TUR gruppo TED 3.html" class = 'mathema'>4E TUR gruppo TED 3</A><BR></td></tr>
+
 
         </TABLE>
         </div>
@@ -145,60 +99,22 @@
             <TR VALIGN=TOP>
 
                 <Th ALIGN=TOP class='mathema'>
-                    <b>CLASSI QUINTE RIM</b>
+                    <b>CLASSI QUINTE</b>
                 </Th>
             </tr>
-            <tr>
-                <td><A HREF="Classi/5A RIM Gruppo SPA 2.html" class='mathema'>5A RIM Gruppo SPA 2</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/5A RIM Gruppo TED 2.html" class='mathema'>5A RIM Gruppo TED 2</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/5A RIM Gruppo FRA 3.html" class='mathema'>5A RIM Gruppo FRA 3</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/5A RIM Gruppo SPA 3.html" class='mathema'>5A RIM Gruppo SPA 3</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/5A RIM.html" class='mathema'>5A RIM</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/5B RIM Gruppo FRA 2.html" class='mathema'>5B RIM Gruppo FRA 2</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/5B RIM Gruppo SPA 2.html" class='mathema'>5B RIM Gruppo SPA 2</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/5B RIM Gruppo TED 2.html" class='mathema'>5B RIM Gruppo TED 2</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/5B RIM Gruppo CIN 3.html" class='mathema'>5B RIM Gruppo CIN 3</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/5B RIM Gruppo SPA 3.html" class='mathema'>5B RIM Gruppo SPA 3</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/5B RIM Gruppo TED 3.html" class='mathema'>5B RIM Gruppo TED 3</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/5B RIM.html" class='mathema'>5B RIM</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/5C RIM Gruppo SPA 2.html" class='mathema'>5C RIM Gruppo SPA 2</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/5C RIM Gruppo TED 2.html" class='mathema'>5C RIM Gruppo TED 2</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/5C RIM Gruppo SPA 3.html" class='mathema'>5C RIM Gruppo SPA 3</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/5C RIM Gruppo TED 3.html" class='mathema'>5C RIM Gruppo TED 3</A><BR></td>
-            </tr>
-            <tr>
-                <td><A HREF="Classi/5C RIM.html" class='mathema'>5C RIM</A><BR></td>
-            </tr>
+            <tr><td><A HREF="Classi/5A RIM gruppo CIN 3.html" class = 'mathema'>5A RIM gruppo CIN 3</A><BR></td></tr>
+<tr><td><A HREF="Classi/5A RIM gruppo SPA 3.html" class = 'mathema'>5A RIM gruppo SPA 3</A><BR></td></tr>
+<tr><td><A HREF="Classi/5B RIM gruppo CIN 3.html" class = 'mathema'>5B RIM gruppo CIN 3</A><BR></td></tr>
+<tr><td><A HREF="Classi/5B RIM gruppo SPA 3.html" class = 'mathema'>5B RIM gruppo SPA 3</A><BR></td></tr>
+<tr><td><A HREF="Classi/5C RIM gruppo CIN 3.html" class = 'mathema'>5C RIM gruppo CIN 3</A><BR></td></tr>
+<tr><td><A HREF="Classi/5C RIM gruppo TED 3.html" class = 'mathema'>5C RIM gruppo TED 3</A><BR></td></tr>
+<tr><td><A HREF="Classi/5F TUR gruppo CIN 3.html" class = 'mathema'>5F TUR gruppo CIN 3</A><BR></td></tr>
+<tr><td><A HREF="Classi/5F TUR gruppo FRA 3.html" class = 'mathema'>5F TUR gruppo FRA 3</A><BR></td></tr>
+<tr><td><A HREF="Classi/5G TUR gruppo FRA 2.html" class = 'mathema'>5G TUR gruppo FRA 2</A><BR></td></tr>
+<tr><td><A HREF="Classi/5G TUR gruppo TED 2.html" class = 'mathema'>5G TUR gruppo TED 2</A><BR></td></tr>
+<tr><td><A HREF="Classi/5G TUR gruppo CIN 3.html" class = 'mathema'>5G TUR gruppo CIN 3</A><BR></td></tr>
+<tr><td><A HREF="Classi/5G TUR gruppo FRA 3.html" class = 'mathema'>5G TUR gruppo FRA 3</A><BR></td></tr>
+<tr><td><A HREF="Classi/5G TUR gruppo SPA 3.html" class = 'mathema'>5G TUR gruppo SPA 3</A><BR></td></tr>
         </TABLE>
 
 </div>

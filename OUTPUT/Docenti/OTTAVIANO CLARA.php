@@ -6,12 +6,12 @@
         <?php include '../header.html';?>
         <div align="center">
 <p class='mathema'>
-ORARIO DOCENTE OTTAVIANO CLARA</p>
+ORARIO DOCENTE OTTAVIANO Clara</p>
 </div>
     <div align="center">
 
 
-<table cellspacing=0 class="table table-hover table-borderless table-responsive text-center">
+<table BORDER=2 WIDTH="90%" CELLSPACING=0 CELLPADDING=4>
 
 <tr >
 
@@ -34,7 +34,7 @@ VEN
 <tr >
 
 <th class='mathema' scope="row" >
-7.55
+8.00
 </td>
 
 <td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
@@ -43,36 +43,48 @@ VEN
 
 </td>
 
-<td class = 'nodecBlack'  BGCOLOR="#A090FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3A RIM.html"  class="nodecBlack">3A RIM</a></p>
+<td class = 'nodecBlack'  BGCOLOR="#80FF80" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'><a href="../Classi/5B RIM.php" class="nodecBlack">5B RIM</a></p>
+<p id = 'nodecBlack'>RELAZ INTERNAZIONALI</p>
+
+</td>
+
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
+<p id = 'mathema'>&nbsp;<p>
+
+</td>
+
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
+<p id = 'mathema'>&nbsp;<p>
+
+</td>
+
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
+<p id = 'mathema'>&nbsp;<p>
+
+</td>
+
+</tr>
+
+<tr >
+
+<th class='mathema' scope="row" >
+8.50
+</td>
+
+<td class = 'nodecBlack'  BGCOLOR="#C0E0E0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'><a href="../Classi/4A RIM.php" class="nodecBlack">4A RIM</a></p>
 <p id = 'nodecBlack'>DIRITTO</p>
 
 </td>
 
-<td class = 'nodecBlack'  BGCOLOR="#C0C000" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/2B AFM.html"  class="nodecBlack">2B AFM</a></p>
-<p id = 'nodecBlack'>DIRITTO E ECONOMIA</p>
+<td class = 'nodecBlack'  BGCOLOR="#80FF80" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'><a href="../Classi/4B RIM.php" class="nodecBlack">4B RIM</a></p>
+<p id = 'nodecBlack'>RELAZ INTERNAZIONALI</p>
 
-</td>
-
-<td class = 'nodecBlack'  BGCOLOR="#C0C080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/4D RIM.html"  class="nodecBlack">4D RIM</a></p>
-<p id = 'nodecBlack'>RELAZ. INTERNAZIONALI</p>
-
-</td>
-
-<td class = 'nodecBlack'  BGCOLOR="#C0C080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5C RIM.html"  class="nodecBlack">5C RIM</a></p>
-<p id = 'nodecBlack'>RELAZ. INTERNAZIONALI</p>
-
-</td>
-
-</tr>
-
-<tr >
-
-<th class='mathema' scope="row" >
-8.55
 </td>
 
 <td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
@@ -81,27 +93,15 @@ VEN
 
 </td>
 
-<td class = 'nodecBlack'  BGCOLOR="#C0C080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/4B RIM.html"  class="nodecBlack">4B RIM</a></p>
-<p id = 'nodecBlack'>RELAZ. INTERNAZIONALI</p>
+<td class = 'nodecBlack'  BGCOLOR="#80FF80" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'><a href="../Classi/5D RIM.php" class="nodecBlack">5D RIM</a></p>
+<p id = 'nodecBlack'>RELAZ INTERNAZIONALI</p>
 
 </td>
 
-<td class = 'nodecBlack'  BGCOLOR="#C0C000" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/2B AFM.html"  class="nodecBlack">2B AFM</a></p>
-<p id = 'nodecBlack'>DIRITTO E ECONOMIA</p>
-
-</td>
-
-<td class = 'nodecBlack'  BGCOLOR="#C0C080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3A RIM.html"  class="nodecBlack">3A RIM</a></p>
-<p id = 'nodecBlack'>RELAZ. INTERNAZIONALI</p>
-
-</td>
-
-<td class = 'nodecBlack'  BGCOLOR="#C0C080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/4B RIM.html"  class="nodecBlack">4B RIM</a></p>
-<p id = 'nodecBlack'>RELAZ. INTERNAZIONALI</p>
+<td class = 'nodecBlack'  BGCOLOR="#80FF80" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'><a href="../Classi/3B RIM.php" class="nodecBlack">3B RIM</a></p>
+<p id = 'nodecBlack'>RELAZ INTERNAZIONALI</p>
 
 </td>
 
@@ -110,7 +110,13 @@ VEN
 <tr >
 
 <th class='mathema' scope="row" >
-9.55
+9.40
+</td>
+
+<td class = 'nodecBlack'  BGCOLOR="#80FF80" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'><a href="../Classi/5D RIM.php" class="nodecBlack">5D RIM</a></p>
+<p id = 'nodecBlack'>RELAZ INTERNAZIONALI</p>
+
 </td>
 
 <td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
@@ -119,26 +125,58 @@ VEN
 
 </td>
 
-<td class = 'nodecWhite'  BGCOLOR="#C0C0C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'>DISPOSIZIONE</p>
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
 <p id = 'mathema'>&nbsp;<p>
 
 </td>
 
-<td class = 'nodecWhite'  BGCOLOR="#C0C0C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'>DISPOSIZIONE</p>
+<td class = 'nodecBlack'  BGCOLOR="#80FF80" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'><a href="../Classi/5B RIM.php" class="nodecBlack">5B RIM</a></p>
+<p id = 'nodecBlack'>RELAZ INTERNAZIONALI</p>
+
+</td>
+
+<td class = 'nodecBlack'  BGCOLOR="#80FF80" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'><a href="../Classi/4A RIM.php" class="nodecBlack">4A RIM</a></p>
+<p id = 'nodecBlack'>RELAZ INTERNAZIONALI</p>
+
+</td>
+
+</tr>
+
+<tr >
+
+<th class='mathema' scope="row" >
+10.40
+</td>
+
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
 <p id = 'mathema'>&nbsp;<p>
 
 </td>
 
-<td class = 'nodecWhite'  BGCOLOR="#C0C0C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'>DISPOSIZIONE</p>
+<td class = 'nodecBlack'  BGCOLOR="#80FF80" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'><a href="../Classi/5D RIM.php" class="nodecBlack">5D RIM</a></p>
+<p id = 'nodecBlack'>RELAZ INTERNAZIONALI</p>
+
+</td>
+
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
 <p id = 'mathema'>&nbsp;<p>
 
 </td>
 
-<td class = 'nodecWhite'  BGCOLOR="#C0C0C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'>DISPOSIZIONE</p>
+<td class = 'nodecBlack'  BGCOLOR="#80FF80" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'><a href="../Classi/4B RIM.php" class="nodecBlack">4B RIM</a></p>
+<p id = 'nodecBlack'>RELAZ INTERNAZIONALI</p>
+
+</td>
+
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
 <p id = 'mathema'>&nbsp;<p>
 
 </td>
@@ -148,24 +186,62 @@ VEN
 <tr >
 
 <th class='mathema' scope="row" >
-11.05
+11.30
 </td>
 
-<td class = 'nodecBlack'  BGCOLOR="#C0C080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/4D RIM.html"  class="nodecBlack">4D RIM</a></p>
-<p id = 'nodecBlack'>RELAZ. INTERNAZIONALI</p>
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
+<p id = 'mathema'>&nbsp;<p>
 
 </td>
 
-<td class = 'nodecBlack'  BGCOLOR="#A090FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3A RIM.html"  class="nodecBlack">3A RIM</a></p>
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
+<p id = 'mathema'>&nbsp;<p>
+
+</td>
+
+<td class = 'nodecBlack'  BGCOLOR="#C0E0E0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'><a href="../Classi/3B RIM.php" class="nodecBlack">3B RIM</a></p>
 <p id = 'nodecBlack'>DIRITTO</p>
 
 </td>
 
+<td class = 'nodecBlack'  BGCOLOR="#C0E0E0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'><a href="../Classi/4A RIM.php" class="nodecBlack">4A RIM</a></p>
+<p id = 'nodecBlack'>DIRITTO</p>
+
+</td>
+
+<td class = 'nodecBlack'  BGCOLOR="#C0E0E0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'><a href="../Classi/3B RIM.php" class="nodecBlack">3B RIM</a></p>
+<p id = 'nodecBlack'>DIRITTO</p>
+
+</td>
+
+</tr>
+
+<tr >
+
+<th class='mathema' scope="row" >
+12.30
+</td>
+
+<td class = 'nodecBlack'  BGCOLOR="#80FF80" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'><a href="../Classi/3B RIM.php" class="nodecBlack">3B RIM</a></p>
+<p id = 'nodecBlack'>RELAZ INTERNAZIONALI</p>
+
+</td>
+
 <td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
 <p id = 'mathema'>&nbsp;<p>
 <p id = 'mathema'>&nbsp;<p>
+
+</td>
+
+<td class = 'nodecBlack'  BGCOLOR="#80FF80" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'><a href="../Classi/5B RIM.php" class="nodecBlack">5B RIM</a></p>
+<p id = 'nodecBlack'>RELAZ INTERNAZIONALI</p>
 
 </td>
 
@@ -186,87 +262,11 @@ VEN
 <tr >
 
 <th class='mathema' scope="row" >
-11.55
+13.20
 </td>
 
 <td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
 <p id = 'mathema'>&nbsp;<p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'nodecBlack'  BGCOLOR="#C0C080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3A RIM.html"  class="nodecBlack">3A RIM</a></p>
-<p id = 'nodecBlack'>RELAZ. INTERNAZIONALI</p>
-
-</td>
-
-<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
-<p id = 'mathema'>&nbsp;<p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
-<p id = 'mathema'>&nbsp;<p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
-<p id = 'mathema'>&nbsp;<p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-</tr>
-
-<tr >
-
-<th class='mathema' scope="row" >
-12.55
-</td>
-
-<td class = 'nodecBlack'  BGCOLOR="#C0C080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5C RIM.html"  class="nodecBlack">5C RIM</a></p>
-<p id = 'nodecBlack'>RELAZ. INTERNAZIONALI</p>
-
-</td>
-
-<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
-<p id = 'mathema'>&nbsp;<p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
-<p id = 'mathema'>&nbsp;<p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
-<p id = 'mathema'>&nbsp;<p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
-<p id = 'mathema'>&nbsp;<p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-</tr>
-
-<tr >
-
-<th class='mathema' scope="row" >
-14.15
-</td>
-
-<td class = 'nodecWhite'  BGCOLOR="#C0C0C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'>DISPOSIZIONE</p>
 <p id = 'mathema'>&nbsp;<p>
 
 </td>
@@ -300,13 +300,7 @@ VEN
 <tr >
 
 <th class='mathema' scope="row" >
-15.05
-</td>
-
-<td class = 'nodecBlack'  BGCOLOR="#C0C080" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/5C RIM.html"  class="nodecBlack">5C RIM</a></p>
-<p id = 'nodecBlack'>RELAZ. INTERNAZIONALI</p>
-
+14.20
 </td>
 
 <td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
@@ -318,6 +312,12 @@ VEN
 <td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
 <p id = 'mathema'>&nbsp;<p>
 <p id = 'mathema'>&nbsp;<p>
+
+</td>
+
+<td class = 'nodecBlack'  BGCOLOR="#80FF80" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'><a href="../Classi/4A RIM.php" class="nodecBlack">4A RIM</a></p>
+<p id = 'nodecBlack'>RELAZ INTERNAZIONALI</p>
 
 </td>
 
@@ -336,6 +336,7 @@ VEN
 </tr>
 
 </table>
+
 
 
         </div>

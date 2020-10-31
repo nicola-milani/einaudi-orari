@@ -6,12 +6,12 @@
         <?php include '../header.html';?>
         <div align="center">
 <p class='mathema'>
-ORARIO CLASSE 5C RIM Gruppo TED 3</p>
+ORARIO CLASSE 5C RIM gruppo TED 3</p>
 </div>
     <div align="center">
 
 
-<table cellspacing=0 class="table table-hover table-borderless table-responsive text-center">
+<table BORDER=2 WIDTH="90%" CELLSPACING=0 CELLPADDING=4>
 
 <tr >
 
@@ -34,41 +34,41 @@ VEN
 <tr >
 
 <th class='mathema' scope="row" >
-7.55
+8.00
 </td>
 
-<td class = 'nodecBlack'  BGCOLOR="#FF9D9D" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'>EC. AZIEND. e GEOGR. POLITICA</p>
-<p id = 'nodecBlack'><a href="../Docenti/LANZAROTTO ANTONIO.html"  class="nodecBlack">LANZAROTTO ANTONIO</a></p>
+<td class = 'nodecBlack'  BGCOLOR="#80FFFF" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'>INGLESE</p>
+<p id = 'nodecBlack'><a href="../Docenti/BARES Camilla.html"  class="nodecBlack">BARES Camilla</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5C RIM.html"  class="nodecBlack">5C RIM</a></p>
+
+</td>
+
+<td class = 'nodecBlack'  BGCOLOR="#FFFF00" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'>SPA L2</p>
+<p id = 'nodecBlack'><a href="../Docenti/DE CARO Sofia.html"  class="nodecBlack">DE CARO Sofia</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5C RIM.html"  class="nodecBlack">5C RIM</a></p>
+
+</td>
+
+<td class = 'nodecBlack'  BGCOLOR="#B0B0FF" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'>EC. AZIENDALE e GEO POL.</p>
+<p id = 'nodecBlack'><a href="../Docenti/GRIGATO Cesare.html"  class="nodecBlack">GRIGATO Cesare</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5C RIM.html"  class="nodecBlack">5C RIM</a></p>
+
+</td>
+
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=2 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
+<p id = 'mathema'>&nbsp;<p>
 <p id = 'mathema'>&nbsp;<p>
 
 </td>
 
-<td class = 'nodecBlack'  BGCOLOR="#FF9D9D" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'>EC. AZIEND. e GEOGR. POLITICA</p>
-<p id = 'nodecBlack'><a href="../Docenti/LANZAROTTO ANTONIO.html"  class="nodecBlack">LANZAROTTO ANTONIO</a></p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'nodecBlack'  BGCOLOR="#FFC0C0" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'>LETTERE</p>
-<p id = 'nodecBlack'><a href="../Docenti/ZAFFANI STEFANIA.html"  class="nodecBlack">ZAFFANI STEFANIA</a></p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'nodecBlack'  BGCOLOR="#FF9D9D" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'>EC. AZIEND. e GEOGR. POLITICA</p>
-<p id = 'nodecBlack'><a href="../Docenti/LANZAROTTO ANTONIO.html"  class="nodecBlack">LANZAROTTO ANTONIO</a></p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'nodecBlack'  BGCOLOR="#C0C080" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'>RELAZ. INTERNAZIONALI</p>
-<p id = 'nodecBlack'><a href="../Docenti/OTTAVIANO CLARA.html"  class="nodecBlack">OTTAVIANO CLARA</a></p>
-<p id = 'mathema'>&nbsp;<p>
+<td class = 'nodecBlack'  BGCOLOR="#80FF80" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'>RELAZ INTERNAZIONALI</p>
+<p id = 'nodecBlack'><a href="../Docenti/PELLIZZARI Stefania.html"  class="nodecBlack">PELLIZZARI Stefania</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5C RIM.html"  class="nodecBlack">5C RIM</a></p>
 
 </td>
 
@@ -77,277 +77,120 @@ VEN
 <tr >
 
 <th class='mathema' scope="row" >
-8.55
+8.50
 </td>
 
-<td class = 'nodecBlack'  BGCOLOR="#FF9D9D" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'>EC. AZIEND. e GEOGR. POLITICA</p>
-<p id = 'nodecBlack'><a href="../Docenti/LANZAROTTO ANTONIO.html"  class="nodecBlack">LANZAROTTO ANTONIO</a></p>
+<td class = 'nodecBlack'  BGCOLOR="#C0E0E0" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'>DIRITTO</p>
+<p id = 'nodecBlack'><a href="../Docenti/BENATI Silvia.html"  class="nodecBlack">BENATI Silvia</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5C RIM.html"  class="nodecBlack">5C RIM</a></p>
+
+</td>
+
+<td class = 'nodecBlack'  BGCOLOR="#FFFFA0" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'>LETTERE</p>
+<p id = 'nodecBlack'><a href="../Docenti/BOSIO Elisa.html"  class="nodecBlack">BOSIO Elisa</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5C RIM.html"  class="nodecBlack">5C RIM</a></p>
+
+</td>
+
+<td class = 'nodecBlack'  BGCOLOR="#FFA000" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'>TED L3</p>
+<p id = 'nodecBlack'><a href="../Docenti/BONELLI Paola.html"  class="nodecBlack">BONELLI Paola</a></p>
 <p id = 'mathema'>&nbsp;<p>
 
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#A090FF" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'>DIRITTO</p>
-<p id = 'nodecBlack'><a href="../Docenti/BENATI SILVIA.html"  class="nodecBlack">BENATI SILVIA</a></p>
-<p id = 'mathema'>&nbsp;<p>
+<p id = 'nodecBlack'>SCIENZE MOTORIE</p>
+<p id = 'nodecBlack'><a href="../Docenti/MARCANTONI Sara.html"  class="nodecBlack">MARCANTONI Sara</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5C RIM.html"  class="nodecBlack">5C RIM</a> - <a href="../Aule/palestra A.html"  class="nodecBlack">palestra A</a></p>
 
 </td>
 
-<td class = 'nodecBlack'  BGCOLOR="#FF9D9D" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'>EC. AZIEND. e GEOGR. POLITICA</p>
-<p id = 'nodecBlack'><a href="../Docenti/LANZAROTTO ANTONIO.html"  class="nodecBlack">LANZAROTTO ANTONIO</a></p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'nodecBlack'  BGCOLOR="#FFA0FF" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
+<td class = 'nodecBlack'  BGCOLOR="#80FFFF" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
 <p id = 'nodecBlack'>INGLESE</p>
-<p id = 'nodecBlack'><a href="../Docenti/MARUCCIO STEFANIA.html"  class="nodecBlack">MARUCCIO STEFANIA</a></p>
+<p id = 'nodecBlack'><a href="../Docenti/BARES Camilla.html"  class="nodecBlack">BARES Camilla</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5C RIM.html"  class="nodecBlack">5C RIM</a></p>
+
+</td>
+
+</tr>
+
+<tr >
+
+<th class='mathema' scope="row" >
+9.40
+</td>
+
+<td class = 'nodecBlack'  BGCOLOR="#FFFFA0" COLSPAN=2 ROWSPAN=2 COLOR="#000000">
+<p id = 'nodecBlack'>LETTERE</p>
+<p id = 'nodecBlack'><a href="../Docenti/BOSIO Elisa.html"  class="nodecBlack">BOSIO Elisa</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5C RIM.html"  class="nodecBlack">5C RIM</a></p>
+
+</td>
+
+<td class = 'nodecBlack'  BGCOLOR="#FFA000" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'>TED L3</p>
+<p id = 'nodecBlack'><a href="../Docenti/BONELLI Paola.html"  class="nodecBlack">BONELLI Paola</a></p>
 <p id = 'mathema'>&nbsp;<p>
 
+</td>
+
+<td class = 'nodecBlack'  BGCOLOR="#C0E0E0" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'>DIRITTO</p>
+<p id = 'nodecBlack'><a href="../Docenti/BENATI Silvia.html"  class="nodecBlack">BENATI Silvia</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5C RIM.html"  class="nodecBlack">5C RIM</a></p>
+
+</td>
+
+<td class = 'nodecBlack'  BGCOLOR="#80FF80" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'>RELAZ INTERNAZIONALI</p>
+<p id = 'nodecBlack'><a href="../Docenti/PELLIZZARI Stefania.html"  class="nodecBlack">PELLIZZARI Stefania</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5C RIM.html"  class="nodecBlack">5C RIM</a></p>
+
+</td>
+
+<td class = 'nodecBlack'  BGCOLOR="#FFA000" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'>TED L3</p>
+<p id = 'nodecBlack'><a href="../Docenti/BONELLI Paola.html"  class="nodecBlack">BONELLI Paola</a></p>
+<p id = 'mathema'>&nbsp;<p>
+
+</td>
+
+</tr>
+
+<tr >
+
+<th class='mathema' scope="row" >
+10.40
 </td>
 
 <td class = 'nodecBlack'  BGCOLOR="#A090FF" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'>DIRITTO</p>
-<p id = 'nodecBlack'><a href="../Docenti/BENATI SILVIA.html"  class="nodecBlack">BENATI SILVIA</a></p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-</tr>
-
-<tr >
-
-<th class='mathema' scope="row" >
-9.55
-</td>
-
-<td class = 'nodecWhite'  BGCOLOR="#0000FF" COLSPAN=2 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'>TED L3</p>
-<p id = 'nodecWhite'><a href="../Docenti/MARCONCINI MONICA.html"  class="nodecWhite">MARCONCINI MONICA</a></p>
-<p id = 'nodecWhite'><a href="../Classi/5B RIM Gruppo TED 3.html"  class="nodecWhite">5B RIM Gruppo TED 3</a></p>
-
-</td>
-
-<td class = 'nodecBlack'  BGCOLOR="#FFFFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'>SPA L2</p>
-<p id = 'nodecBlack'><a href="../Docenti/CUESTA PIZARRO GUADALUPE.html"  class="nodecBlack">CUESTA PIZARRO GUADALUPE</a></p>
-<p id = 'nodecBlack'><a href="../Classi/5C RIM Gruppo SPA 2.html"  class="nodecBlack">5C RIM Gruppo SPA 2</a></p>
-
-</td>
-
-<td class = 'nodecWhite'  BGCOLOR="#C000C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'>TED L2</p>
-<p id = 'nodecWhite'><a href="../Docenti/SORDILLO EDVIGE.html"  class="nodecWhite">SORDILLO EDVIGE</a></p>
-<p id = 'nodecWhite'><a href="../Classi/5B RIM Gruppo TED 2.html"  class="nodecWhite">5B RIM Gruppo TED 2</a> - <a href="../Classi/5C RIM Gruppo TED 2.html"  class="nodecWhite">5C RIM Gruppo TED 2</a></p>
-
-</td>
-
-<td class = 'nodecBlack'  BGCOLOR="#FF9D9D" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'>EC. AZIEND. e GEOGR. POLITICA</p>
-<p id = 'nodecBlack'><a href="../Docenti/LANZAROTTO ANTONIO.html"  class="nodecBlack">LANZAROTTO ANTONIO</a></p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'nodecBlack'  BGCOLOR="#FFC0C0" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'>LETTERE</p>
-<p id = 'nodecBlack'><a href="../Docenti/ZAFFANI STEFANIA.html"  class="nodecBlack">ZAFFANI STEFANIA</a></p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'nodecBlack'  BGCOLOR="#FFC0C0" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'>LETTERE</p>
-<p id = 'nodecBlack'><a href="../Docenti/ZAFFANI STEFANIA.html"  class="nodecBlack">ZAFFANI STEFANIA</a></p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-</tr>
-
-<tr >
-
-<th class='mathema' scope="row" >
-11.05
-</td>
-
-<td class = 'nodecBlack'  BGCOLOR="#FFC0C0" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'>LETTERE</p>
-<p id = 'nodecBlack'><a href="../Docenti/ZAFFANI STEFANIA.html"  class="nodecBlack">ZAFFANI STEFANIA</a></p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'nodecBlack'  BGCOLOR="#FFC0C0" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'>LETTERE</p>
-<p id = 'nodecBlack'><a href="../Docenti/ZAFFANI STEFANIA.html"  class="nodecBlack">ZAFFANI STEFANIA</a></p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'nodecBlack'  BGCOLOR="#FFA0FF" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'>INGLESE</p>
-<p id = 'nodecBlack'><a href="../Docenti/MARUCCIO STEFANIA.html"  class="nodecBlack">MARUCCIO STEFANIA</a></p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'nodecBlack'  BGCOLOR="#FFFFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'>SPA L2</p>
-<p id = 'nodecBlack'><a href="../Docenti/CUESTA PIZARRO GUADALUPE.html"  class="nodecBlack">CUESTA PIZARRO GUADALUPE</a></p>
-<p id = 'nodecBlack'><a href="../Classi/5C RIM Gruppo SPA 2.html"  class="nodecBlack">5C RIM Gruppo SPA 2</a></p>
-
-</td>
-
-<td class = 'nodecWhite'  BGCOLOR="#C000C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'>TED L2</p>
-<p id = 'nodecWhite'><a href="../Docenti/SORDILLO EDVIGE.html"  class="nodecWhite">SORDILLO EDVIGE</a></p>
-<p id = 'nodecWhite'><a href="../Classi/5B RIM Gruppo TED 2.html"  class="nodecWhite">5B RIM Gruppo TED 2</a> - <a href="../Classi/5C RIM Gruppo TED 2.html"  class="nodecWhite">5C RIM Gruppo TED 2</a></p>
-
-</td>
-
-<td class = 'nodecBlack'  BGCOLOR="#6CFFFF" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'>RELIGIONE o ATT. ALTERNATIVA</p>
-<p id = 'nodecBlack'><a href="../Docenti/LIGORIO MARCO.html"  class="nodecBlack">LIGORIO MARCO</a></p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-</tr>
-
-<tr >
-
-<th class='mathema' scope="row" >
-11.55
-</td>
-
-<td class = 'nodecBlack'  BGCOLOR="#FFA0FF" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'>INGLESE</p>
-<p id = 'nodecBlack'><a href="../Docenti/MARUCCIO STEFANIA.html"  class="nodecBlack">MARUCCIO STEFANIA</a></p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'nodecBlack'  BGCOLOR="#FFC0C0" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'>LETTERE</p>
-<p id = 'nodecBlack'><a href="../Docenti/ZAFFANI STEFANIA.html"  class="nodecBlack">ZAFFANI STEFANIA</a></p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'nodecBlack'  BGCOLOR="#FFFFA0" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'>SPA L2</p>
-<p id = 'nodecBlack'><a href="../Docenti/CUESTA PIZARRO GUADALUPE.html"  class="nodecBlack">CUESTA PIZARRO GUADALUPE</a></p>
-<p id = 'nodecBlack'><a href="../Classi/5C RIM Gruppo SPA 2.html"  class="nodecBlack">5C RIM Gruppo SPA 2</a></p>
-
-</td>
-
-<td class = 'nodecWhite'  BGCOLOR="#C000C0" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'>TED L2</p>
-<p id = 'nodecWhite'><a href="../Docenti/SORDILLO EDVIGE.html"  class="nodecWhite">SORDILLO EDVIGE</a></p>
-<p id = 'nodecWhite'><a href="../Classi/5B RIM Gruppo TED 2.html"  class="nodecWhite">5B RIM Gruppo TED 2</a> - <a href="../Classi/5C RIM Gruppo TED 2.html"  class="nodecWhite">5C RIM Gruppo TED 2</a></p>
-
-</td>
-
-<td class = 'nodecBlack'  BGCOLOR="#FFC080" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'>MATEMATICA</p>
-<p id = 'nodecBlack'><a href="../Docenti/BISCOLA.html"  class="nodecBlack">BISCOLA</a></p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'nodecBlack'  BGCOLOR="#FFC080" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'>MATEMATICA</p>
-<p id = 'nodecBlack'><a href="../Docenti/BISCOLA.html"  class="nodecBlack">BISCOLA</a></p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-</tr>
-
-<tr >
-
-<th class='mathema' scope="row" >
-12.55
-</td>
-
-<td class = 'nodecBlack'  BGCOLOR="#C0C080" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'>RELAZ. INTERNAZIONALI</p>
-<p id = 'nodecBlack'><a href="../Docenti/OTTAVIANO CLARA.html"  class="nodecBlack">OTTAVIANO CLARA</a></p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'nodecBlack'  BGCOLOR="#C0FFC0" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
 <p id = 'nodecBlack'>SCIENZE MOTORIE</p>
-<p id = 'nodecBlack'><a href="../Docenti/CAVALLINI EGIDIO.html"  class="nodecBlack">CAVALLINI EGIDIO</a></p>
-<p id = 'mathema'>&nbsp;<p>
+<p id = 'nodecBlack'><a href="../Docenti/MARCANTONI Sara.html"  class="nodecBlack">MARCANTONI Sara</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5C RIM.html"  class="nodecBlack">5C RIM</a> - <a href="../Aule/palestra B.html"  class="nodecBlack">palestra B</a></p>
 
 </td>
 
-<td class = 'nodecWhite'  BGCOLOR="#0000FF" COLSPAN=2 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'>TED L3</p>
-<p id = 'nodecWhite'><a href="../Docenti/MARCONCINI MONICA.html"  class="nodecWhite">MARCONCINI MONICA</a></p>
-<p id = 'nodecWhite'><a href="../Classi/5B RIM Gruppo TED 3.html"  class="nodecWhite">5B RIM Gruppo TED 3</a></p>
+<td class = 'nodecBlack'  BGCOLOR="#FFFF00" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'>SPA L2</p>
+<p id = 'nodecBlack'><a href="../Docenti/DE CARO Sofia.html"  class="nodecBlack">DE CARO Sofia</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5C RIM.html"  class="nodecBlack">5C RIM</a></p>
 
 </td>
 
-<td class = 'nodecBlack'  BGCOLOR="#FFC080" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'>MATEMATICA</p>
-<p id = 'nodecBlack'><a href="../Docenti/BISCOLA.html"  class="nodecBlack">BISCOLA</a></p>
-<p id = 'mathema'>&nbsp;<p>
+<td class = 'nodecBlack'  BGCOLOR="#FFFF00" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'>SPA L2</p>
+<p id = 'nodecBlack'><a href="../Docenti/DE CARO Sofia.html"  class="nodecBlack">DE CARO Sofia</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5C RIM.html"  class="nodecBlack">5C RIM</a></p>
 
 </td>
 
-<td class = 'nodecWhite'  BGCOLOR="#0000FF" COLSPAN=2 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'>TED L3</p>
-<p id = 'nodecWhite'><a href="../Docenti/MARCONCINI MONICA.html"  class="nodecWhite">MARCONCINI MONICA</a></p>
-<p id = 'nodecWhite'><a href="../Classi/5B RIM Gruppo TED 3.html"  class="nodecWhite">5B RIM Gruppo TED 3</a></p>
-
-</td>
-
-</tr>
-
-<tr >
-
-<th class='mathema' scope="row" >
-14.15
-</td>
-
-<td class = 'nodecBlack'  BGCOLOR="#C0FFC0" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'>SCIENZE MOTORIE</p>
-<p id = 'nodecBlack'><a href="../Docenti/CAVALLINI EGIDIO.html"  class="nodecBlack">CAVALLINI EGIDIO</a></p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=2 ROWSPAN=1>
-<p id = 'mathema'>&nbsp;<p>
-<p id = 'mathema'>&nbsp;<p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=2 ROWSPAN=1>
-<p id = 'mathema'>&nbsp;<p>
-<p id = 'mathema'>&nbsp;<p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=2 ROWSPAN=1>
-<p id = 'mathema'>&nbsp;<p>
-<p id = 'mathema'>&nbsp;<p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=2 ROWSPAN=1>
-<p id = 'mathema'>&nbsp;<p>
-<p id = 'mathema'>&nbsp;<p>
-<p id = 'mathema'>&nbsp;<p>
+<td class = 'nodecWhite'  BGCOLOR="#0080E0" COLSPAN=2 ROWSPAN=1 COLOR="#FFFFFF">
+<p id = 'nodecWhite'>MATEMATICA</p>
+<p id = 'nodecWhite'><a href="../Docenti/NARDACCHIONE Alessandra.html"  class="nodecWhite">NARDACCHIONE Alessandra</a></p>
+<p id = 'nodecWhite'><a href="../Classi/5C RIM.html"  class="nodecWhite">5C RIM</a></p>
 
 </td>
 
@@ -356,14 +199,129 @@ VEN
 <tr >
 
 <th class='mathema' scope="row" >
-15.05
+11.30
 </td>
 
-<td class = 'nodecBlack'  BGCOLOR="#C0C080" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'>RELAZ. INTERNAZIONALI</p>
-<p id = 'nodecBlack'><a href="../Docenti/OTTAVIANO CLARA.html"  class="nodecBlack">OTTAVIANO CLARA</a></p>
+<td class = 'nodecBlack'  BGCOLOR="#B0B0FF" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'>EC. AZIENDALE e GEO POL.</p>
+<p id = 'nodecBlack'><a href="../Docenti/GRIGATO Cesare.html"  class="nodecBlack">GRIGATO Cesare</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5C RIM.html"  class="nodecBlack">5C RIM</a></p>
+
+</td>
+
+<td class = 'nodecBlack'  BGCOLOR="#80FF80" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'>RELAZ INTERNAZIONALI</p>
+<p id = 'nodecBlack'><a href="../Docenti/PELLIZZARI Stefania.html"  class="nodecBlack">PELLIZZARI Stefania</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5C RIM.html"  class="nodecBlack">5C RIM</a></p>
+
+</td>
+
+<td class = 'nodecBlack'  BGCOLOR="#FFFFA0" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'>LETTERE</p>
+<p id = 'nodecBlack'><a href="../Docenti/BOSIO Elisa.html"  class="nodecBlack">BOSIO Elisa</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5C RIM.html"  class="nodecBlack">5C RIM</a></p>
+
+</td>
+
+<td class = 'nodecWhite'  BGCOLOR="#0080E0" COLSPAN=2 ROWSPAN=1 COLOR="#FFFFFF">
+<p id = 'nodecWhite'>MATEMATICA</p>
+<p id = 'nodecWhite'><a href="../Docenti/NARDACCHIONE Alessandra.html"  class="nodecWhite">NARDACCHIONE Alessandra</a></p>
+<p id = 'nodecWhite'><a href="../Classi/5C RIM.html"  class="nodecWhite">5C RIM</a></p>
+
+</td>
+
+<td class = 'nodecBlack'  BGCOLOR="#FFFFA0" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'>LETTERE</p>
+<p id = 'nodecBlack'><a href="../Docenti/BOSIO Elisa.html"  class="nodecBlack">BOSIO Elisa</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5C RIM.html"  class="nodecBlack">5C RIM</a></p>
+
+</td>
+
+</tr>
+
+<tr >
+
+<th class='mathema' scope="row" >
+12.30
+</td>
+
+<td class = 'nodecWhite'  BGCOLOR="#0080E0" COLSPAN=2 ROWSPAN=1 COLOR="#FFFFFF">
+<p id = 'nodecWhite'>MATEMATICA</p>
+<p id = 'nodecWhite'><a href="../Docenti/NARDACCHIONE Alessandra.html"  class="nodecWhite">NARDACCHIONE Alessandra</a></p>
+<p id = 'nodecWhite'><a href="../Classi/5C RIM.html"  class="nodecWhite">5C RIM</a></p>
+
+</td>
+
+<td class = 'nodecBlack'  BGCOLOR="#B0B0FF" COLSPAN=2 ROWSPAN=2 COLOR="#000000">
+<p id = 'nodecBlack'>EC. AZIENDALE e GEO POL.</p>
+<p id = 'nodecBlack'><a href="../Docenti/GRIGATO Cesare.html"  class="nodecBlack">GRIGATO Cesare</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5C RIM.html"  class="nodecBlack">5C RIM</a></p>
+
+</td>
+
+<td class = 'nodecBlack'  BGCOLOR="#80FFFF" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'>INGLESE</p>
+<p id = 'nodecBlack'><a href="../Docenti/BARES Camilla.html"  class="nodecBlack">BARES Camilla</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5C RIM.html"  class="nodecBlack">5C RIM</a></p>
+
+</td>
+
+<td class = 'nodecBlack'  BGCOLOR="#FF8080" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'>RELIGIONE</p>
+<p id = 'nodecBlack'><a href="../Docenti/LIGORIO Marco.html"  class="nodecBlack">LIGORIO Marco</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5C RIM.html"  class="nodecBlack">5C RIM</a></p>
+
+</td>
+
+<td class = 'nodecBlack'  BGCOLOR="#B0B0FF" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'>EC. AZIENDALE e GEO POL.</p>
+<p id = 'nodecBlack'><a href="../Docenti/GRIGATO Cesare.html"  class="nodecBlack">GRIGATO Cesare</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5C RIM.html"  class="nodecBlack">5C RIM</a></p>
+
+</td>
+
+</tr>
+
+<tr >
+
+<th class='mathema' scope="row" >
+13.20
+</td>
+
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=2 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
+<p id = 'mathema'>&nbsp;<p>
 <p id = 'mathema'>&nbsp;<p>
 
+</td>
+
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=2 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
+<p id = 'mathema'>&nbsp;<p>
+<p id = 'mathema'>&nbsp;<p>
+
+</td>
+
+<td class = 'nodecBlack'  BGCOLOR="#B0B0FF" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'>EC. AZIENDALE e GEO POL.</p>
+<p id = 'nodecBlack'><a href="../Docenti/GRIGATO Cesare.html"  class="nodecBlack">GRIGATO Cesare</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5C RIM.html"  class="nodecBlack">5C RIM</a></p>
+
+</td>
+
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=2 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
+<p id = 'mathema'>&nbsp;<p>
+<p id = 'mathema'>&nbsp;<p>
+
+</td>
+
+</tr>
+
+<tr >
+
+<th class='mathema' scope="row" >
+14.20
 </td>
 
 <td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=2 ROWSPAN=1>
@@ -384,6 +342,13 @@ VEN
 <p id = 'mathema'>&nbsp;<p>
 <p id = 'mathema'>&nbsp;<p>
 <p id = 'mathema'>&nbsp;<p>
+
+</td>
+
+<td class = 'nodecBlack'  BGCOLOR="#FFFFA0" COLSPAN=2 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'>LETTERE</p>
+<p id = 'nodecBlack'><a href="../Docenti/BOSIO Elisa.html"  class="nodecBlack">BOSIO Elisa</a></p>
+<p id = 'nodecBlack'><a href="../Classi/5C RIM.html"  class="nodecBlack">5C RIM</a></p>
 
 </td>
 
@@ -397,6 +362,7 @@ VEN
 </tr>
 
 </table>
+
 
 
         </div>

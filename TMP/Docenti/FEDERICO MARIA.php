@@ -6,12 +6,12 @@
         <?php include '../header.html';?>
         <div align="center">
 <p class='mathema'>
-ORARIO DOCENTE FEDERICO MARIA</p>
+ORARIO DOCENTE FEDERICO Maria</p>
 </div>
     <div align="center">
 
 
-<table cellspacing=0 class="table table-hover table-borderless table-responsive text-center">
+<table BORDER=2 WIDTH="90%" CELLSPACING=0 CELLPADDING=4>
 
 <tr >
 
@@ -34,12 +34,50 @@ VEN
 <tr >
 
 <th class='mathema' scope="row" >
-7.55
+8.00
 </td>
 
-<td class = 'nodecBlack'  BGCOLOR="#FFFFD2" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3A RIM.html"  class="nodecBlack">3A RIM</a></p>
-<p id = 'nodecBlack'>TECNOLOGIA COMUNICAZIONI</p>
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
+<p id = 'mathema'>&nbsp;<p>
+
+</td>
+
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
+<p id = 'mathema'>&nbsp;<p>
+
+</td>
+
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
+<p id = 'mathema'>&nbsp;<p>
+
+</td>
+
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
+<p id = 'mathema'>&nbsp;<p>
+
+</td>
+
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
+<p id = 'mathema'>&nbsp;<p>
+
+</td>
+
+</tr>
+
+<tr >
+
+<th class='mathema' scope="row" >
+8.50
+</td>
+
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
+<p id = 'mathema'>&nbsp;<p>
 
 </td>
 
@@ -72,18 +110,12 @@ VEN
 <tr >
 
 <th class='mathema' scope="row" >
-8.55
+9.40
 </td>
 
-<td class = 'nodecBlack'  BGCOLOR="#FFFFD2" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/4A RIM.html"  class="nodecBlack">4A RIM</a></p>
-<p id = 'nodecBlack'>TECNOLOGIA COMUNICAZIONI</p>
-
-</td>
-
-<td class = 'nodecWhite'  BGCOLOR="#FF5151" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/1D AFM.html"  class="nodecWhite">1D AFM</a></p>
-<p id = 'nodecWhite'>INFORMATICA</p>
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
+<p id = 'mathema'>&nbsp;<p>
 
 </td>
 
@@ -93,15 +125,21 @@ VEN
 
 </td>
 
-<td class = 'nodecBlack'  BGCOLOR="#FFFFD2" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3C articolata RIM_TUR Gruppo TEC COMM.html"  class="nodecBlack">3C articolata RIM/TUR Gruppo TEC COMM</a></p>
-<p id = 'nodecBlack'>TECNOLOGIA COMUNICAZIONI</p>
+<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
+<p id = 'mathema'>&nbsp;<p>
+<p id = 'mathema'>&nbsp;<p>
 
 </td>
 
-<td class = 'nodecWhite'  BGCOLOR="#FF5151" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/1C AFM.html"  class="nodecWhite">1C AFM</a></p>
-<p id = 'nodecWhite'>INFORMATICA</p>
+<td class = 'nodecWhite'  BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
+<p id = 'nodecWhite'><a href="../Classi/3A RIM.html"  class="nodecWhite">3A RIM</a></p>
+<p id = 'nodecWhite'>TEC. COMUNICAZIONI</p>
+
+</td>
+
+<td class = 'nodecWhite'  BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
+<p id = 'nodecWhite'><a href="../Classi/4B RIM.html"  class="nodecWhite">4B RIM</a></p>
+<p id = 'nodecWhite'>TEC. COMUNICAZIONI</p>
 
 </td>
 
@@ -110,13 +148,7 @@ VEN
 <tr >
 
 <th class='mathema' scope="row" >
-9.55
-</td>
-
-<td class = 'nodecWhite'  BGCOLOR="#FF5151" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/1C AFM.html"  class="nodecWhite">1C AFM</a></p>
-<p id = 'nodecWhite'>INFORMATICA</p>
-
+10.40
 </td>
 
 <td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
@@ -125,21 +157,27 @@ VEN
 
 </td>
 
-<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
-<p id = 'mathema'>&nbsp;<p>
-<p id = 'mathema'>&nbsp;<p>
+<td class = 'nodecWhite'  BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
+<p id = 'nodecWhite'><a href="../Classi/3A RIM.html"  class="nodecWhite">3A RIM</a></p>
+<p id = 'nodecWhite'>TEC. COMUNICAZIONI</p>
 
 </td>
 
-<td class = 'nodecBlack'  BGCOLOR="#FFFFD2" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/4B RIM.html"  class="nodecBlack">4B RIM</a></p>
-<p id = 'nodecBlack'>TECNOLOGIA COMUNICAZIONI</p>
+<td class = 'nodecWhite'  BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
+<p id = 'nodecWhite'><a href="../Classi/3C RIM.html"  class="nodecWhite">3C RIM</a></p>
+<p id = 'nodecWhite'>TEC. COMUNICAZIONI</p>
 
 </td>
 
-<td class = 'nodecBlack'  BGCOLOR="#FFFFD2" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/4C RIM.html"  class="nodecBlack">4C RIM</a></p>
-<p id = 'nodecBlack'>TECNOLOGIA COMUNICAZIONI</p>
+<td class = 'nodecWhite'  BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
+<p id = 'nodecWhite'><a href="../Classi/3B RIM.html"  class="nodecWhite">3B RIM</a></p>
+<p id = 'nodecWhite'>TEC. COMUNICAZIONI</p>
+
+</td>
+
+<td class = 'nodecWhite'  BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
+<p id = 'nodecWhite'><a href="../Classi/3B RIM.html"  class="nodecWhite">3B RIM</a></p>
+<p id = 'nodecWhite'>TEC. COMUNICAZIONI</p>
 
 </td>
 
@@ -148,24 +186,18 @@ VEN
 <tr >
 
 <th class='mathema' scope="row" >
-11.05
+11.30
 </td>
 
-<td class = 'nodecBlack'  BGCOLOR="#FFFFD2" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3C articolata RIM_TUR Gruppo TEC COMM.html"  class="nodecBlack">3C articolata RIM/TUR Gruppo TEC COMM</a></p>
-<p id = 'nodecBlack'>TECNOLOGIA COMUNICAZIONI</p>
-
-</td>
-
-<td class = 'nodecWhite'  BGCOLOR="#FF5151" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/1B AFM.html"  class="nodecWhite">1B AFM</a></p>
-<p id = 'nodecWhite'>INFORMATICA</p>
+<td class = 'nodecWhite'  BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
+<p id = 'nodecWhite'><a href="../Classi/4C articolata RIM_TUR Gruppo TEC COM.html"  class="nodecWhite">4C articolata RIM/TUR Gruppo TEC COM</a></p>
+<p id = 'nodecWhite'>TEC. COMUNICAZIONI</p>
 
 </td>
 
-<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
-<p id = 'mathema'>&nbsp;<p>
-<p id = 'mathema'>&nbsp;<p>
+<td class = 'nodecWhite'  BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
+<p id = 'nodecWhite'><a href="../Classi/3E RIM.html"  class="nodecWhite">3E RIM</a></p>
+<p id = 'nodecWhite'>TEC. COMUNICAZIONI</p>
 
 </td>
 
@@ -175,9 +207,15 @@ VEN
 
 </td>
 
-<td class = 'nodecBlack'  BGCOLOR="#FFFFD2" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3B RIM.html"  class="nodecBlack">3B RIM</a></p>
-<p id = 'nodecBlack'>TECNOLOGIA COMUNICAZIONI</p>
+<td class = 'nodecWhite'  BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
+<p id = 'nodecWhite'><a href="../Classi/3C RIM.html"  class="nodecWhite">3C RIM</a></p>
+<p id = 'nodecWhite'>TEC. COMUNICAZIONI</p>
+
+</td>
+
+<td class = 'nodecWhite'  BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
+<p id = 'nodecWhite'><a href="../Classi/3D RIM.html"  class="nodecWhite">3D RIM</a></p>
+<p id = 'nodecWhite'>TEC. COMUNICAZIONI</p>
 
 </td>
 
@@ -186,30 +224,18 @@ VEN
 <tr >
 
 <th class='mathema' scope="row" >
-11.55
+12.30
 </td>
 
-<td class = 'nodecBlack'  BGCOLOR="#FFFFD2" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/4D RIM.html"  class="nodecBlack">4D RIM</a></p>
-<p id = 'nodecBlack'>TECNOLOGIA COMUNICAZIONI</p>
-
-</td>
-
-<td class = 'nodecBlack'  BGCOLOR="#FFFFD2" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/4D RIM.html"  class="nodecBlack">4D RIM</a></p>
-<p id = 'nodecBlack'>TECNOLOGIA COMUNICAZIONI</p>
+<td class = 'nodecWhite'  BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
+<p id = 'nodecWhite'><a href="../Classi/4A RIM.html"  class="nodecWhite">4A RIM</a></p>
+<p id = 'nodecWhite'>TEC. COMUNICAZIONI</p>
 
 </td>
 
-<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
-<p id = 'mathema'>&nbsp;<p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'nodecBlack'  BGCOLOR="#FFFFD2" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/4A RIM.html"  class="nodecBlack">4A RIM</a></p>
-<p id = 'nodecBlack'>TECNOLOGIA COMUNICAZIONI</p>
+<td class = 'nodecWhite'  BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
+<p id = 'nodecWhite'><a href="../Classi/4B RIM.html"  class="nodecWhite">4B RIM</a></p>
+<p id = 'nodecWhite'>TEC. COMUNICAZIONI</p>
 
 </td>
 
@@ -219,35 +245,9 @@ VEN
 
 </td>
 
-</tr>
-
-<tr >
-
-<th class='mathema' scope="row" >
-12.55
-</td>
-
-<td class = 'nodecWhite'  BGCOLOR="#FF5151" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/1B AFM.html"  class="nodecWhite">1B AFM</a></p>
-<p id = 'nodecWhite'>INFORMATICA</p>
-
-</td>
-
-<td class = 'nodecBlack'  BGCOLOR="#FFFFD2" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3B RIM.html"  class="nodecBlack">3B RIM</a></p>
-<p id = 'nodecBlack'>TECNOLOGIA COMUNICAZIONI</p>
-
-</td>
-
-<td class = 'nodecWhite'  BGCOLOR="#FF5151" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
-<p id = 'nodecWhite'><a href="../Classi/1D AFM.html"  class="nodecWhite">1D AFM</a></p>
-<p id = 'nodecWhite'>INFORMATICA</p>
-
-</td>
-
-<td class = 'nodecBlack'  BGCOLOR="#FFFFD2" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/4C RIM.html"  class="nodecBlack">4C RIM</a></p>
-<p id = 'nodecBlack'>TECNOLOGIA COMUNICAZIONI</p>
+<td class = 'nodecWhite'  BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
+<p id = 'nodecWhite'><a href="../Classi/3E RIM.html"  class="nodecWhite">3E RIM</a></p>
+<p id = 'nodecWhite'>TEC. COMUNICAZIONI</p>
 
 </td>
 
@@ -262,7 +262,25 @@ VEN
 <tr >
 
 <th class='mathema' scope="row" >
-14.15
+13.20
+</td>
+
+<td class = 'nodecBlack'  BGCOLOR="#FF70FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'><a href="../Classi/2B AFM.html"  class="nodecBlack">2B AFM</a></p>
+<p id = 'nodecBlack'>INFORMATICA</p>
+
+</td>
+
+<td class = 'nodecWhite'  BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
+<p id = 'nodecWhite'><a href="../Classi/4A RIM.html"  class="nodecWhite">4A RIM</a></p>
+<p id = 'nodecWhite'>TEC. COMUNICAZIONI</p>
+
+</td>
+
+<td class = 'nodecWhite'  BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
+<p id = 'nodecWhite'><a href="../Classi/3D RIM.html"  class="nodecWhite">3D RIM</a></p>
+<p id = 'nodecWhite'>TEC. COMUNICAZIONI</p>
+
 </td>
 
 <td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
@@ -271,27 +289,9 @@ VEN
 
 </td>
 
-<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
-<p id = 'mathema'>&nbsp;<p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'nodecBlack'  BGCOLOR="#FFFFD2" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/3A RIM.html"  class="nodecBlack">3A RIM</a></p>
-<p id = 'nodecBlack'>TECNOLOGIA COMUNICAZIONI</p>
-
-</td>
-
-<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
-<p id = 'mathema'>&nbsp;<p>
-<p id = 'mathema'>&nbsp;<p>
-
-</td>
-
-<td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
-<p id = 'mathema'>&nbsp;<p>
-<p id = 'mathema'>&nbsp;<p>
+<td class = 'nodecWhite'  BGCOLOR="#FF00FF" COLSPAN=1 ROWSPAN=1 COLOR="#FFFFFF">
+<p id = 'nodecWhite'><a href="../Classi/4C articolata RIM_TUR Gruppo TEC COM.html"  class="nodecWhite">4C articolata RIM/TUR Gruppo TEC COM</a></p>
+<p id = 'nodecWhite'>TEC. COMUNICAZIONI</p>
 
 </td>
 
@@ -300,7 +300,7 @@ VEN
 <tr >
 
 <th class='mathema' scope="row" >
-15.05
+14.20
 </td>
 
 <td class = 'mathema'  BGCOLOR="#FFFFFF"  COLSPAN=1 ROWSPAN=1>
@@ -315,9 +315,9 @@ VEN
 
 </td>
 
-<td class = 'nodecBlack'  BGCOLOR="#FFFFD2" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
-<p id = 'nodecBlack'><a href="../Classi/4B RIM.html"  class="nodecBlack">4B RIM</a></p>
-<p id = 'nodecBlack'>TECNOLOGIA COMUNICAZIONI</p>
+<td class = 'nodecBlack'  BGCOLOR="#FF70FF" COLSPAN=1 ROWSPAN=1 COLOR="#000000">
+<p id = 'nodecBlack'><a href="../Classi/2B AFM.html"  class="nodecBlack">2B AFM</a></p>
+<p id = 'nodecBlack'>INFORMATICA</p>
 
 </td>
 
@@ -336,6 +336,7 @@ VEN
 </tr>
 
 </table>
+
 
 
         </div>

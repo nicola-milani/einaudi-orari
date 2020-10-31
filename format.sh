@@ -228,6 +228,6 @@ do_replace_footer Docenti
 do_replace_footer Aule
 
           
-
+mkdir OUTPUT
 cp -r ./TMP/* ./OUTPUT/
 
